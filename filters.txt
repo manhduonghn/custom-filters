@@ -44478,7 +44478,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /adv/*$image,domain=bongdaso66.net
 /adv_out.js$third-party
 /adv_vert.js$script
-/advanced-ads-$domain=~transinfo.pl|~wordpress.org
+/advanced-ads-$script,stylesheet,domain=~transinfo.pl|~wordpress.org
 /advanced-social-widget.js
 /advbanner/*$~image
 /advbanners/*$~image
@@ -46768,6 +46768,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 148apps.com##.advnote
 1508.dk##div[class^="Cookies-module-"]
 157.90.183.248$network
+15min.lt##.share--sticky
+15min.lt,dihi.org,trutone.ca###scroll-top
 161.97.70.5,acro.police.uk,aio.media,banggood.com,contabilizei.com.br,crocoblock.com,jfservice.ru,loans-hub.com,medcentr-tula.ru,militecbrasil.com.br,museum-brandhorst.de,nasha-set.ru,onetoyshop.ru,pebmed.com.br,prenota.sanita.toscana.it,profsvar.com,restauracjaverona.pl,royalprestige.com,signum.ai,uvex-safety-shop.de,xn--80aa3ak5a.xn--p1ai,xn--b1addckdrqixje4a.xn--p1ai,xn--f1awi.xn--p1ai,zlimovel.com.br##.modal-cookie
 16bpp.net,boxy-svg.com,eso.org###privacy-notice
 177milkstreet.com##.newsletter-main-old
@@ -48916,7 +48918,7 @@ acretrader.com##acre-cookie-consent
 acs.org##.alert-banner__cookie
 acs.org##.motw-controls
 actievandedag.nl,bairesdev.com,bootstrap.academy,cloudpillo.nl,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,mymorrisons.com,natron.energy,perplexity.ai,posthog.com,vulnu.com,zealy.io##.z-50
-action.pl,cambridge.org,haber7.com,jobg8.com,rules.co.uk,safra.sg##.cookie-message
+action.pl,cambridge.org,haber7.com,jobg8.com,nomos-glashuette.com,rules.co.uk,safra.sg##.cookie-message
 actionaid.fr,animation-patrimoine-bordeaux.com,anime-store.fr,anrat.net,bnpetrole.net,centre-tao.com,com-libellule.fr,didilz.com,dimo.cat,ebox-auto.com,fantasticable.fr,ibzjobs.com,laceter.com,laurore-bourgogne.com,parisensuel.com,pierreberthe.com,ril-immo.fr,servichene.com,vwfinances.com##.rgpd
 actionnetwork.com##.cta-wrapper__child
 actionnetwork.com##.e7h0b9a0
@@ -48953,7 +48955,7 @@ addapinch.com,budgetbytes.com,diethood.com,dinnerthendessert.com,eatingonadime.c
 addgene.org##.l-dismissible-msg
 addictivetips.com###at_popup_modal
 addictivetips.com,additudemag.com,armytimes.com,biblegateway.com,biopharmadive.com,elie.net,fullfact.org,insidehook.com,moon.com,motorsportweek.com,mumbrella.com.au,reinsurancene.ws,tatemcrae.com,theafricareport.com,thecourier.co.uk,tripstodiscover.com,tubefilter.com##.signup
-addictivetips.com,automotive-fleet.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,wltreport.com##.top-banner
+addictivetips.com,argonauts.ca,automotive-fleet.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,wltreport.com##.top-banner
 addictivetips.com,coinweek.com,news365.co.za,simscommunity.info##.custom-html-widget
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
 additudemag.com##.signup-global
@@ -49044,6 +49046,8 @@ adventistworld.org,farmersweekly.co.nz##.frm_form_fields
 adventskalender-gewinnspiele.de,weihnachtsmarkt-finder.de##.shr
 adventure-team.eu,certum.eu,healthypsych.com,jbrcapital.com,mundomagicotv.com,the-cca.org,viakable.com,worldclassfitness.be##.spu-box
 adventurecu.org###StickyFooter
+adverts.ie###av_detail_side
+adverts.ie###search_results_leaderboard
 adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
 advfn.com###APS_300_X_600
 advfn.com###APS_BILLBOARD
@@ -49783,12 +49787,10 @@ andrewmarc.com,bestiloghent.dk,donnakaran.com,ghbass.com,iq.com,petalsearch.com,
 android.com,cloud.google.com,registry.google,safety.google##.glue-cookie-notification-bar
 androidadult.com##.adswait
 androidadult.com,homemoviestube.com##[href^="https://aoflix.com/Home"]
-androidauthority.com##.c_Sb
-androidauthority.com##.c_kh
+androidauthority.com##.d_3i:has-text(Latest deals)
+androidauthority.com##.d_um
 androidauthority.com##[class] > [class] > form[class]
 androidauthority.com##[data-ad-type]
-androidauthority.com##a[data-sel="dealbar-link"]
-androidauthority.com##div.d_mh:has-text(Latest deals)
 androidauthority.com#?#div[class^="-_"] > form:-abp-contains(newsletters)
 androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
 androidforums.com,audi-sport.net,broadbandforum.co,builtbybit.com,digital-eliteboard.com,forum.proxmox.com,forums.hfboards.com,head-fi.org,hobby-machinist.com,hypixel.net,styleforum.net,websleuths.com,yttalk.com##.u-bottomFixer
@@ -50131,6 +50133,7 @@ arenaev.com,gsmarena.com###subHeader
 arenamall.hu###cp-bg
 arenamall.hu###cp-content
 argaam.com##.argaam-policy
+argonauts.ca,cfl.ca##.footer1
 argos.co.uk##[class^="styles__LazyHydrateCard"]:has([class*="ProductCardstyles__FlyoutBadge"])
 argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
 argos.co.uk##[data-testid="citrus_products-carousel"]
@@ -51487,6 +51490,7 @@ blog.logto.io##._subscribe_pm84d_312
 blog.mega-energie.fr,filmotecadecine.com,meuhyundai.com.br,softwaretogo.de##.modalCookies
 blog.nationalmuseum.ch##.snm-newsletter-subscription
 blog.nightly.mozilla.org###newsletter-subscribe
+blog.oup.com###cookie-notice
 blog.oup.com,christiantoday.co.nz,christiantoday.com.au,faithpot.com,heatmap.news,infoq.com,mamamia.com.au,onmilwaukee.com,oversixty.co.nz,paloaltonetworks.com,save.ca,theenergymix.com##.subscribe-box
 blog.payara.fish##.hs-form-private
 blog.phylum.io,newyorker.com##.subscription-form
@@ -52624,7 +52628,6 @@ cerit.it,meteoeradar.it##.active
 cernilov.cz##.userSettings
 cervelo.com##.eSJQoN
 ceske-sjezdovky.cz##form[style^="display:block;position: fixed;"]
-cfl.ca##.footer1
 cfoc.org###top_custom_banner
 cfoc.org##.su-button-style-glass
 cfr.org##.newsletter-form-article
@@ -52926,8 +52929,8 @@ citigroup.com,clearscore.com,voguescandinavia.com##div[class^="cookieNot"]
 citilink.ru##.PersonalDataConfirm
 citizen.co.za###whatsapp-widget
 citizen.co.za##.newsletter-subscription-cta-wrapper
-citizen.com##.cc--anim
 citizen.com##.get-modal.modal
+citizen.com,gagosian.com##.cc--anim
 citizen.digital##.mid-article-ad
 citizen.digital##.socilamedia-share-btns
 citizensforethics.org###a11y-dialog
@@ -54745,7 +54748,6 @@ diglloyd.com,windinmyface.com##.placementTR
 digminecraft.com###c1069c34
 digminecraft.com##.bccace1b
 digminecraft.com##.cf47a252
-dihi.org,trutone.ca###scroll-top
 dihslovenia.si,komunala-mozirje.si##.md-cookies
 dihslovenia.si,komunala-mozirje.si##.md-overlay
 dikidi.net#@#.item-shares
@@ -56715,6 +56717,7 @@ forbesenespanol.com##[data-toast="f_cookies_acepted"]
 forbesindia.com##.artical-controls
 forbestravelguide.com###cookiePolicyWrap
 forced-tube.net,hqasianporn.org##.coverup
+forcesfamiliesjobs.co.uk,lumijobs.com###cookienotice_notice
 ford-diermeier-muenchen.de,ford-kt-automobile-coesfeld.de,ford-nrw-garage-duesseldorf.de,ford-strunk-koeln.de,ford-weege-bad-salzuflen.de#@##gdpr-bar
 ford-diermeier-muenchen.de,ford-kt-automobile-coesfeld.de,ford-nrw-garage-duesseldorf.de,ford-strunk-koeln.de,ford-weege-bad-salzuflen.de#@#.gdpr-banner
 ford-diermeier-muenchen.de,ford-kt-automobile-coesfeld.de,ford-nrw-garage-duesseldorf.de,ford-strunk-koeln.de,ford-weege-bad-salzuflen.de#@#.gdpr-banner-wrapper
@@ -56961,6 +56964,9 @@ freethesaurus.com###qk2
 freethesaurus.com###qk5
 freethink.com##.f-block--form-text
 freethink.com#?#.bg-gray-100:-abp-contains(Sign up)
+freethoughtnow.org##.eael-ext-scroll-to-top-wrap
+freethoughtnow.org##.elementor-widget-container > h2:has-text(Please share)
+freethoughtnow.org,weisradio.com##.elementor-widget-share-buttons
 freevector.com##.app-footer
 freewebarcade.com##.pnum
 freewebarcade.com##.rsads
@@ -61402,7 +61408,6 @@ luisaviaroma.com##._vgSl0cx4ao
 luisaviaroma.com##.privacy-box
 lula.com.br##.share-bt
 lumendatabase.org,thebodyshop.com##.first-time-visitor
-lumijobs.com###cookienotice_notice
 luminskin.com##.css-1w0y2es
 luna.amazon.co.uk,luna.amazon.de###cookie_consent_dialog
 lung.org##.modaal-overlay
@@ -64603,6 +64608,7 @@ pelican.com###slide-up-container
 pendix.de##.px-consent-dialog
 pendix.dk##.cc-dialog
 pendleton-usa.com###consentTracking
+penguinrandomhouse.com##.privacy_prompt
 pennlive.com##.module__promo
 pensioenleeftijdberekenen.nl###ckpol
 pensioenschoonmaak.nl###cwet-wrapper
@@ -68084,6 +68090,7 @@ stuff.co.nz##.feedback-link-wrapper
 stuff.co.nz##.stuff-article-sharebar
 stuff.co.nz##.supporter-wrapper
 stuff.co.nz##.tik4-sharing
+stuff.co.nz##.widget-block.content-slot:has-text(Share)
 stuff.co.nz#?#.common-html-frame.html-content:-abp-contains(how much)
 stuff.co.nz#?#.restricted-body.html-content:-abp-contains(Email us)
 stuff.co.nz#?#.restricted-body.html-content:-abp-contains(your inbox)
@@ -69138,7 +69145,6 @@ thejc.com##.subscribe__footer
 thejewishstar.com##.toplinks
 thejournal-news.net##.container.lightblue
 thejournal.ie###contribution-prompt-overlay
-thejournal.ie###nativeads-sponsorbar-touch-redesign
 thejournal.ie###sticky-share-button-redesign
 thejournal.ie##.contribution-prompt
 thejournal.ie##.social-container-redesign
@@ -71459,7 +71465,6 @@ wehkamp.nl##.position-fixed
 weinkenner.de##.sib_signup_form
 weinzeche.de##.container-cookieconsent
 weisradio.com###block-37
-weisradio.com##.elementor-widget-share-buttons
 weisradio.com##.wp-image-931153
 welcome.sparxmaths.uk##footer
 welcometothejungle.com##.axeptio_mount
@@ -72774,6 +72779,7 @@ zylom.com###headerbar_privacy
 ||18tlm4jee.de^
 ||19009143.xyz^$document,popup
 ||19199675.xyz^$document,popup
+||1932195014.rsc.cdn77.org^
 ||194.26.232.61^
 ||19515bia.de^
 ||19706903.xyz^$document,popup
@@ -73694,6 +73700,7 @@ zylom.com###headerbar_privacy
 ||814272c4.xyz^$document,popup
 ||81438456aa.com^
 ||817dae10e1.com^
+||81c875a340.com^
 ||828af6b8ce.com^
 ||831xmyp1fr4i.shop^
 ||83409127.xyz^$document,popup
@@ -75264,6 +75271,7 @@ zylom.com###headerbar_privacy
 ||adtrue.com^
 ||adtrue24.com^
 ||adtscriptduck.com^
+||adttmsvcxeri.com^
 ||adtube.media^
 ||aduld.click^
 ||aduld.click^$popup
@@ -76794,6 +76802,7 @@ zylom.com###headerbar_privacy
 ||aqua-adserver.com^$third-party
 ||aquentlytujim.com^
 ||aquete.com^$popup
+||aqxme-eorex.site^
 ||arabicpostboy.shop^
 ||araifourabsa.net^
 ||aralego.com^
@@ -78515,6 +78524,7 @@ zylom.com###headerbar_privacy
 ||bhlph.com^
 ||bhohazozps.com^
 ||bhotiyadiascia.com^
+||bhqbirsac.site^
 ||bhqfnuq.com^
 ||bhqvi.com^
 ||bhwfvfevnqg.com^
@@ -79768,6 +79778,7 @@ zylom.com###headerbar_privacy
 ||byzoruator.com^
 ||bzamusfalofn.com^
 ||bzniungh.com^
+||bzoodfalqge.online^
 ||bzwo2lmwioxa.com^
 ||bzydilasq.com^
 ||c-on-text.com^$third-party
@@ -81215,6 +81226,7 @@ zylom.com###headerbar_privacy
 ||cloudypotsincluded.com^
 ||cloufdlare.com/ads/vn1.html$subdocument,domain=vl.phe.to
 ||cloutlavenderwaitress.com^
+||clovhmweksy.buzz^
 ||clpeachcod.com^
 ||clrpdhptoddatj49.pro^$third-party
 ||clrstm.com^
@@ -82547,6 +82559,7 @@ zylom.com###headerbar_privacy
 ||cvxwaslonejulyha.info^
 ||cwchmb.com^
 ||cwn0drtrk.com^$popup
+||cwoapffh.com^
 ||cwqljsecvr.com^
 ||cwrxuozprxkii.com^
 ||cwuaxtqahvk.com^
@@ -86073,6 +86086,7 @@ zylom.com###headerbar_privacy
 ||eontent.powzerz.lol^
 ||eontent.powzerz.lol^$popup
 ||eopleshouldthink.info^
+||eoqmbnaelaxrg.com^
 ||eoredi.com^
 ||eosads.com^
 ||eoveukrnme.info^
@@ -86207,6 +86221,7 @@ zylom.com###headerbar_privacy
 ||esescvyjtqoda.xyz^
 ||eshkol.io^
 ||eshkol.io^$popup
+||eshkol.one^
 ||eshkol.one^$popup
 ||eshoohasteeg.com^
 ||eshouloo.net^
@@ -86290,6 +86305,7 @@ zylom.com###headerbar_privacy
 ||etxt.biz/images/b/
 ||etymonsibycter.com^
 ||etypicthawier.shop^
+||eu-soaxtatl.life^
 ||eu5qwt3o.beauty^
 ||eu5qwt3o.beauty^$popup
 ||euauosx.xyz^
@@ -87347,6 +87363,7 @@ zylom.com###headerbar_privacy
 ||flaminglamesuitable.com^
 ||flamtyr.com^
 ||flannelbeforehand.com^
+||flanneldatedly.com^
 ||flannellegendary.com^
 ||flapsoonerpester.com^
 ||flarby.com^
@@ -87582,6 +87599,8 @@ zylom.com###headerbar_privacy
 ||footar.com^
 ||footballtradedirectory.com/images/pictures/banner/
 ||footcomefully.com^
+||foothoaglous.com^
+||foothoaglous.com^$popup
 ||foothoupaufa.com^
 ||footnote.com^
 ||footprintsfurnish.com^
@@ -88088,6 +88107,7 @@ zylom.com###headerbar_privacy
 ||fv.togataurnfuls.com^
 ||fvckeip.com^
 ||fvgxfupisy.com^
+||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
 ||fwbejnuplyuxufm.xyz^
 ||fwbntw.com^
@@ -90858,6 +90878,7 @@ zylom.com###headerbar_privacy
 ||humandiminutionengaged.com^
 ||humandiminutionengaged.com^$popup
 ||humatecortin.com^
+||humbleromecontroversial.com^
 ||humiliatemoot.com^
 ||humilityslammedslowing.com^
 ||humix.com/video.js
@@ -92429,6 +92450,7 @@ zylom.com###headerbar_privacy
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
 ||jellyprehistoricpersevere.com^
+||jelokeryevbyy.top^
 ||jelokeryevrmz.top^
 ||jemonews.com^
 ||jeniz.xyz^
@@ -93749,6 +93771,7 @@ zylom.com###headerbar_privacy
 ||ldrendreaming.info^
 ||ldthinkhimun.com^
 ||lduhtrp.net^
+||leachysubarch.shop^
 ||lead1.pl^
 ||leadadvert.info^
 ||leadback.ru/sounds/$media
@@ -94766,6 +94789,7 @@ zylom.com###headerbar_privacy
 ||lylufhuxqwi.com^$document
 ||lymckensecuryren.org^
 ||lymphydodged.top^
+||lyncherpelitic.com^
 ||lyonthrill.com^
 ||lyricalattorneyexplorer.com^
 ||lyricaldefy.com^
@@ -95661,6 +95685,7 @@ zylom.com###headerbar_privacy
 ||midpopedge.com^
 ||midstconductcanned.com^
 ||midstrelate.com^
+||midstsquonset.com^
 ||midstwillow.com^
 ||midtermbuildsrobot.com^
 ||midwifelangurs.com^
@@ -100439,6 +100464,7 @@ zylom.com###headerbar_privacy
 ||pon-prairie.com^
 ||pon-prairie.com^$popup
 ||pondov.cfd^
+||ponieqldeos.com^
 ||ponk.pro^
 ||ponk.pro^$popup
 ||pons.com/assets/javascripts/modules-min/ad-utilities_
@@ -104865,6 +104891,7 @@ zylom.com###headerbar_privacy
 ||sgad.site^
 ||sgad.site^$document
 ||sgbm.info^$third-party
+||sgfinery.com^
 ||sgfsdvc.com^
 ||sggp.org.vn/*banner
 ||sgihava.com^
@@ -104991,6 +105018,7 @@ zylom.com###headerbar_privacy
 ||shehikj.com^
 ||sheinsz.ltwebstatic.com/she_dist/assets/backup-onetrust.$script,domain=shein.co.uk
 ||shelfoka.com^
+||shelourdoals.net^
 ||sheltermilligrammillions.com^
 ||shelveflang.click^
 ||shemalenova.com/smn/banners/
@@ -105263,6 +105291,7 @@ zylom.com###headerbar_privacy
 ||simplyhired.com^$third-party
 ||simplyscepticaltoad.com^
 ||simpunok.com^
+||simurgmugged.com^
 ||sincalled.com^
 ||sincenturypro.org^
 ||sincerelyseverelyminimum.com^
@@ -106580,6 +106609,7 @@ zylom.com###headerbar_privacy
 ||stopadblocker.com^$popup
 ||stopadzblock.net^$popup
 ||stopaggregation.com^
+||stopapaumari.com^
 ||stopblockads.com^$popup
 ||stopformal.com^
 ||stophurtfulunconscious.com^
@@ -107998,6 +108028,7 @@ zylom.com###headerbar_privacy
 ||thongtechnicality.com^
 ||thoocheegee.xyz^
 ||thoohizoogli.xyz^
+||thookraughoa.com^
 ||thoorest.com^
 ||thoorgins.com^
 ||thoorteeboo.xyz^
@@ -108119,6 +108150,7 @@ zylom.com###headerbar_privacy
 ||tiglonhominy.top^
 ||tignuget.net^
 ||tignuget.net^$popup
+||tigroulseedsipt.net^
 ||tiktakz.xyz^
 ||tilesmuzarab.com^
 ||tillertag-a.akamaihd.net^
@@ -111973,6 +112005,7 @@ zylom.com###headerbar_privacy
 ||wonfigfig.com^
 ||wongahmalta.com^
 ||wongnai.com/_api/consents/
+||wonigiwurtounsu.xyz^
 ||wonkychickens.org/data/statics/s2g/$domain=torrentgalaxy.to
 ||wonnauseouswheel.com^
 ||wooballast.com^
@@ -112263,6 +112296,7 @@ zylom.com###headerbar_privacy
 ||wyeczfx.com^
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
+||wyjjqoqlfjtbbr.com^
 ||wyjkqvtgwmjqb.xyz^
 ||wykop.pl/dataprovider/diggerwidget/$third-party
 ||wymymep.com^
