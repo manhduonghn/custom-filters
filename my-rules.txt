@@ -1,7 +1,5 @@
 ||phimmoichill.biz^*gif
 ||phimmoichill.biz/newchill/$image
-||raw.githubusercontent.com/laven9696/viadss.github.io/main/$media
-||raw.githubusercontent.com/*/hic.github.io/main/$media
 ||truyensextv1.com/anh/
 ios.codevn.net##.swal2-show.swal2-icon-error
 ios.codevn.net##.swal2-backdrop-show
@@ -72,3 +70,10 @@ bongdaplus.vn##.mix-tags
 bongdaplus.vn##div.clx:nth-of-type(16)
 bongdaplus.vn##div.clz:nth-of-type(7)
 bongdaplus.vn##div.clx:nth-of-type(13)
+animevietsub.cx##.announcement
+animevietsub.cx##.ann_text
+animevietsub.cx##.header-ads-mobile
+animevietsub.cx##.notif-300
+animevietsub.cx##main > .fbcmt
+animevietsub.cx##.alert-info.alert
+animevietsub.cx##.schedule-title-main
