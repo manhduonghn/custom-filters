@@ -41406,7 +41406,6 @@
 ##.when-show-ads
 ##.whoShare
 ##.whtapp-web
-##.whtspp_share
 ##.wi-cookie-banner
 ##.wide-ad
 ##.wide-ad-container
@@ -41457,10 +41456,7 @@
 ##.widget-advert-970
 ##.widget-advertisement
 ##.widget-ahsocial
-##.widget-altervista-social
 ##.widget-article-follow
-##.widget-author__socials
-##.widget-cardoza-fb-like
 ##.widget-consent
 ##.widget-consent-dialog
 ##.widget-cookie
@@ -41471,8 +41467,6 @@
 ##.widget-easy-twitter-feed-widget-container
 ##.widget-email-cta
 ##.widget-embed.newsletter
-##.widget-facebook-timeline
-##.widget-fb-recommendations
 ##.widget-feedburner
 ##.widget-follow
 ##.widget-follow-us
@@ -41568,18 +41562,13 @@
 ##.widget_armonioso_social_icons
 ##.widget_arvins_ad_randomizer
 ##.widget_awaken_pro_medium_rectangle_ad
-##.widget_be_widget_social_follow
 ##.widget_better-ads
 ##.widget_better-social-counter
-##.widget_bimber_widget_facebook_page
 ##.widget_blog_subscription
 ##.widget_boombox_social
 ##.widget_bs-likebox
 ##.widget_bs-newsletter-mailchimp
 ##.widget_bs-subscribe-newsletter
-##.widget_cbs_follow_us_widget
-##.widget_cbs_social_share_widget
-##.widget_cf_social_media_widget
 ##.widget_coala-widget-cookie_banner
 ##.widget_com_ad_widget
 ##.widget_connect-social
@@ -41594,7 +41583,6 @@
 ##.widget_customad_widget
 ##.widget_customadvertising
 ##.widget_dfp
-##.widget_do_shortcode_instagram_widget
 ##.widget_doubleclick_widget
 ##.widget_dpsp_social_media_follow
 ##.widget_easy_facebook_page_plugin
@@ -49705,15 +49693,8 @@ animetrilogy.com,xcalibrscans.com###close-teaser
 animetvn4.com##.gnarty-offads
 animevietsub.cx###invideo_wrapper
 animevietsub.cx##.Ads
-animevietsub.cx##.alert-info.alert
-animevietsub.cx##.ann_text
-animevietsub.cx##.announcement
-animevietsub.cx##.header-ads-mobile
 animevietsub.cx##.mobile-catfixx
-animevietsub.cx##.notif-300
 animevietsub.cx##.pc-catfixx
-animevietsub.cx##.schedule-title-main
-animevietsub.cx##main > .fbcmt
 animew.info##div.py-2.md\:py-6.mx-auto.w-full.max-w-screen-3xl>div.relative
 animeworld.tv##.social-aw
 aninews.in,devdiscourse.com,footballorgin.com,gadgets360.com,justthenews.com,ndtv.com,oneindia.com,wionews.com,zeebiz.com###parentDiv0
@@ -64659,14 +64640,6 @@ phimmoi.club,motphimww.net,tvphim.li##.module_home_ads
 phimmoi.tuphim.net###adsTopInPageBanner
 phimmoi.tuphim.net##.adsContainer
 phimmoi.tuphim.net##.header__auth>.details__devices-list
-phimmoichill.biz###chilladv
-phimmoichill.biz###download
-phimmoichill.biz###headermbads
-phimmoichill.biz###headerpcads
-phimmoichill.biz###mobiads
-phimmoichill.biz###pcads
-phimmoichill.biz##.off-ads
-phimmoichill.biz,hayghe.pro,gocphimz.net###pmadv
 phimmoichilltv.net###pm_quangcao
 phimmoichillz.my###preload
 phimmoinay.info,phimmoissz.pro,tvzinghd.co##.sda-catfish
@@ -99764,8 +99737,6 @@ zylom.com###headerbar_privacy
 ||phimhdctv.com$csp=script-src 'self' 'unsafe-inline' https:
 ||phimhdctv.com^*.gif$image
 ||phimmoi.ing/js/ads.js$script
-||phimmoichill.biz/newchill/$image
-||phimmoichill.biz^*gif
 ||phimmoichilltv.net/newchill/$script,~third-party
 ||phimmoichillz.my/pop$image
 ||phimmoichillz.my^*.gif$image
@@ -109045,7 +109016,6 @@ zylom.com###headerbar_privacy
 ||truyenconect.com/uploads/*-truyenconect_com-*.
 ||truyensextv.com/anh/$image
 ||truyensextv.com^*.gif
-||truyensextv1.com/anh/
 ||truyentuan.xyz/wp-content/banners
 ||truyentuan.xyz/wp-content/themes/nos/js/pop-before.js
 ||truyentuan.xyz^$subdocument,~third-party
