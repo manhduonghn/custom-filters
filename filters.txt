@@ -21339,6 +21339,7 @@
 ##.ba-cookies
 ##.ba_cookie_bar
 ##.ba_popup_cookie
+##.babel_player_block
 ##.back-to-top-btn
 ##.back-to-top-button
 ##.back-to-top-container
@@ -44888,7 +44889,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 247solitaire.com,247spades.com##div[class^="aspace-"]
 247sports.com##.minutely-wrapper
 247sports.com##.social-media-list
-247sports.com,4029tv.com,abovethelaw.com,aeon.co,asmartbear.com,blackburnnews.com,bookriot.com,christianitytoday.com,citiblog.co.uk,citusdata.com,citynews.ca,click2houston.com,clickorlando.com,cockroachlabs.com,creation.com,currentaffairs.org,dailybee.com,dailysignal.com,dallasinnovates.com,euobserver.com,feadship.nl,fox10phoenix.com,fox13news.com,fox13seattle.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox6now.com,fox7austin.com,fox9.com,foxla.com,frommers.com,hedgehogreview.com,hiphopdx.com,japantimes.co.jp,jta.org,kantinepraat.nl,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,komando.com,ksbw.com,ktvu.com,livescience.com,local10.com,motherjones.com,mynbc5.com,nbc-2.com,newsweek.com,progressive.org,propublica.org,publicdomainreview.org,q13fox.com,readbetting.com,readcars.co,readceltic.com,readfashion.co,readfilm.co,readfood.co,readgaming.co,readmanutd.com,readmotorsport.com,readmusic.co,readshowbiz.co,readtv.co,samvirke.dk,san.com,slate.com,sportsworldnews.com,tastecooking.com,techfinitive.com,thebeliever.net,thekitchenmagpie.com,tn.com.ar,tomsguide.com,toofab.com,tvtropes.org,undark.org,venturebeat.com,voetbalverslaafd.nl,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,womanandhome.com,wpbf.com,wqxr.org,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.newsletter-signup
+247sports.com,4029tv.com,abovethelaw.com,aeon.co,asmartbear.com,blackburnnews.com,bookriot.com,christianitytoday.com,citiblog.co.uk,citusdata.com,citynews.ca,click2houston.com,clickorlando.com,cockroachlabs.com,creation.com,currentaffairs.org,dailybee.com,dailysignal.com,dallasinnovates.com,euobserver.com,feadship.nl,fox10phoenix.com,fox13news.com,fox13seattle.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox6now.com,fox7austin.com,fox9.com,foxla.com,freedom.press,frommers.com,hedgehogreview.com,hiphopdx.com,japantimes.co.jp,jta.org,kantinepraat.nl,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,komando.com,ksbw.com,ktvu.com,livescience.com,local10.com,motherjones.com,mynbc5.com,nbc-2.com,newsweek.com,progressive.org,propublica.org,publicdomainreview.org,q13fox.com,readbetting.com,readcars.co,readceltic.com,readfashion.co,readfilm.co,readfood.co,readgaming.co,readmanutd.com,readmotorsport.com,readmusic.co,readshowbiz.co,readtv.co,samvirke.dk,san.com,slate.com,sportsworldnews.com,tastecooking.com,techfinitive.com,thebeliever.net,thekitchenmagpie.com,tn.com.ar,tomsguide.com,toofab.com,tvtropes.org,undark.org,venturebeat.com,voetbalverslaafd.nl,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,womanandhome.com,wpbf.com,wqxr.org,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.newsletter-signup
 247wallst.com##.byline-social
 247wallst.com##.section-email-sub
 247wallst.com,cubdomain.com##.hello-bar
@@ -45047,7 +45048,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 5230.com.tw,china-motor.com.tw,gem-man.com.tw,longchain.com.tw,mitsubishi-motors.com.tw###cmc8007
 53.com#@##ad-rotator
 560theanswer.com##.aptivada-widget
-560theanswer.com,abconcerts.be,adbro.com,bitstamp.net,cecotec.es,congeo.nl,doaj.org,faberlic.com,forcepoint.com,geeksforgeeks.org,heinz.st,inleed.se,letsgomartin.com,merosch.nl,mutualart.com,niaiu.pl,noor-book.com,peoplematters.in,plmxpert.nl,podcast.de,pukkelpop.be,sodutch.nl,springaqua.com,toneelhuis.be,trafficstars.com,truyenyy.vip,truyenyy.xyz,twinsfun.com,vinkkoeltechniek.com,webhallen.com,werkenbijversluis.nl##.cookie-consent
+560theanswer.com,abconcerts.be,adbro.com,bitstamp.net,cecotec.es,congeo.nl,doaj.org,faberlic.com,forcepoint.com,geeksforgeeks.org,group.softbank,heinz.st,inleed.se,letsgomartin.com,merosch.nl,mutualart.com,niaiu.pl,noor-book.com,peoplematters.in,plmxpert.nl,podcast.de,pukkelpop.be,sodutch.nl,springaqua.com,toneelhuis.be,trafficstars.com,truyenyy.vip,truyenyy.xyz,twinsfun.com,vinkkoeltechniek.com,webhallen.com,werkenbijversluis.nl##.cookie-consent
 57.128.71.215$network
 5movierulz.band,populist.press###text-2
 5pillarsuk.com,babeltechreviews.com,cybersecuritynews.com,sonorannews.com,techviral.net,thestonedsociety.com,weekendspecial.co.za##.td-header-sp-recs
@@ -45942,6 +45943,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||infotel.ca/images/ads/$image,~third-party
 @@||infotop.jp/html/ad/$image,~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
+@@||inporn.com/*/embed.js$script,~third-party
 @@||inscience.news/svc/getscript.aspx$script,~third-party
 @@||insider-inc.com^$generichide
 @@||insiderintelligence.com^$generichide
@@ -47215,7 +47217,7 @@ afterdawn.com##.ni_box
 afterdawn.com,download.fi,edukas.fi#@##ad-top-banner-placeholder
 aftermath.site##.NewsletterSignup_wrapper__rmf2c
 aftermath.site,defector.com##.ContentGate_wrapper__tNtjt
-afternic.com###gtm_privacy
+afternic.com,sucuri.net###gtm_privacy
 afto.al,frs-elbfaehre.de,frs-helgoline.de,frs-portugal.pt,frs-shipmanagement.eu,frs-syltfaehre.de,frs.world,fwol.de,reederei-hiddensee.de,weisse-flotte.de##.cookie-hint
 aftvnews.com,baptistnews.com,calmatters.org,cartoonbrew.com,jta.org,thefrisc.com,usmagazine.com,washingtoncitypaper.com,washingtoninformer.com##.sharedaddy
 aga-clinic-experience.jp#@##ad_top
@@ -48259,6 +48261,7 @@ arkansasonline.com##.dml-wrapper
 arkone.co.uk,bristonhorseshoes.co.uk,norfolkmead.co.uk###cookiedialogmini
 arksurvivalevolved.zone##.userNotice
 arlettie.com##.gCKAuc
+arlingtoncemetery.mil,dedriefonteinen.be,globalfamilydoctor.com,glyn.com,grundstueckspreise.info,habibbank.com,happypenguin.altervista.org,junkmail.co.za,krungsri.com,meteo.fvg.it,mtn.ng,selgros24.pl,thegrangesurgery.webgp.com,thewolfsound.com,trbchemedica.co.uk###cookieModal
 armdocs.com##.disclaimer-notice
 armeniasputnik.am,noticiabrasil.net.br,spnfa.ir,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-ossetia.com,sputnik.af,sputnik.az,sputnik.by,sputnik.kg,sputnik.kz,sputnik.tj,sputnikarabic.ae,sputnikglobe.com,sputniknews.africa,sputniknews.cn,sputniknews.com,sputniknews.com.tr,sputniknews.in,sputniknews.jp,sputniknews.lat,sputniknews.ru,sputniknews.uz,sputniknews.vn,sputniknewsbr.com.br,sputnikportal.rs##.article__news-services-subscribe
 armenpress.am###topbnnr
@@ -49693,9 +49696,9 @@ bluetti.jp###dynamic-react-root + div:has(> div.needsclick input[id^="email_"])
 bluewin.ch##.ads-group
 blunote.it##.ft-social-list
 blunote.it,brindisimagazine.it,fiorentinanews.com,fiorentinauno.com,monza-news.it,pianetalecce.it,salernogranata.it,tuttosporttaranto.com##.social-sharers
-bluphim2.com###ads-1xbet-catfish
-bluphim2.com###popup-1720497466
-bluphim2.com##.container>div[style^="height: 228px"]
+bluphim3.com###ads-1xbet-catfish
+bluphim3.com###popup-1720497466
+bluphim3.com##.container>div[style^="height: 228px"]
 bluradio.com,caracoltv.com##.ArticlePage-google-news
 bluray-disc.de##.daily-newsletter-anmeldung_r
 bmartigrafiche.it##.main-container-cookie-banner
@@ -52619,7 +52622,6 @@ decrypt.co#?#span:-abp-contains(AD)
 decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 decrypt.day##div[class*="content"] center.w-full
 decrypterlenergie.org###alert-mention
-dedriefonteinen.be,globalfamilydoctor.com,glyn.com,grundstueckspreise.info,habibbank.com,happypenguin.altervista.org,junkmail.co.za,krungsri.com,meteo.fvg.it,mtn.ng,selgros24.pl,thegrangesurgery.webgp.com,thewolfsound.com,trbchemedica.co.uk###cookieModal
 deeditor.com##.ant-alert
 deejay.it##.social-launch
 deep-edge.net,forums.digitalspy.com,marketwatch.com#@#.has-ad
@@ -55224,7 +55226,7 @@ freeseotoolbox.net##.sideXd
 freespoke.com##.home-page-message
 freesvg.org##.footer-social-big
 freesvg.org##.sponsored-main-detail
-freesvg.org,rainn.org#@#.footer-social
+freesvg.org,giro.com,rainn.org#@#.footer-social
 freethesaurus.com###qk1
 freethesaurus.com###qk2
 freethesaurus.com###qk5
@@ -63998,6 +64000,7 @@ proofpoint.com##.sharethis_toolbox
 propay.be##.accept_cookies_wrapper
 propb.ru##.cooke
 propellermann.de,wg-elbtal.de##.cw_ov
+property24.com##.p24_tileContainer:has([src^="/Content/images/Optimized/Icons/icon_tag_highlight.svg?"])
 property24.com#?#.p24_tileContainer:-abp-contains(Sponsored)
 propertyguru.com.my##.cookie-banner-section-root
 propertyshark.com###google-ads-directoryViewRight
@@ -68561,6 +68564,7 @@ tripadvisor.com##.ZkqhQ
 tripadvisor.com#?#.cAWGu:-abp-has(a:-abp-contains(Similar Sponsored Properties))
 tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
 tripadvisor.com#?#[aria-label="Map marker"]:-abp-contains(Sponsored)
+tripadvisor.com#?#[data-test="SL_list_item"]:-abp-contains(Sponsored)
 tripolo.pl###miastoszkolen
 tripsavvy.com##.subscription-island--home
 tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)
@@ -70533,7 +70537,7 @@ www.saostar.vn##.d-flex.justify-content-between>div>div.d-flex.justify-content-a
 www.saostar.vn##.pc-top
 www.saostar.vn##.top-ads-16x9
 www.thuocbietduoc.com.vn###neo-right-ads
-www.toptruyentv.pro,doctruyen3qui3.pro##.advertisement
+www.toptruyentv2.pro,doctruyen3qui3.pro##.advertisement
 www.vietjack.com###download_appnew
 www.vietjack.com##.box-most-viewed.box-course.box-slide
 www.vietjack.com##div.ads_ads
@@ -75943,6 +75947,7 @@ zylom.com###headerbar_privacy
 ||attributedrelease.com^
 ||attritioncombustible.com^
 ||atttkaapqvh.com^
+||attuneuvito.com^
 ||atube.xxx/static/js/abb.js
 ||atv.pe/wp-content/plugins/ned-cookies-form/
 ||atwola.com^
@@ -87105,6 +87110,7 @@ zylom.com###headerbar_privacy
 ||generousfilming.com^
 ||genesismedia.com^
 ||geneticesteemreasonable.com^
+||geneurawipers.com^
 ||genfpm.com^
 ||geniad.net^
 ||genieedmp.com^
@@ -88413,6 +88419,7 @@ zylom.com###headerbar_privacy
 ||hajecurie.shop^
 ||hajoopteg.com^
 ||hakqkhtlav.com^
+||hakurei.cdnbo.org^
 ||half-concert.pro^
 ||halfhills.co^$popup
 ||halfpriceozarks.com^
@@ -89907,7 +89914,6 @@ zylom.com###headerbar_privacy
 ||imediacrew.club^$third-party
 ||imeto.site^
 ||img-load.com^$document,popup
-||img.buomtv.vip/palivn/ad/$image,domain=www.buomtv.io
 ||img.congdongmassage.com/banner/$image,domain=congdongmassage.com
 ||img.fark.net/pub/$third-party
 ||img.iketqua.com^*.gif$image
@@ -90665,6 +90671,7 @@ zylom.com###headerbar_privacy
 ||issomeoneinth.info^
 ||issomeoneinth.info^$popup
 ||issuedindiscreetcounsel.com^
+||isteetashy.com^
 ||istkechaukrguk.com^
 ||istlnkbn.com^
 ||istlnkcl.com^$popup
@@ -92749,7 +92756,6 @@ zylom.com###headerbar_privacy
 ||linkredirect.biz^
 ||linkredirect.biz^$popup
 ||linkreferral.com^
-||links.duckduckgo.com/d.js?q=
 ||links2revenue.com^$third-party
 ||linksecurecd.com^
 ||linkshare.pro/img/btc.gif
@@ -99881,6 +99887,7 @@ zylom.com###headerbar_privacy
 ||psoamaupsie.net^
 ||psoanoaweek.net^
 ||psoansumt.net^
+||psoaphorsoa.com^
 ||psoasusteech.net^
 ||psockapa.net^
 ||psockapa.net^$document
@@ -101800,6 +101807,7 @@ zylom.com###headerbar_privacy
 ||ridingdisguisessuffix.com^
 ||ridleward.info^
 ||ridmilestone.com^
+||riedrused.com^
 ||riffingwiener.com^
 ||rifjhukaqoh.com^
 ||rifjynxoj-k.vip^
@@ -102571,6 +102579,7 @@ zylom.com###headerbar_privacy
 ||saltpairwoo.live^
 ||saltpairwoo.live^$popup
 ||saltsarchlyseem.com^
+||saltsmute.com^
 ||saltsupbrining.com^
 ||salutationpersecutewindows.com^
 ||salvador24.com^$third-party
@@ -104838,7 +104847,7 @@ zylom.com###headerbar_privacy
 ||stbeautifuleedeha.info^
 ||stbm.it/utility-fe/prod/general/network.common.v2.js
 ||stbvip.net^
-||stc02bc54661548.cloud.anycastapnic.com^*gif$image,domain=gavang3.link
+||stc02bc54661548.cloud.anycastapnic.com^*gif$image,domain=gavang2.uk
 ||stdirection.com^
 ||steadilyearnfailure.com^
 ||steadydonut.com^
@@ -105613,6 +105622,7 @@ zylom.com###headerbar_privacy
 ||szreismz.world^
 ||t.ajrkm.link^$third-party
 ||t.atmng.io^$third-party
+||t.babelmedia.global^$third-party
 ||t.c-c.one/b/
 ||t.c-c.one/z/
 ||t.co^$popup,domain=hltv.org
