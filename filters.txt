@@ -17996,7 +17996,6 @@
 ##.ad_horizontal
 ##.ad_hover_href
 ##.ad_iframe2
-##.ad_image
 ##.ad_img
 ##.ad_imgae_150
 ##.ad_in_article
@@ -29635,7 +29634,6 @@
 ##.img-social
 ##.imgShare
 ##.img__sharer
-##.img_ad
 ##.img_ads
 ##.img_pin_button
 ##.imgad
@@ -42544,7 +42542,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /assets/ads/*$~image,domain=~outlook.live.com
 /assets/bn/movie.jpg$image,domain=vidstream.pro
 /assets/gdpr/*
-/assets/js/vast.js$script,domain=~phevkl.vin|~viet69.fans
+/assets/js/vast.js$script,domain=~phevkl.icu|~viet69.fans
 /assets/kwkuni.js
 /assets/www/notification.
 /asyncjs.php$script
@@ -43418,7 +43416,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ht_cookielaw.js
 /hustle/assets/hustle-ui/js/hustle-ui.min.js
 /hw-cookie-consent/latest/embed.js
-/i.imgur.com/*.gif$domain=keonhacai55.chat|www.motchill78.com|www.phimdinhcao.online|aluminiuminsider.com|veboxi.cc|cakhiavx.cc|listnhacai88.com|cmsri.org|xemtivingon.org|mitomtvt.cc|rakhoivc.cc|plcdn.xyz
+/i.imgur.com/*.gif$domain=keonhacai55.chat|www.motchill78.com|www.phimdinhcao.online|aluminiuminsider.com|veboxi.cc|cakhiavx.cc|listnhacai88.com|ticklinggiants.com|xemtivingon.org|mitomtvt.cc|rakhoiva.cc|plcdn.xyz
 /i/npage/*$script,third-party
 /i_CookieConsent.js
 /ibeugdpr.js
@@ -44084,6 +44082,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /reklama4.png$image
 /reklame/*$~xmlhttprequest
 /ren.gif?$image
+/render-ad.php?ad_id=
+/render-sidebar-ad.php?ad_id=
 /resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=weather&$domain=msn.com
 /resources/ads/*$~xmlhttprequest
 /responsive/ad_$subdocument
@@ -44599,7 +44599,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /wp-content/plugins/wp-ad-guru/*$script,stylesheet
 /wp-content/plugins/wp-super-popup-pro/*$script
 /wp-content/plugins/wp-super-popup/*$script
-/wp-content/uploads/*.gif$image,domain=tuoi69.gives|tuoinung.io|teletiengviet.com|phevkl.vin|viet69.fans
+/wp-content/uploads/*.gif$image,domain=tuoi69.gives|tuoinung.io|teletiengviet.com|phevkl.icu|viet69.fans
 /wp-content/uploads/useful_banner_manager_banners/*
 /wp-gdpr-compliance/assets/js/front.min.js
 /wp-notification-bars-public.js
@@ -45090,7 +45090,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
 ://ads.$popup,domain=~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -47638,12 +47638,12 @@ aluminiuminsider.com##.pl-lg-0.col-xl-4
 aluminiuminsider.com##.row.d-none
 aluminiuminsider.com##.widget-offers__list
 aluminiuminsider.com##div.d-lg-none.d-block:nth-of-type(3)
-aluminiuminsider.com,cmsri.org##.match-detail__offer
 aluminiuminsider.com,mitomtvt.cc##.menu-cuoc-8xbet
 aluminiuminsider.com,mitomtvt.cc##.menu-top-nha-cai
-aluminiuminsider.com,rakhoivc.cc##.sk_balloon
-aluminiuminsider.com,veboxi.cc,cakhiavx.cc,cmsri.org,mitomtvt.cc##.company
-aluminiuminsider.com,veboxi.cc,cakhiavx.cc,mitomtvt.cc,cmsri.org##div[id^="dnn_"]
+aluminiuminsider.com,rakhoiva.cc##.sk_balloon
+aluminiuminsider.com,ticklinggiants.com##.match-detail__offer
+aluminiuminsider.com,veboxi.cc,cakhiavx.cc,mitomtvt.cc,ticklinggiants.com##div[id^="dnn_"]
+aluminiuminsider.com,veboxi.cc,cakhiavx.cc,ticklinggiants.com,mitomtvt.cc##.company
 alunopresente.org.br,connectparts.com.br,educacaoeterritorio.org.br,livredetrabalhoinfantil.org.br,portal.aprendiz.uol.com.br,territoriosemrede.org.br###lgpd-container
 alvarotrigo.com##.subscribe-s
 alvexo.com##.sticky_bottom_wrap
@@ -50444,7 +50444,7 @@ cakhiavx.cc##.menu-item-object-custom
 cakhiavx.cc##.sub-menu.d-none.d-lg-flex
 cakhiavx.cc,aluminiuminsider.com,veboxi.cc###quangcaopc
 cakhiavx.cc,aluminiuminsider.com,veboxi.cc##.marquee-container
-cakhiavx.cc,aluminiuminsider.com,veboxi.cc,cmsri.org,rakhoivc.cc###wap_bottombanner
+cakhiavx.cc,aluminiuminsider.com,veboxi.cc,ticklinggiants.com,rakhoiva.cc###wap_bottombanner
 cakhiavx.cc,veboxi.cc##.align-items-center.justify-content-between.d-flex.col-12>.d-lg-none.d-block
 cal-online.co.il###wc-using-cookies
 cala.ca,nshpca.ca##.bottom-alert
@@ -51274,8 +51274,8 @@ cliniqueregain.com,tallermaintenancar.com##.thumbs
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
 clipchamp.com##.Xlovq
 cliper.pt###cook
-cliphot69.onl###custom_html-42
-cliphotvn69.com,mobiblogss.com,cliphot69.onl,phevkl.vin,www.gvnvh.net,top1phimsex.com,sayhentai.one,viet69.fans##.float-ck-center-lt
+cliphot69.cool###custom_html-42
+cliphotvn69.com,mobiblogss.com,cliphot69.cool,phevkl.icu,www.gvnvh.net,top1phimsex.com,sayhentai.one,viet69.fans##.float-ck-center-lt
 clipper-teas.fi##.v--modal-overlay
 clipper-teas.us##.v--modal-overlay
 clocktab.com###fv_left-side
@@ -51336,18 +51336,6 @@ cmon.sg##.cmon-privacy-disclaimer
 cmore.fi##.onetrust-pc-dark-filter[style]
 cmore.fi##.onetrust-pc-dark-filter[style] + #onetrust-banner-sdk
 cmore.fi,de.hgtv.com,larousse.fr,posti.fi,zoom.us#@#.onetrust-pc-dark-filter
-cmsri.org##.ads-menu-item
-cmsri.org##.c-int.d-lg-none.d-block>p.block-int.mb-1
-cmsri.org##.col-12>p.block-int.mb-1
-cmsri.org##.dcmm-button-player-item
-cmsri.org##.divdatcuoc
-cmsri.org##.grid-match__footer
-cmsri.org##.odds-comp
-cmsri.org##.show-ads-banner
-cmsri.org##.w-100.justify-content-center.align-items-center.d-flex
-cmsri.org##.widget
-cmsri.org##a.d-lg-none.d-block:nth-of-type(1)
-cmsri.org,rakhoivc.cc##.btn-odds
 cmswire.com##[class^="styles_ad-block"]
 cmswire.com##[class^="styles_article__text-ad"]
 cmswire.com##[class^="styles_article__top-ad-wrapper"]
@@ -53410,7 +53398,7 @@ dsearch.com##div[class^="PreAd_"]
 dsk-brest.by,gamma.by##.privacy_block
 dtac.co.th###banner_dtacapp
 duab.eu,duab.fi,duab.se##.css-pum9l9
-dualeotruyeny.com##[id$="bnr"]
+dualeotruyenhi.com##[id$="bnr"]
 dualipa.com##.subscribe__form
 dubaotiente.pro##.ad-pin-right-bottom
 dubaro.de###gdpr-cookie-message
@@ -62676,7 +62664,6 @@ oliunid.it##.amgdprcookie-bar-container
 olivemagazine.com##.piano-inline-template__content
 ollca.com#@#.cookie-warning-content
 ollca.com#@#app-cookie-warning
-ollca.com,samsung.com,verisign.com#@#.cookie-warning
 oloblogger.com###aviso_off
 olx.com.pk##.react-swipeable-view-container:has([href*="http://onelink.to"])
 olx.ua##div[data-testid="cookies-overlay__container"]
@@ -63394,11 +63381,11 @@ pharmadecor.be,van-overstraeten.be###consentmodal
 pharmasimple.com###pharmabiscuit-popin
 pheclip.top,thiendia.pro,phim18vip.vip##.in.fade.modal-backdrop
 phemex.com##[href^="https://phemex.com/bonus"]
-phevkl.vin,viet69.fans###haun-player>div[style]
-phevkl.vin,viet69.fans###preload
-phevkl.vin,viet69.fans###primary-nav>div[style]
-phevkl.vin,viet69.fans##.separator
-phevkl.vin,viet69moi.net,viet69.fans###mp-preload-popup-overlay
+phevkl.icu,viet69.fans###haun-player>div[style]
+phevkl.icu,viet69.fans###preload
+phevkl.icu,viet69.fans###primary-nav>div[style]
+phevkl.icu,viet69.fans##.separator
+phevkl.icu,viet69moi.net,viet69.fans###mp-preload-popup-overlay
 phillyvoice.com###follow_social
 phillyvoice.com##.article-sponsor-sticky
 phillyvoice.com##.native-sponsor
@@ -64565,8 +64552,8 @@ raiplaysound.it##.banner-buttons
 rajabacklink.com###idpop_cookie
 rakennusmaailma.fi###elevator
 rakentaja.fi###scrak_CONT_keski
-rakhoivc.cc##.bookmaker-selector-container
-rakhoivc.cc,cmsri.org##.btn-8xbet
+rakhoiva.cc##.bookmaker-selector-container
+rakhoiva.cc,ticklinggiants.com##.btn-8xbet
 rakuten.com###id_parent_rrPlacementTop
 rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
 rally.io##div[class^="Banner_banner_"]
@@ -68401,6 +68388,18 @@ tickets.vibus.de###DatenschutzFooter
 ticketstour.ru##.using-cookies
 ticketswap.com,ticketswap.fr,ticketswap.nl,ticketswap.uk##.e3v4wli0
 ticketswap.de##.e3v4wli0
+ticklinggiants.com##.ads-menu-item
+ticklinggiants.com##.c-int.d-lg-none.d-block>p.block-int.mb-1
+ticklinggiants.com##.col-12>p.block-int.mb-1
+ticklinggiants.com##.dcmm-button-player-item
+ticklinggiants.com##.divdatcuoc
+ticklinggiants.com##.grid-match__footer
+ticklinggiants.com##.odds-comp
+ticklinggiants.com##.show-ads-banner
+ticklinggiants.com##.w-100.justify-content-center.align-items-center.d-flex
+ticklinggiants.com##.widget
+ticklinggiants.com##a.d-lg-none.d-block:nth-of-type(1)
+ticklinggiants.com,rakhoiva.cc##.btn-odds
 tidbits.com##.c-banner
 tienda.edicionesbabylon.es###cook
 tiendaboschonline.cl##.footer__terms
@@ -68749,7 +68748,6 @@ tp-link.com##.tp-follow-container
 tp-link.com##.widgets-top-banner
 tp24.it###templatemo_container_barra
 tpb.party##a[href="https://mysurferprotector.com/"]
-tpc.googlesyndication.com#@#.img_ad
 tporn.xxx##.sug-bnrs
 tpusa.com##.fZiPAG
 trabalhabrasil.com.br##.jobview__btn-sharedVacancy
@@ -69223,6 +69221,7 @@ uefa.com##div[data-name="sponsors-slot"]
 ufoevidence.org#@##ad-wrapper
 ugreen.com###t4s-backToTop
 ugstandard.com###leader-wrap
+uhdmovies.tips###banner-section
 uinterview.com###above-content
 uinterview.com###below-content
 uinterview.com##.alert-discreet
@@ -69586,7 +69585,7 @@ veboxi.cc##.menu-item:has(a[rel="nofollow"])
 veboxi.cc##.topButton
 veboxi.cc##.widget_offer
 veboxi.cc##header>.container
-veboxi.cc,mitomtvt.cc,rakhoivc.cc##.footer-banner
+veboxi.cc,mitomtvt.cc,rakhoiva.cc##.footer-banner
 vecernji.hr#@#.share_wrap
 vedantbhoomi.com##.elementor-widget-smartmag-codes
 vedantu.com##.banner-text
@@ -69840,8 +69839,8 @@ vlxx.my##.ads
 vlxx.my##.banner-preload
 vlxx.my##.ff-banner
 vlxx.my##div.banner-catfish-bottom
-vlxx.my,clipsexsub3x.net,sexhihiz.ac##.catfish-bottom
-vlxx.my,sextv18.pro,sexhihiz.ac##.catfish-top
+vlxx.my,clipsexsub3x.net,sexhihizz.pro##.catfish-bottom
+vlxx.my,sextv18.pro,sexhihizz.pro##.catfish-top
 vlxxai.net,trangsexdam.net,sexsoc.info##.hd-tube-desktop
 vlxxai.net,trangsexdam.net,sexsoc.info##.hd-tube-mobile
 vlxxhay.info##.code-block
@@ -70871,7 +70870,7 @@ xemphimviet.casa,ghienphim.show##.ad-floater
 xemphimviet.casa,ghienphim.show##.popunder-link
 xemphimviet.casa,ghienphim.show##.promotion-popup
 xemphimviet.casa,ghienphim.show##.video-ad-layer
-xemsex.win,sextv18.pro,sexhihiz.ac##.xx-ads
+xemsex.win,sextv18.pro,sexhihizz.pro##.xx-ads
 xemtivi4k.com###adstop2
 xemtivi4k.com##.col-lg-4.hidden-xs.d-flex.flex-column.address-wrap
 xemtivi4k.com##.float-right
@@ -72334,6 +72333,7 @@ zylom.com###headerbar_privacy
 ||4b6994dfa47cee4.com^$popup
 ||4bad5cdf48.com^
 ||4bind2.cfd^$all
+||4c81b78eca.com^
 ||4c935d6a244f.com^
 ||4cinsights.com^$third-party
 ||4co7mbsb.de^
@@ -72557,6 +72557,7 @@ zylom.com###headerbar_privacy
 ||70b7d98dec.com^
 ||70b927c8.live^
 ||70b927c8.live^$document,popup
+||71df446534.com^
 ||72075223.xyz^
 ||72075223.xyz^$document,popup
 ||72123581.xyz^
@@ -72963,6 +72964,7 @@ zylom.com###headerbar_privacy
 ||aanqylta.com^
 ||aanqylta.com^$redirect=nooptext
 ||aarghclothy.com^
+||aaronicsonancy.com^
 ||aarswtcnoz.com^
 ||aarunogldf.com^
 ||aawdlvr.com^
@@ -74853,6 +74855,7 @@ zylom.com###headerbar_privacy
 ||aj2532.bid^
 ||aj2550.bid^
 ||aj2555.bid^
+||aj2627.bid^
 ||aj2635.bid^
 ||ajestigie.com^
 ||ajillionmax.com^
@@ -74865,6 +74868,7 @@ zylom.com###headerbar_privacy
 ||ajkzd9h.com^
 ||ajkzd9h.com^$popup
 ||ajoosheg.com^
+||ajoushausher.net^
 ||ajrkm1.com^
 ||ajrkm3.com^
 ||ajsc.yodimedia.com^
@@ -74920,6 +74924,7 @@ zylom.com###headerbar_privacy
 ||akxlkuodmhta.com^
 ||akxopgjuw.com^
 ||al-adtech.com^
+||alackzokor.com^
 ||alacrityimitation.com^
 ||alaeshire.com^
 ||alagaodealing.com^
@@ -74950,6 +74955,7 @@ zylom.com###headerbar_privacy
 ||alchemysocial.com^
 ||alcidkits.com^
 ||alcroconawa.com^
+||alcyonchocard.com^
 ||aldosesmajeure.com^
 ||aldragalgean.com^
 ||aleapeact.club^
@@ -75087,6 +75093,7 @@ zylom.com###headerbar_privacy
 ||allure-ng.net^
 ||allureoutlayterrific.com^
 ||allusionfussintervention.com^
+||alluviopurreic.com^
 ||allyes.com^
 ||allyprimroseidol.com^
 ||almareepom.com^
@@ -75327,6 +75334,7 @@ zylom.com###headerbar_privacy
 ||amxswiolhod.com^
 ||amxtuwfih.com^
 ||amylo.site^
+||amyrinbitume.com^
 ||amzrjywmzllvm.top^
 ||an.yandex.ru^$domain=~e.mail.ru
 ||anacampaign.com^
@@ -75387,6 +75395,7 @@ zylom.com###headerbar_privacy
 ||anentsyshrug.com^
 ||aneorwd.com^
 ||aneorwd.com^$document
+||anestriberi.com^
 ||aneuchoutfit.shop^
 ||anewfeedliberty.com^
 ||anewgallondevious.com^
@@ -75432,6 +75441,7 @@ zylom.com###headerbar_privacy
 ||anjanstarved.com^
 ||ankdoier.com^
 ||ankdoier.com^$popup
+||ankolisiloam.com^
 ||anldnews.pro^
 ||anlytics.co^
 ||anmdr.link^
@@ -75965,6 +75975,7 @@ zylom.com###headerbar_privacy
 ||ashetandrew.com^
 ||ashhgo.com^
 ||ashlarinaugur.com^
+||ashlingzanyish.com^
 ||ashobzshava.com^
 ||ashoupsu.com^
 ||ashoupsu.com^$popup
@@ -77097,6 +77108,7 @@ zylom.com###headerbar_privacy
 ||beginningstock.com^
 ||beginoppressivegreet.com^
 ||begracetindery.com^
+||begumsbandi.com^
 ||begun.ru^$third-party
 ||behalflose.com^
 ||behalfpagedesolate.com^
@@ -77139,6 +77151,7 @@ zylom.com###headerbar_privacy
 ||bellatrixmeissa.com^$document
 ||bellatrixmeissa.com^$popup
 ||bellmandrawbar.com^
+||bellonapotype.com^
 ||bellowframing.com^
 ||bellpressinginspector.com^
 ||belointeractive.com^$third-party
@@ -78009,6 +78022,7 @@ zylom.com###headerbar_privacy
 ||bookpostponemoreover.com^
 ||bookshelfcomplaint.com^
 ||bookstoreforbiddeceive.com^
+||booksylatron.com^
 ||boom-bb.com^$popup
 ||boom-boom-vroom.com^
 ||boomads.com^
@@ -78317,6 +78331,7 @@ zylom.com###headerbar_privacy
 ||bronca.site^
 ||bronzeinside.com^
 ||broochtrade.com^
+||broosnighed.com^
 ||broredir1s.site^
 ||brosdefender.com^
 ||brothersincash.com^$third-party
@@ -78402,6 +78417,7 @@ zylom.com###headerbar_privacy
 ||btvuiqgio.xyz^
 ||btxxxnav.com^
 ||bubblemayflowernephew.com^
+||bubblessudsman.com^
 ||bubblestownly.com^
 ||bubrintta.com^
 ||bubstugkaatc.com^
@@ -78510,6 +78526,7 @@ zylom.com###headerbar_privacy
 ||buram.xyz^
 ||burbarkholpen.com^
 ||burdaffi.burdadigital.pl^$third-party
+||burdenmapwise.com^
 ||bureautrickle.com^
 ||bureauxcope.casa^
 ||burgea.com^
@@ -78517,6 +78534,7 @@ zylom.com###headerbar_privacy
 ||burglaryrunner.com^
 ||burialsupple.com^
 ||burjam.com^$third-party
+||burleskspoiler.com^
 ||burntarcherydecompose.com^
 ||burntclear.com^
 ||bursa.conxxx.pro^
@@ -78846,6 +78864,7 @@ zylom.com###headerbar_privacy
 ||candypeaches.com^
 ||canekilttantrum.com^
 ||canellecrazy.com^
+||canelorets.com^
 ||canganzimbi.com^
 ||cangueunsheet.top^
 ||cank.xyz^
@@ -79035,6 +79054,7 @@ zylom.com###headerbar_privacy
 ||cc.labu24.de^
 ||cc.mpa-web.de^
 ||cc.werk3.de/public/app.js
+||cc33b86bbf.com^
 ||ccaa0e51d8.com^
 ||ccc9c93083.com^
 ||cchdbond.com^
@@ -79093,7 +79113,7 @@ zylom.com###headerbar_privacy
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
 ||cdn.javbabe.net^$subdocument
 ||cdn.kelpo.cloud^
-||cdn.lfastcdn.com^*.gif$image,domain=bongdainfox.tv|cmsri.org|rakhoivc.cc|cakhiavx.cc|mitomtvt.cc|veboxi.cc
+||cdn.lfastcdn.com^*.gif$image,domain=bongdainfox.tv|ticklinggiants.com|rakhoiva.cc|cakhiavx.cc|mitomtvt.cc|veboxi.cc
 ||cdn.manga9.co^
 ||cdn.mcnn.pl^$third-party
 ||cdn.monkeydarchive.com/images/banner/$image,domain=monkeyd.net.vn
@@ -79354,6 +79374,7 @@ zylom.com###headerbar_privacy
 ||chambermaidthree.xyz^$document
 ||chambershoist.com^
 ||chambersinterdependententirely.com^
+||chambulwacs.com^
 ||championshipcoma.com^
 ||chan.sankakucomplex.com/javascripts/sp/s-new.js
 ||chancecorny.com^
@@ -79953,8 +79974,8 @@ zylom.com###headerbar_privacy
 ||climatedetaindes.com^
 ||climbproducingdozen.com^
 ||clipbongda.info^$third-party
-||cliphot69.onl$csp=script-src 'self' 'unsafe-inline'
-||cliphot69.onl^*.gif$image
+||cliphot69.cool$csp=script-src 'self' 'unsafe-inline'
+||cliphot69.cool^*.gif$image
 ||cliphotvn69.com^*.gif$image
 ||cliplamppostillegally.com^
 ||clipmistermop.com^
@@ -79996,6 +80017,7 @@ zylom.com###headerbar_privacy
 ||clogcheapen.com^
 ||clogstepfatherresource.com^
 ||clonesmesopic.com^
+||closablemardistiffness.com^
 ||closablereactionskydiver.com^
 ||closeattended.com^
 ||closedpersonify.com^
@@ -80130,7 +80152,6 @@ zylom.com###headerbar_privacy
 ||cms100.xyz^
 ||cms100.xyz^$popup
 ||cms24.it/js/kekse.js
-||cmsri.org/wp-content/themes/bongda/dist/images/company/21.png$image
 ||cmtrkg.com^
 ||cmtrkg.com^$popup
 ||cmuotxzalog.com^
@@ -80431,9 +80452,11 @@ zylom.com###headerbar_privacy
 ||concernedwealth.pro^
 ||concerningblasphemerollback.com^
 ||concernrest.com^
+||conciergeeccentricstrained.com^
 ||conciergeradialsupernova.com^
 ||conclude.com/assets/build/combined.$script
 ||concludedstoredtechnique.com^
+||concludelivingshowman.com^
 ||conclusionsmushyburn.com^
 ||concomber.com//
 ||concord.systems^
@@ -80475,6 +80498,7 @@ zylom.com###headerbar_privacy
 ||confrontation2.fun^
 ||confrontationdrunk.com^
 ||confrontationwanderer.com^
+||confusingepisodevest.com^
 ||congratulationsgraveseem.com^
 ||congressvia.com^
 ||congruousannualplanner.com^
@@ -80537,6 +80561,7 @@ zylom.com###headerbar_privacy
 ||consent.prointernet.com^
 ||consent.rhoenfuehrer.de/public/app.js?
 ||consent.shutterfly.com^
+||consent.standardadmin.org^
 ||consent.stuff.tv^
 ||consent.t-mobile.cz^
 ||consent.thecountrysmallholder.com^
@@ -80828,12 +80853,14 @@ zylom.com###headerbar_privacy
 ||correspondaspect.com^
 ||corriereobjects.it/rcs_cor_exit-page/
 ||corriereobjects.it^*/box_notifiche_
+||corrodedriveroverfed.com^
 ||corruptbarelytent.com^
 ||corruptobstacle.com^
 ||corruptsolitaryaudibly.com^
 ||corupaylogged.shop^$popup
 ||corveseiren.com^
 ||corvetteblogger.com/images/banners/
+||corylussunroof.com^
 ||cosedluteo.com^
 ||cosignpresentlyarrangement.com^
 ||cosmeticsgenerosity.com^
@@ -81028,6 +81055,7 @@ zylom.com###headerbar_privacy
 ||creamy-confidence.pro^
 ||creaseinprofitst.com^
 ||creaseinprofitst.com^$popup
+||creatablegluesurvival.com^
 ||creative-bars1.com^
 ||creative-serving.com^
 ||creative-stat1.com^
@@ -81129,6 +81157,7 @@ zylom.com###headerbar_privacy
 ||criticheliumsoothe.com^
 ||criticismdramavein.com^
 ||criticizewiggle.com^
+||crittereasilyhangover.com^
 ||crjpgate.com^
 ||crjpgate.com^$popup
 ||crjpingate.com^
@@ -81151,6 +81180,7 @@ zylom.com###headerbar_privacy
 ||crokerhyke.com^
 ||cromq.xyz^
 ||croni.site^
+||cropenjoymentstellar.com^
 ||croplake.com^
 ||cross-system.com^$script,third-party
 ||crossdresserhub.com/*.php$script
@@ -81160,6 +81190,7 @@ zylom.com###headerbar_privacy
 ||crowdeddisk.pro^
 ||crowderpedro.top^
 ||crowdnextquoted.com^
+||crowdsuitcaseuntwist.com^
 ||crowdynews.com^$third-party
 ||crpdt.livejasmin.com^$popup
 ||crpop.livejasmin.com^$popup
@@ -81184,9 +81215,12 @@ zylom.com###headerbar_privacy
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
 ||crumendeparts.shop^
+||crummydevioussucculent.com^
 ||crummygoddess.com^
 ||crumpet.xxxpornhd.pro^
+||crumpetprankerstench.com^
 ||crumplylenient.com^
+||cruncherpatiencestoreroom.com^
 ||crunchslipperyperverse.com^
 ||crunchy-tango.dotabuff.com^
 ||crunchyroll.com/awidget/
@@ -81295,6 +81329,7 @@ zylom.com###headerbar_privacy
 ||cufultahaur.com^
 ||cugaksoogleptix.xyz^
 ||cuhlsl.info^
+||cuinageaquilid.com^
 ||cuisineenvoyadvertise.com^
 ||cujruloq.com^
 ||cullemple-motline.com^
@@ -82465,6 +82500,7 @@ zylom.com###headerbar_privacy
 ||darknessdrainablemoonlit.com^
 ||darknessporn.com/prrls/
 ||darksmartproprietor.com^
+||darnobedienceupscale.com^
 ||dartextremely.com^
 ||dartpoxukpim.com^
 ||darvorn.com^
@@ -82864,6 +82900,7 @@ zylom.com###headerbar_privacy
 ||delveactivity.com^
 ||demand.supply^$script
 ||demanding-application.pro^
+||demandingoverdriveunthread.com^
 ||demandzoo.com^
 ||demanier.com^$third-party
 ||dematom.com^$third-party
@@ -82896,6 +82933,7 @@ zylom.com###headerbar_privacy
 ||densigissy.net^
 ||dental-drawer.pro^
 ||denthaitingshospic.com^
+||dentiststockunsoiled.com^
 ||denza.pro^$popup
 ||deostr.com^
 ||departedcomeback.com^
@@ -82922,6 +82960,7 @@ zylom.com###headerbar_privacy
 ||depressionforums.org/wp-content/uploads/2023/05/balban.jpg.webp
 ||depsabsootchut.net^
 ||deputizeeverydayexorcist.com^
+||deputizepacifistwipe.com^
 ||depvailon.com/sponsored.html
 ||derateissuant.top^
 ||derevya2sh8ka09.com^
@@ -82960,6 +82999,7 @@ zylom.com###headerbar_privacy
 ||designtaxi.com/small-dt.php$subdocument
 ||desipearl.com^$third-party
 ||desiremolecule.com^
+||deskboundprelawwinner.com^
 ||desklks.com^$popup
 ||deslatiosan.com^
 ||desperateseller.co.uk/affiliates/
@@ -82988,6 +83028,7 @@ zylom.com###headerbar_privacy
 ||dethijohoagra.com^
 ||dethijohoagra.com^$popup
 ||detour.click^
+||detoxifylagoonsnugness.com^
 ||deturbcordies.com^
 ||deturnfurdle.shop^
 ||dev.to/bb/sidebar_left^
@@ -82999,6 +83040,7 @@ zylom.com###headerbar_privacy
 ||dev.to^*/billboards/post_comments^
 ||dev.to^*/billboards/post_sidebar^
 ||dev2pub.com^$third-party
+||devaluequalmrelative.com^
 ||devastatedseparategourmet.com^
 ||devastatedshorthandpleasantly.com^
 ||devcre.site^
@@ -83011,6 +83053,7 @@ zylom.com###headerbar_privacy
 ||deview-moryant.icu^
 ||deviseundress.com^
 ||devopscon.io/session-qualification/$subdocument
+||devoteegibberishsinister.com^
 ||devotionhesitatemarmalade.com^
 ||devoutgrantedserenity.com^
 ||devuba.xyz^
@@ -83108,6 +83151,7 @@ zylom.com###headerbar_privacy
 ||dictionary.com/adscripts/
 ||dictumstortil.com^
 ||didna.io^
+||didspack.com^
 ||dieadi.com^
 ||diedpractitionerplug.com^
 ||diench.com^
@@ -83188,12 +83232,14 @@ zylom.com###headerbar_privacy
 ||dinejav11.fun^
 ||dinerbreathtaking.com^
 ||dinerbreathtaking.com^$popup
+||dingebeek.com^
 ||dingerhoes.shop^
 ||dingswondenthaiti.com^
 ||dingytiredfollowing.com^
 ||diningprefixmyself.com^
 ||diningsovereign.com^
 ||dinkeysosmetic.shop^
+||dinkiersenhora.com^
 ||dinomicrummies.com^
 ||dinseegny.com^
 ||dintanopdgzi.com^
@@ -83223,6 +83269,7 @@ zylom.com###headerbar_privacy
 ||directdexchange.com^$popup
 ||directflowlink.com^
 ||direction-x.com^$third-party
+||directionotterrecharger.com^
 ||directlycoldnesscomponent.com^
 ||directlymilligramresponded.com^
 ||directnavbt.com^
@@ -83277,6 +83324,7 @@ zylom.com###headerbar_privacy
 ||discountplacidlysymphony.com^
 ||discountstickersky.com^
 ||discourseoxidizingtransfer.com^
+||discovermustystarter.com^
 ||discovernative.com^
 ||discovernative.com^$third-party
 ||discretionpollclassroom.com^
@@ -83299,6 +83347,7 @@ zylom.com###headerbar_privacy
 ||dishevelledoughtshall.com^
 ||dishoneststuff.pro^
 ||dishonourfondness.com^
+||dishtrekkerunderfoot.com^
 ||dishwaterconcedehearty.com^
 ||disintegrateredundancyfen.com^
 ||diskaa.com^
@@ -83354,6 +83403,7 @@ zylom.com###headerbar_privacy
 ||disrespectpreceding.com^
 ||dissemblebendnormally.com^
 ||dissipatecombinedcolon.com^
+||distancedreamboatstoic.com^
 ||distancefilmingamateur.com^
 ||distant-session.pro^
 ||distantbelly.com^
@@ -83487,6 +83537,7 @@ zylom.com###headerbar_privacy
 ||dmeukeuktyoue.info^$popup
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmgmediaprivacy.co.uk^$third-party
+||dmgsymwgj.com^
 ||dmhbbivu.top^
 ||dmhclkohnrpvg.com^
 ||dmiredindeed.com^
@@ -83558,6 +83609,7 @@ zylom.com###headerbar_privacy
 ||doctorenticeflashlights.com^
 ||doctorhousing.com^
 ||doctoryoungster.com^
+||doctrinekettleworsening.com^
 ||doctruyenchu.info/ads/$image
 ||documentaryselfless.com^
 ||dodaihoptu.xyz^
@@ -83579,6 +83631,7 @@ zylom.com###headerbar_privacy
 ||dolatiosom.com^
 ||dolefulcaller.com^
 ||dolehum.com^
+||dolekaraokeoversleep.com^
 ||dollarade.com^
 ||dolohen.com^
 ||dolohen.com^$popup
@@ -83817,6 +83870,7 @@ zylom.com###headerbar_privacy
 ||dramaticsalad.com^$all
 ||dranktonsil.com^
 ||drapefabric.com^
+||draperyrevolvertiara.com^
 ||drapingleden.com^
 ||dratingmaject.com^
 ||drawbackcaptiverusty.com^
@@ -83859,6 +83913,7 @@ zylom.com###headerbar_privacy
 ||driedanswerprotestant.com^
 ||driftqa.com/conductor/assets/media/
 ||drillcompensate.com^
+||drillingstarlightsupper.com^
 ||drimquop.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
@@ -84260,6 +84315,7 @@ zylom.com###headerbar_privacy
 ||earlinessone.xyz^$document
 ||earlinessone.xyz^$popup
 ||earlyfortune.pro^
+||earmuffpostnasalrisotto.com^
 ||earmuffvintagevitality.com^
 ||earn-bitcoins.net/banner_
 ||earnbeginnerdocument.com^
@@ -84401,6 +84457,7 @@ zylom.com###headerbar_privacy
 ||ecrwqu.com^$popup
 ||ectsofcukorpor.com^
 ||ectypalnonbank.shop^
+||ecuelleribose.com^
 ||ecufiles.com/advertising/
 ||ecuryrentattribut.org^
 ||ecusemis.com^
@@ -84677,6 +84734,7 @@ zylom.com###headerbar_privacy
 ||eliwitensirg.net^$popup
 ||elizathings.com^
 ||elizathings.com^$popup
+||elkunbalanceunfounded.com^
 ||elkwoodbiggin.top^
 ||ellanfolds.shop^
 ||ellcurvth.com^
@@ -84826,6 +84884,7 @@ zylom.com###headerbar_privacy
 ||engine.partylemons.com^$third-party
 ||engine.trialhd.com^
 ||enginedriverbathroomfaithfully.com^
+||engineexplicitfootrest.com^
 ||enginejav182.fun^
 ||engineseeker.com^
 ||engpolitei.top^
@@ -84929,6 +84988,7 @@ zylom.com###headerbar_privacy
 ||epicgameads.com^
 ||epicgameads.com^$popup
 ||epicgfs.com/pocoloco_epic.js
+||epidermispushupvariable.com^
 ||epigeeonionet.shop^
 ||episciaranche.shop^
 ||eplndhtrobl.com^
@@ -84960,6 +85020,7 @@ zylom.com###headerbar_privacy
 ||equipmentapes.com^
 ||equippeddetachmentabberant.com^
 ||equirekeither.xyz^
+||equivocalmashingreseller.com^
 ||er6785sc.click^
 ||era67hfo92w.com^
 ||era67hfo92w.com^$popup
@@ -85245,6 +85306,7 @@ zylom.com###headerbar_privacy
 ||exchange4media.com^$third-party
 ||exchangecash.de^$third-party
 ||exchangerates.org.uk/images/200x200_currency.gif
+||excitablepass.com^
 ||excitead.com^
 ||excitementcolossalrelax.com^
 ||excitementoppressive.com^
@@ -85286,6 +85348,7 @@ zylom.com###headerbar_privacy
 ||eximdigital.com^
 ||exinariuminix.info^
 ||exinariuminix.info^$all
+||exinesriles.com^
 ||existenceassociationvoice.com^
 ||existenceassociationvoice.com^$popup
 ||existenceprinterfrog.com^
@@ -85484,6 +85547,7 @@ zylom.com###headerbar_privacy
 ||facebook.com^*/plugins/page.php?$third-party
 ||facebook.com^*/plugins/share_button.php?$third-party
 ||faceitanalyser.com/static/stats/i/sponsors/
+||faceliftluminancetill.com^
 ||faceporn.com^$third-party
 ||facesnotebook.com^
 ||facetz.net^$third-party
@@ -86078,6 +86142,7 @@ zylom.com###headerbar_privacy
 ||flagads.net^$popup
 ||flagmantensity.com^
 ||flagstickmarathonsetback.com^
+||flagstonefoundingmonotype.com^
 ||flaine.com/build/js/tarteaucitron/
 ||flairads.com^
 ||flairadscpc.com^
@@ -86441,6 +86506,7 @@ zylom.com###headerbar_privacy
 ||foulfurnished.com^$popup
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
+||foundinggulfsaturate.com^
 ||foupeestokiy.net^
 ||foursixty.com^$third-party
 ||fourwhenstatistics.com^$popup
@@ -86725,6 +86791,7 @@ zylom.com###headerbar_privacy
 ||fulvideozrt.click^
 ||fulylydevelopeds.com^
 ||fumeuprising.com^
+||fumeuseaudibly.com^
 ||fumtartujilse.net^
 ||fun6668.com/Banner/$domain=mythethao.net
 ||funappgames.com^
@@ -86875,6 +86942,7 @@ zylom.com###headerbar_privacy
 ||gagaxbasvw.com^
 ||gagdungeon.com^
 ||gagebonus.com^
+||gaggedtetrode.com^
 ||gagheroinintact.com^
 ||gagheroinintact.com^$popup
 ||gaghygienetheir.com^
@@ -86979,6 +87047,7 @@ zylom.com###headerbar_privacy
 ||ganehangmen.com^
 ||gangingwalnut.top^
 ||gangsterpracticallymist.com^
+||gangwaynumberprivacy.com^
 ||ganismpro.com^
 ||ganja.com^$popup,third-party
 ||ganjing.world/v1/cdkapi/
@@ -86994,6 +87063,7 @@ zylom.com###headerbar_privacy
 ||gaptooju.net^
 ||gaquxe8.site^
 ||garbagebanquetintercept.com^
+||garbageshallotsnowiness.com^
 ||garbanzos24.fun^
 ||gardenbilliontraced.com^
 ||gardeningseparatedudley.com^
@@ -87146,6 +87216,7 @@ zylom.com###headerbar_privacy
 ||gemma.by/catalog/view/javascript/lightcookie/
 ||gemsbucks25.fun^
 ||gemseeniloksair.net^
+||gemworkbakairi.com^
 ||gen-ref.com^
 ||genbalar.com^
 ||generalblue.com/js/pages/shared/lazyads.min.js
@@ -87200,6 +87271,7 @@ zylom.com###headerbar_privacy
 ||germanize24.fun^
 ||germinappropriateengine.com^
 ||germinatewishesholder.com^
+||germlesslukewarmmold.com^
 ||germmasonportfolio.com^
 ||gersutsaix.net^
 ||geruksom.net^
@@ -87379,6 +87451,7 @@ zylom.com###headerbar_privacy
 ||gigabitadex.com^
 ||gigacpmserv.com^
 ||gigahertz24.fun^
+||gigglegrowlworrisome.com^
 ||giggleostentatious.com^
 ||gigsmanhowls.top^
 ||gihehazfdm.com^
@@ -87510,6 +87583,7 @@ zylom.com###headerbar_privacy
 ||glauthew.net^
 ||glazedugra.com^
 ||glazedugra.com^$popup
+||glazingretentionupcoming.com^
 ||glbjhmruwbosw.club^
 ||glbtrk.com^
 ||gldkzr-lpqw.buzz^
@@ -87615,6 +87689,7 @@ zylom.com###headerbar_privacy
 ||glorious-dependent.pro^
 ||gloriousboileldest.com^
 ||gloriousmemory.pro^
+||gloriousoutfieldtrembling.com^
 ||glorsugn.net^
 ||glossydollyknock.com^
 ||glouftarussa.xyz^
@@ -87810,6 +87885,7 @@ zylom.com###headerbar_privacy
 ||golden-gateway.com^
 ||goldendev.win/shopify/show-recent-orders/
 ||golderotica.com^$third-party
+||goldfishouncereburial.com^
 ||goldinnips.top^
 ||goldmoney.com/~/media/Images/Banners/
 ||goldsurf24h.pl^$third-party
@@ -87832,6 +87908,7 @@ zylom.com###headerbar_privacy
 ||goodadvert.ru^
 ||goodandsoundcontent.com^
 ||goodbusinesspark.com^
+||gooddemands.com^
 ||goodgamesmanship.com^
 ||goodnesshumiliationtransform.com^
 ||goodnightbarterleech.com^
@@ -88097,6 +88174,7 @@ zylom.com###headerbar_privacy
 ||greepseedrobouk.net^
 ||greerogloo.net^
 ||greeter.me^
+||greeterstaniel.com^
 ||greetpanda.org^
 ||greewepi.net^
 ||greewepi.net^$popup
@@ -88433,6 +88511,7 @@ zylom.com###headerbar_privacy
 ||hagech.com^
 ||hagech.com^$document
 ||haggingmasha.top^
+||hagglernegotiateunnerving.com^
 ||haghalra.com^
 ||hagnutrient.com^
 ||haihaime.net^
@@ -88722,6 +88801,7 @@ zylom.com###headerbar_privacy
 ||heimishcresyl.shop^
 ||heiressplane.com^
 ||heiressscore.com^
+||heistedgrozer.com^
 ||heixidor.com^
 ||hejqtbnmwze.com^
 ||hekowutus.com^
@@ -88856,6 +88936,7 @@ zylom.com###headerbar_privacy
 ||hexagynjewing.top^
 ||hexereilbf.top^
 ||hexinemicerun.top^
+||hexingteeting.com^
 ||hexovythi.pro^
 ||heybarnacle.com^
 ||heycryptic.com^
@@ -89231,6 +89312,7 @@ zylom.com###headerbar_privacy
 ||hoood.info^
 ||hoopbeingsmigraine.com^
 ||hoopbeingsmigraine.com^$popup
+||hoopersnonpoet.com^
 ||hoophaub.com^
 ||hooptaik.net^
 ||hooterwas.com^
@@ -89327,6 +89409,7 @@ zylom.com###headerbar_privacy
 ||hotsocials.com^$third-party
 ||hotstar.com^*/midroll?
 ||hotstar.com^*/preroll?
+||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hottest-girls-online.com^$popup
 ||hottesvideosapps.com^$popup
@@ -89591,6 +89674,7 @@ zylom.com###headerbar_privacy
 ||hypnohub.net/assets/hub.js
 ||hypnotismjamrelay.com^
 ||hypnotizebladdersdictate.com^
+||hypnotizesqueegeetricolor.com^
 ||hypochloridtilz.click^
 ||hypocrisysmallestbelieving.com^
 ||hyrcycmtckbcpyf.xyz^
@@ -89614,7 +89698,7 @@ zylom.com###headerbar_privacy
 ||i.imgur.com^$image,domain=phym18.lol|phim18hd.cam|xamvn.autos
 ||i.imgur.com^*.gif$image,domain=ghienphim.show|mv.dailyphimz.com|mv.phimmoiaz.cc|mythethao.net|xemtivi4k.com|vtipster.net|phimmoi.sale|tv.tvhayhd.org|hoathinh4k3.net|vutruphim.tv|ketqua247vn.vip
 ||i.postimg.cc^$image,domain=www.phimmoichilla.xyz
-||i2.vlstorage.com/da88_1080p.mp4$domain=phevkl.vin|viet69.fans,rewrite=abp-resource:blank-mp3
+||i2.vlstorage.com/da88_1080p.mp4$domain=phevkl.icu|viet69.fans,rewrite=abp-resource:blank-mp3
 ||i45.servimg.com/u/f45/$domain=gocmod.com
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -89654,6 +89738,7 @@ zylom.com###headerbar_privacy
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||ibillboard.com^$third-party
+||ibmfunk.com^
 ||iboobeelt.net^
 ||iboobeelt.net^$popup
 ||ibqojsfqeh.com^
@@ -89779,6 +89864,7 @@ zylom.com###headerbar_privacy
 ||ignals.com^$popup
 ||igniterads.com^$third-party
 ||ignorantmethod.pro^
+||ignoresfahlerz.com^
 ||ignoresphlorol.com^
 ||ignorespurana.com^
 ||igoognou.xyz^
@@ -89895,6 +89981,7 @@ zylom.com###headerbar_privacy
 ||imaginableexecutedmedal.com^
 ||imaginary-struggle.com^
 ||imaginaryawarehygienic.com^
+||imaginarymankindname.com^
 ||imaginaryspooky.com^
 ||imagingkneelankiness.com^
 ||imagingprelawpuzzle.com^
@@ -90616,6 +90703,7 @@ zylom.com###headerbar_privacy
 ||issomeoneinth.info^$popup
 ||issuedindiscreetcounsel.com^
 ||isteetashy.com^
+||isthmaluncoyly.com^
 ||istipaumophy.com^
 ||istipaumophy.com^$popup
 ||istkechaukrguk.com^
@@ -90812,7 +90900,9 @@ zylom.com###headerbar_privacy
 ||jangonetwork.com^
 ||janitoramtrac.com^
 ||janitorhalfchronicle.com^
+||janitorprecisiontrio.com^
 ||januaryprinter.com^
+||januaryverby.com^
 ||japanbros.com^
 ||japanhotties.jp^
 ||japanhotties.jp^$all
@@ -91221,6 +91311,7 @@ zylom.com###headerbar_privacy
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jrbbavbvqmbzl.top^
 ||jrfngdrodrdop.icu^
 ||jriortnf.com^
 ||jrolyrlabybmz.top^
@@ -91317,6 +91408,7 @@ zylom.com###headerbar_privacy
 ||juftujelsou.net^
 ||jufzanca.com^
 ||jugerfowells.com^
+||jugglingoverfedparalyze.com^
 ||juggo.site^
 ||juhlkuu.com^
 ||juhvmiog.com^
@@ -91590,6 +91682,7 @@ zylom.com###headerbar_privacy
 ||keepinfit.net^
 ||keepsosto.com^
 ||keeraiwhum.com^
+||keethoostoaps.net^
 ||keewoach.net^
 ||keewoach.net^$popup
 ||keewophakimy.net^
@@ -91713,6 +91806,7 @@ zylom.com###headerbar_privacy
 ||kindergarteninitiallyprotector.com^
 ||kindgirls.com/banners2/
 ||kindlebaldjoe.com^
+||kindleunfocusedunpaired.com^
 ||kindlyoutsellunderling.com^
 ||kindnessmarshalping.com^
 ||kindredplc.com^$popup
@@ -91780,6 +91874,7 @@ zylom.com###headerbar_privacy
 ||kkeugrilxgql.com^
 ||kkieeoxcjpqah.vip^
 ||kkmacsqsbf.info^
+||kknkcyrkvoqsqa.com^
 ||kkoacpohjomc.com^
 ||kkqcnrk.com^
 ||kkvesjzn.com^
@@ -92294,6 +92389,7 @@ zylom.com###headerbar_privacy
 ||layingracistbrainless.com^
 ||laylmty.com^
 ||lazinessprint.com^
+||lazuliempall.com^
 ||lazumi.online^
 ||lazyrelentless.com^
 ||lb-69.com/pics/
@@ -92477,6 +92573,8 @@ zylom.com###headerbar_privacy
 ||lessonworkman.com^
 ||letaikay.net^
 ||letaimparou.net^
+||letdownlyricallyquarry.com^
+||lethargyplatingsatin.com^
 ||letinclusionbone.com^
 ||letitnews.com^
 ||letitnews.com^$popup
@@ -92502,6 +92600,7 @@ zylom.com###headerbar_privacy
 ||leveesmicker.top^
 ||level.18huhu.com^
 ||levelerlatosol.shop^
+||levelrunningunpadded.com^
 ||leverseriouslyremarks.com^
 ||leveryone.info^
 ||levityheartinstrument.com^
@@ -92630,6 +92729,7 @@ zylom.com###headerbar_privacy
 ||lilonews.com^
 ||lilyhumility.com^
 ||lilyrealitycourthouse.com^
+||limbecculvers.com^
 ||limberkilnman.cam^
 ||limboduty.com^
 ||limbrooms.com^
@@ -93579,6 +93679,7 @@ zylom.com###headerbar_privacy
 ||mangoa.xyz^
 ||mangoads.net^$third-party
 ||mangrao.club^
+||manholethreatenvowel.com^
 ||manhwa18.cc/main2023/
 ||manhwascan.net/my2023/my2023
 ||maniasensiblecompound.com^
@@ -93619,6 +93720,7 @@ zylom.com###headerbar_privacy
 ||maquiags.com^$popup
 ||marapcana.online^
 ||marawaresearch.com/js/wosevu.js
+||maraywreath.com^
 ||marazma.com^
 ||marbil24.co.za^
 ||marbleborrowedours.com^
@@ -94079,6 +94181,7 @@ zylom.com###headerbar_privacy
 ||mergeindigenous.com^
 ||mergerecoil.com^
 ||mergobouks.xyz^
+||meriahbansela.com^
 ||mericantpastellih.org^
 ||mericantpastellih.org^$popup
 ||merig.xyz^
@@ -94141,6 +94244,7 @@ zylom.com###headerbar_privacy
 ||mevarabon.com^$popup
 ||mewgzllnsp.com^
 ||mexicantransmission.com^
+||mezcalumlaut.com^
 ||mezo.org/cdn-cgi/zaraz/
 ||mezzounmerge.shop^
 ||mf*.advantage.as^$third-party
@@ -94251,6 +94355,7 @@ zylom.com###headerbar_privacy
 ||millustry.top^
 ||millustry.top^$popup
 ||milotree.com^$third-party
+||milseycurly.com^
 ||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
@@ -94861,6 +94966,7 @@ zylom.com###headerbar_privacy
 ||multiview.com^$third-party
 ||multiwall-ads.shop^
 ||multstorage.com^
+||mummifiedpatienceunknowing.com^
 ||mumoartoor.net^
 ||mumuendymehn.com^
 ||munchakhlame.top^
@@ -94905,6 +95011,7 @@ zylom.com###headerbar_privacy
 ||mutsjeamenism.com^
 ||mutteredadisa.com^
 ||muvflix.com^$popup
+||muyusaitcze.com^
 ||muzarabeponym.website^
 ||muzikguide.com^
 ||muzoohat.net^
@@ -95214,6 +95321,7 @@ zylom.com###headerbar_privacy
 ||naukegainok.net^
 ||naulageaortas.com^
 ||naulme.info^
+||naunoniwaimoo.net^
 ||naupsakiwhy.com^
 ||naupseko.com^
 ||naupsithizeekee.com^
@@ -95934,6 +96042,7 @@ zylom.com###headerbar_privacy
 ||nqowmugodougu.com^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
+||nqucjilr.com^
 ||nqvi-lnlu.icu^
 ||nrcdn.com/custom-script/$third-party
 ||nrcykmnukb.com^
@@ -96088,6 +96197,7 @@ zylom.com###headerbar_privacy
 ||nutchaungong.com^$popup
 ||nutiipwkk.com^
 ||nutmegshow.com^
+||nutriasnobbily.top^
 ||nutritionrantlullaby.com^
 ||nutritionshooterinstructor.com^
 ||nutshellwhipunderstood.com^
@@ -96280,6 +96390,7 @@ zylom.com###headerbar_privacy
 ||obsesschristening.com^
 ||obsidiancutter.top^
 ||obsidiancutter.top^$popup
+||obsoletepaddlevehicular.com^
 ||obtainedcredentials.com^
 ||obtaintrout.com^
 ||obtaintrout.com^$all
@@ -96926,6 +97037,7 @@ zylom.com###headerbar_privacy
 ||opclumbcuqze.com^
 ||opcnflku.com^
 ||opcpicocja.com^
+||opcqrorr.com^
 ||opdomains.space^
 ||opdomains.space^$document
 ||opdomains.space^$popup
@@ -97255,6 +97367,7 @@ zylom.com###headerbar_privacy
 ||otoadom.com^$document
 ||otoadom.com^$popup
 ||otofthesefa.org^
+||otomacotelugu.com^
 ||otomi-games.com/wp-content/uploads/*-Ad-728-
 ||otoyueuprumok.icu^
 ||otqjfafreaxh.com^
@@ -97417,6 +97530,7 @@ zylom.com###headerbar_privacy
 ||oveechoops.xyz^
 ||ovenbifaces.cam^
 ||overavesofefineg.org^
+||overbidsettingunderfeed.com^
 ||overboardbilingual.com^
 ||overboardlocumout.com^
 ||overcomecheck.com^
@@ -97622,6 +97736,8 @@ zylom.com###headerbar_privacy
 ||pageloadstats.pro^
 ||pageloadstats.pro^$popup
 ||pagemystery.com^
+||pagerrentablespotlight.com^
+||pagerrentablespotlight.com^$popup
 ||pages.etoro.com/widgets/$third-party
 ||pagesinxt.com^$third-party
 ||paginaewakens.shop^
@@ -97663,6 +97779,7 @@ zylom.com###headerbar_privacy
 ||pajnutas.com^
 ||pakbanners.com^$third-party
 ||pakraumusse.net^
+||palaceunlituntouched.com^
 ||paladpsfufr.com^
 ||palaroleg.guru^
 ||palatablelay.pro^
@@ -98096,6 +98213,7 @@ zylom.com###headerbar_privacy
 ||performassumptionbonfire.com^
 ||performingdistastefulsevere.com^
 ||performit.club^
+||performoo.com^
 ||performrecentintenselyinfo-program.info^$popup
 ||perfumeantecedent.com^
 ||perfunctoryfrugal.com^
@@ -98237,6 +98355,7 @@ zylom.com###headerbar_privacy
 ||phautchiwaiw.net^
 ||phburwtzjusbh.site^
 ||pheasantarmpitswallow.com^
+||phechiptupti.pro^
 ||phecoungaudsi.net^
 ||phee1oci.com^
 ||pheedsoan.com^
@@ -98412,6 +98531,7 @@ zylom.com###headerbar_privacy
 ||piloteegazy.com^
 ||pilotnourishmentlifetime.com^
 ||pilsarde.net^
+||pimentoscoter.com^
 ||pimpandhost.com/mikakoki/
 ||pimpandhost.com/site/trending-banners
 ||pimpandhost.com^$subdocument
@@ -98573,6 +98693,7 @@ zylom.com###headerbar_privacy
 ||plasmsmolochs.shop^
 ||plasticskilledlogs.com^
 ||plastleislike.com^
+||platedmanlily.com^
 ||platesnervous.com^
 ||platform.adlinknetwork.vn^
 ||platform.foursquare.com^$third-party
@@ -99606,6 +99727,7 @@ zylom.com###headerbar_privacy
 ||prototypeboats.com^
 ||protrckit.com^
 ||protrckit.com^$popup
+||protrudesublimetroubling.com^
 ||proudlysurly.com^
 ||provenperch.com^
 ||provenpixel.com^
@@ -100308,7 +100430,7 @@ zylom.com###headerbar_privacy
 ||qckeumrwft.xyz^
 ||qclruwltqxojpo.com^
 ||qcv5.blogtruyenmoi.com^
-||qcvip.xyz^$script,domain=phevkl.vin|viet69.fans
+||qcvip.xyz^$script,domain=phevkl.icu|viet69.fans
 ||qcwnfoqtqgvau.icu^
 ||qdfscelxyyem.club^
 ||qdgfcrifm.com^
@@ -100552,7 +100674,7 @@ zylom.com###headerbar_privacy
 ||qunrcibhis.com^
 ||quokkacheeks.com^
 ||quora.com/ads/
-||quoracdn.net^$image,domain=vlxx.my|xemsex.win|phevkl.vin|viet69.fans|phim18vip.vip|thiendia.pro|pheclip.top|sextv18.pro|sexhihiz.ac|sieudam.blog|fulllivehot.live
+||quoracdn.net^$image,domain=vlxx.my|xemsex.win|phevkl.icu|viet69.fans|phim18vip.vip|thiendia.pro|pheclip.top|sextv18.pro|sexhihizz.pro|sieudam.blog|fulllivehot.live
 ||quoracdn.net^$image,domain=www.motchill78.com|www.phimdinhcao.online
 ||quotationfirearmrevision.com^
 ||quotationindolent.com^
@@ -100692,6 +100814,7 @@ zylom.com###headerbar_privacy
 ||ramblecursormaths.com^
 ||rambo.xhamster.com^
 ||rambobf.com^
+||rameshdeisin.com^
 ||rametbaygall.shop^
 ||ramieuretal.com^
 ||rammishruinous.com^
@@ -100956,6 +101079,7 @@ zylom.com###headerbar_privacy
 ||recogerconsentimiento.com^$third-party
 ||recognisepeaceful.com^
 ||recognisetorchfreeway.com^
+||recoiltartlyundertake.com^
 ||recombssuu.com^
 ||recomendedsite.com^
 ||recommendedblanket.com^
@@ -101231,6 +101355,7 @@ zylom.com###headerbar_privacy
 ||remv43-rtbix.top^$popup
 ||renablylifts.shop^
 ||renaissanto.com^$third-party
+||renamereptiliantrance.com^
 ||renaultsport.com/spip.php?page=sw.js
 ||rencessedessations.com^
 ||rencessedessations.com^$popup
@@ -101521,6 +101646,7 @@ zylom.com###headerbar_privacy
 ||rgshows.me/js/devtoolsdetector.js
 ||rgwyljdsutb.com^
 ||rhaphaecelts.com^
+||rhasonbugs.com^
 ||rhendam.com^
 ||rheneapfg.com^
 ||rheoembrica.top^
@@ -101597,6 +101723,7 @@ zylom.com###headerbar_privacy
 ||rightyhugelywatch.com^
 ||rightypulverizetea.com^
 ||rightypulverizetea.com^$popup
+||rigidstiffnesszoning.com^
 ||rigill.com^
 ||rigourbackward.com^
 ||rigourgovernessanxiety.com^
@@ -101651,6 +101778,7 @@ zylom.com###headerbar_privacy
 ||rivcash.com^$third-party
 ||riverhit.com^
 ||riverhit.com^$popup
+||riversideseizingtightness.com^
 ||riverstressful.com^
 ||riverzorils.space^
 ||rivetrearrange.com^
@@ -101718,6 +101846,7 @@ zylom.com###headerbar_privacy
 ||rndskittytor.com^
 ||rndskittytor.com^$document
 ||rndskittytor.com^$popup
+||rneniibeiijmxeb.com^
 ||rnhsrsn.com^
 ||rnldustal.com^
 ||rnmd.net^
@@ -101820,6 +101949,7 @@ zylom.com###headerbar_privacy
 ||romashk9arfk10.com^
 ||romepoptahul.com^
 ||romperspardesi.com^
+||rompishvariola.com^
 ||romspacks.com/sfe123.js
 ||roobetaffiliates.com^
 ||roobetaffiliates.com^$document
@@ -101897,6 +102027,7 @@ zylom.com###headerbar_privacy
 ||roundpush.com^
 ||roundpush.com^$document
 ||roundspaniardindefinitely.com^
+||roundwormstoogesubtly.com^
 ||rouonixon.com^
 ||rousedaudacity.com^
 ||route-fifty.com/cookie-policy
@@ -102190,6 +102321,7 @@ zylom.com###headerbar_privacy
 ||rzneekilff.com^
 ||rzobsgow.com^
 ||rzuokcobzru.com^
+||rzxxflvdnvtws.vip^
 ||s-adzone.com^
 ||s-opgg-kit.op.gg/gnb/config/*/lol.ads.json
 ||s.bussyhunter.com^
@@ -102241,6 +102373,7 @@ zylom.com###headerbar_privacy
 ||sabergood.com^
 ||sabonakapona.com^
 ||saboom.com.pccdn.com^*/banner/
+||sabsbonos.com^
 ||sacaftdu.com^
 ||sacculiroofmen.shop^
 ||sacdnssedge.com^
@@ -102321,6 +102454,7 @@ zylom.com###headerbar_privacy
 ||saltsleaseholder.com^
 ||saltsupbrining.com^
 ||salutationpersecutewindows.com^
+||salutetutortwiddling.com^
 ||salvador24.com^$third-party
 ||salvagefloat.com^
 ||samage-bility.icu^
@@ -102595,6 +102729,8 @@ zylom.com###headerbar_privacy
 ||scripts.static-od.com^$third-party
 ||scriptvealpatronage.com^
 ||scritchmaranta.shop^
+||scriveaerocar.top^
+||scrivencaccias.com^
 ||scrolller.com/scrolller/affiliates/
 ||scrolltotop.com^$third-party
 ||scrollye.com^
@@ -102813,6 +102949,7 @@ zylom.com###headerbar_privacy
 ||semqraso.net^
 ||semqraso.net^$popup
 ||semsicou.net^
+||semygruja.com^$all
 ||senditfast.cloud^
 ||sendlane.com^$third-party
 ||sendmepush.com^
@@ -103324,6 +103461,7 @@ zylom.com###headerbar_privacy
 ||shussausach.com^$popup
 ||shutesaroph.com^
 ||shvnfhf.com^
+||shvsrrpkgjcuk.life^
 ||shydastidu.com^
 ||shyrepair.pro^
 ||sialsizably.shop^
@@ -103998,6 +104136,7 @@ zylom.com###headerbar_privacy
 ||sordiniswivet.shop^
 ||soremetropolitan.com^
 ||soritespary.com^
+||sorngrunch.com^
 ||sorningdaroo.top^
 ||sorrowconstellation.com^
 ||sorrowfulchemical.com^
@@ -104595,6 +104734,7 @@ zylom.com###headerbar_privacy
 ||stiseeteeshauy.com^
 ||stithauzouleesy.com^
 ||stjegypt.com/uploads/stjnew.jpg
+||stoachdarts.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
 ||stoagouruzostee.net^
@@ -104788,6 +104928,7 @@ zylom.com###headerbar_privacy
 ||stughoamoono.net^$popup
 ||stugsoda.com^
 ||stukroapseds.net^
+||stulmunshent.com^
 ||stummedperca.top^
 ||stunliver.com^
 ||stunning-lift.com^
@@ -104799,6 +104940,7 @@ zylom.com###headerbar_privacy
 ||stupid-luck.com^
 ||stupidityscream.com^
 ||stupidspaceshipfestivity.com^
+||stupsouchig.com^
 ||sturtsbabassu.shop^
 ||stutchoorgeltu.net^
 ||stuwhost.net^
@@ -105235,6 +105377,7 @@ zylom.com###headerbar_privacy
 ||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||taboola.com^$script,third-party
 ||taboola.com^*/vignette-render.js
+||tacklingunsightlyventricle.com^
 ||tackmainly.com^
 ||tacoda.net^$third-party
 ||tacrater.com^$third-party
@@ -105487,6 +105630,7 @@ zylom.com###headerbar_privacy
 ||teaservizio.com^$third-party
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
+||teatsbummest.com^
 ||tecaitouque.net^
 ||tecaitouque.net^$popup
 ||tech426.com/pub/
@@ -105768,8 +105912,6 @@ zylom.com###headerbar_privacy
 ||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:
 ||thegay.com^$script,domain=thegay.com
 ||thegay.porn/gdtatrco/
-||thegearpage.net/board/render-ad.php
-||thegearpage.net/board/render-sidebar-ad.php
 ||theglossonline.com^
 ||thehun.net/banners/
 ||theindependentbd.com/assets/images/banner/
@@ -106008,6 +106150,7 @@ zylom.com###headerbar_privacy
 ||ticketswinning.com^
 ||ticklefell.com^
 ||tickleinclosetried.com^
+||ticklinggiants.com/wp-content/themes/bongda/dist/images/company/21.png$image
 ||ticrite.com^
 ||tictacfrison.com^
 ||tictastesnlynot.com^
@@ -106114,6 +106257,7 @@ zylom.com###headerbar_privacy
 ||titaniumveinshaper.com^$popup
 ||tits-guru.com/js/istripper4.js
 ||titsintops.com/phpBB2/nb/
+||titterystrigae.com^
 ||tivatingotherem.info^
 ||tivatingotherem.org^
 ||tivetrainingukm.com^
@@ -106672,6 +106816,7 @@ zylom.com###headerbar_privacy
 ||trakaff.net^
 ||trakaff.net^$popup
 ||traktortds.com^
+||traktortds.com^$popup
 ||traktrafficflow.com^
 ||traktrafficflow.com^$popup
 ||tram3d.vip^*.gif$image,~third-party
@@ -106964,7 +107109,6 @@ zylom.com###headerbar_privacy
 ||truthfulsensor.com^$all
 ||truthtraff.com^$popup
 ||truthvexedben.com^
-||truyen4u.pro$csp=script-src 'self' 'unsafe-inline'
 ||truyenconect.com/uploads/*-truyenconect_com-*.
 ||truyensextv.com/anh/$image
 ||truyensextv.com^*.gif
@@ -107147,6 +107291,7 @@ zylom.com###headerbar_privacy
 ||tvpworld.com/files/portale-v4/polityka-prywatnosci/js/tvp-tcfapi.js
 ||tvzinghd.co/wp-content/themes/zingtv/js/qci9bc.js$script,~third-party
 ||twads.gg^$third-party
+||twaglurtuh.xyz^
 ||twazzyoidwlfe.com^
 ||tweakarrangement.com^
 ||tweelessatic.co.in^
@@ -107442,6 +107587,7 @@ zylom.com###headerbar_privacy
 ||ummertisaridiculou.com^
 ||ummn.nu^$subdocument
 ||umoaydexfqf.com^
+||umoumeeckem.net^
 ||umpedshumal.com^
 ||umqmxawxnrcp.com^
 ||umrdtmhwfahct.fun^
@@ -107594,6 +107740,7 @@ zylom.com###headerbar_privacy
 ||unluxioer.com^
 ||unmantyker.com^
 ||unmectappic.com^
+||unmeetbookies.com^
 ||unmetlittle.shop^
 ||unmistdistune.guru^$popup
 ||unmoor.com/config.json
@@ -107781,6 +107928,7 @@ zylom.com###headerbar_privacy
 ||urechar.com^
 ||urgayporn.com/bn/
 ||urgentlyfeerobots.com^
+||urgentlyrightypast.com^
 ||urgentprotections.com^
 ||urimnugocfr.com^
 ||urinebladdernovember.com^
@@ -108070,6 +108218,7 @@ zylom.com###headerbar_privacy
 ||vbmjlevwwvyzj.top^
 ||vbnmsilenitmanby.info^$popup
 ||vbptgoyketwhv.global^
+||vbqrzzrzazaew.top^
 ||vbrusdiifpfd.com^
 ||vbtrax.com^
 ||vcdc.com^
@@ -108184,10 +108333,12 @@ zylom.com###headerbar_privacy
 ||verrippleshi.info^
 ||verse-content.com^
 ||versicherungsjournal.de/public/app.js
+||versinehopper.com^
 ||verspicary.top^
 ||verticalaffiliation.com^$third-party
 ||verticallydeserve.com^
 ||verticallyrational.com^
+||vertigovitalitywieldable.com^
 ||vertismedia.co.uk^$third-party
 ||vertoz.com^$popup
 ||verwh.com^
@@ -108874,6 +109025,7 @@ zylom.com###headerbar_privacy
 ||warriorflowsweater.com^
 ||warsabnormality.com^
 ||warscoltmarvellous.com^
+||warselanlet.com^
 ||warumbistdusoarm.space^
 ||warwickgph.top^
 ||wary-corner.com^
@@ -109340,6 +109492,7 @@ zylom.com###headerbar_privacy
 ||wholefreshposts.com^$popup
 ||wholewowblog.com^$popup
 ||wholituaten.com^
+||whollyindependentlylooking.com^
 ||whollyneedy.com^
 ||whomcomposescientific.com^
 ||whomsudsikaxu.com^
@@ -109678,6 +109831,7 @@ zylom.com###headerbar_privacy
 ||wombalayah.com^
 ||wombierfloc.com^
 ||wombjingle.com^
+||womerasecocide.com^
 ||woncherish.com^
 ||wonconsists.com^
 ||wonder.xhamster.com^$popup
@@ -110334,6 +110488,7 @@ zylom.com###headerbar_privacy
 ||yakmakhond.top^
 ||yaksgwrkhufex.com^
 ||yallarec.com^
+||yamanaisleepry.com^
 ||yamshikbrucia.top^
 ||yandex.st/share/
 ||yanmaga.jp/viewer/banner.html
@@ -110344,6 +110499,7 @@ zylom.com###headerbar_privacy
 ||yapzoa.xyz^
 ||yardr.net^
 ||yarlnk.com^
+||yarningbursal.com^
 ||yarranpyrope.shop^
 ||yasesumedadele.com^
 ||yashi.com^
@@ -110495,6 +110651,7 @@ zylom.com###headerbar_privacy
 ||yoads.network^$third-party
 ||yoc-adserver.com^
 ||yockingdey.shop^
+||yocksniacins.com^
 ||yodbox.com^$popup
 ||yogapersuasive.com^
 ||yogaprimarilyformation.com^
