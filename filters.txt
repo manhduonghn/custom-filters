@@ -44296,7 +44296,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 404media.co#?#.post__content > p:has-text(This segment is a paid ad)
 404media.co,972mag.com,a-z-animals.com,al-shabaka.org,alexandracooks.com,alhurra.com,android.gs,artscanvas.org,attn.com,bamargera.com,bcg.com,blackagendareport.com,boardingarea.com,bottradionetwork.com,briefly.co.za,broadwayworld.com,chicagomag.com,cityandstateny.com,coincodex.com,coinspeaker.com,cointelegraph.com,cybernews.com,dailyfeed.co.uk,damndelicious.net,defenseone.com,delishknowledge.com,divascancook.com,downshiftology.com,electronicsweekly.com,finews.ch,foxnews.com,freshersworld.com,gadgets360.com,gellerreport.com,gimmesomeoven.com,gotquestions.org,govexec.com,greece-is.com,greenbot.com,healthyseasonalrecipes.com,howsweeteats.com,hpcwire.com,idiallo.com,irishpost.com,jessicainthekitchen.com,jewishinsider.com,kitchentreaty.com,kristineskitchenblog.com,lafiamma.com.au,lindsaypleskot.com,littlespicejar.com,livewellbakeoften.com,luzmedia.co,melskitchencafe.com,messynessychic.com,mouser.com,mpr.org,mumbrella.com.au,mygaming.co.za,nationalpost.com,ndtv.com,newsmaxtv.com,newsthump.com,nextgov.com,noticiabrasil.net.br,notquitenigella.com,player.one,politicsweb.co.za,professionearchitetto.it,rbth.com,realfoodwholelife.com,recipetineats.com,restaurantguru.com,roadbook.com,route-fifty.com,seasonsandsuppers.ca,selenagomez.com,stereogum.com,stream.org,tasteandtellblog.com,ted.com,thechunkychef.com,thehighwire.com,today.ucsd.edu,u24.gov.ua,up.com,venezuelastar.com,viewfromthewing.com,wackymania.com,wttw.com##.subscribe
 407etr.com##.css-jf2s7w
-40gold.de,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,christ-sucht-christ.de,comet-cine-center.de,deskmodder.de,dnca-investments.com,druck-pirmasens.de,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,eden-seefeld.at,enercoop.fr,erzdioezese-wien.at,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,kathpress.at,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pohjanmaan.fi,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ujaen.es,unicef.org,upperaustria.at,valzner-weiher.de,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
+40gold.de,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,christ-sucht-christ.de,comet-cine-center.de,deskmodder.de,dnca-investments.com,druck-pirmasens.de,dundee.ac.uk,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,eden-seefeld.at,enercoop.fr,erzdioezese-wien.at,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,kathpress.at,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pohjanmaan.fi,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ucanr.edu,ujaen.es,unicef.org,upperaustria.at,valzner-weiher.de,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
 40ton.net#@#.td-post-sharing-top
 411mania.com##.banner-homebottom-all
 411mania.com##.widget_sm411_widget
@@ -46275,7 +46275,7 @@ abjav.com,aniporn.com##.left > section
 abjav.com,aniporn.com,bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,pornstarwarshentai.com,porntop.com,xnxx.army##.right
 abjav.com,aniporn.com,bdsmx.tube,upornia.tube##.wrapper > section
 abkarlhedin.se,arsenalen.se,shawbrook.co.uk,tutkit.com###cookie-banner-wrapper
-ablebits.com,actu.epfl.ch,adsimple.at,anfarmag.org.br,augustiner-restaurant.com,aussenrollo.de,bier-universum.*,blenderartists.org,blisprobiotics.co.nz,bund-naturschutz.de,bws.co.at,camid.eu,cc-egov.de,cloud.thermoworks.com,creativehut.com.br,discussion.fedoraproject.org,e-infra.com,ecpe.org,eingutertag.org,eliebleu.com,flurry.com,gardinerbrothers.co.uk,getrawnutrition.com,gg.deals,gilli-food.it,goldammer.me,goldarts.co.uk,goruck.com,heissfenster.com,historicsouthtyrol.com,hotel-waldsee.com,huttersport.com,i2ocr.com,ionos-group.com,janestreet.com,justia.com,kattenberg.nl,khl.ru,krainz-loipersdorf.at,law.cornell.edu,lightningmaps.org,lpderecho.pe,malaysiaairlines.com,mingpao.com,monochrome-watches.com,na-bibb.de,naturefund.de,osasco.sp.gov.br,paulinwatches.com,pcpartpicker.com,perrotin.com,plus.diolinux.com.br,poernbacher.net,pokemmo.com,rebinstitute.com,republicbharat.com,republicworld.com,sarnerholz.com,sarnerstiftung.it,sbenny.com,sdxcentral.com,siebenfoercher.it,starmicronics.com,tann.it,technoalpin.com,tiom.pl,travelok.com,tuxedocomputers.com,webit.org,wham.physics.wisc.edu,wisc.edu,zesty.tech##.cc-window
+ablebits.com,actu.epfl.ch,adsimple.at,anfarmag.org.br,augustiner-restaurant.com,aussenrollo.de,bier-universum.*,blenderartists.org,blisprobiotics.co.nz,bund-naturschutz.de,bws.co.at,camid.eu,cc-egov.de,cloud.thermoworks.com,creativehut.com.br,discussion.fedoraproject.org,e-infra.com,ecpe.org,eingutertag.org,eliebleu.com,flurry.com,gardinerbrothers.co.uk,getrawnutrition.com,gg.deals,gilli-food.it,goldammer.me,goldarts.co.uk,goruck.com,heissfenster.com,historicsouthtyrol.com,hotel-waldsee.com,huttersport.com,i2ocr.com,ionos-group.com,janestreet.com,justia.com,kattenberg.nl,khl.ru,krainz-loipersdorf.at,law.cornell.edu,lightningmaps.org,lpderecho.pe,malaysiaairlines.com,mingpao.com,monochrome-watches.com,na-bibb.de,naturefund.de,osasco.sp.gov.br,paulinwatches.com,pcpartpicker.com,perrotin.com,plus.diolinux.com.br,poernbacher.net,pokemmo.com,rebinstitute.com,republicbharat.com,republicworld.com,sarnerholz.com,sarnerstiftung.it,sbenny.com,sdxcentral.com,siebenfoercher.it,starmicronics.com,sugarsync.com,tann.it,technoalpin.com,tiom.pl,travelok.com,tuxedocomputers.com,webit.org,wham.physics.wisc.edu,wisc.edu,zesty.tech##.cc-window
 ablefy.io###ps-cookie-banner-wrapper
 ablogtowatch.com##.ebay-placement
 abmulderbv.nl,igorski.nl##.cookie-wall
@@ -46464,7 +46464,7 @@ addictivetips.com,coinweek.com,flashbak.com,keqingmains.com,lmanime.com,news365.
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
 additudemag.com##.signup-global
 additudemag.com,organicfacts.net,vinepair.com##.header-ad
-addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,benq.com,casinoscores.com,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
+addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casinoscores.com,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
 addons.opera.com###overlay
 adeam.com#@#.atf-wrapper
 adelaida.ro###barwrap
@@ -46775,7 +46775,7 @@ ahajournals.org,tandfonline.com##.pb-ad
 ahchealthenews.com##.livewell-widget
 ahchealthenews.com##.savicom-subscribe-widget
 aheadofthyme.com##.tasty-recipes-footer-content
-ahjucaf.org,apf-francophonie.org,arp.pl,banquedeluxembourg.com,bayonne.port.fr,bourgogne-wines.com,chablis-wines.com,chartediversite.lu,competence.lu,cyprus-weather.com,diplomatie.gouv.fr,dupuis.com,emrlocal.com,fgirl.ch,forvia.com,guy-hoquet.com,havas.com,his-izz.be,infogreen.lu,inria.fr,ip-paris.fr,kameleoon.com,klepierre.it,klimabuendnis.lu,lechegaza.com,openedition.org,palais.mc,plazario2.com,rosenbauer.com,rsf.org,scoop.it,smeg.mc,space-eye.ch,sprecher-automation.com,tenet.ac.za,tuttonatale.it,uclouvain.be###tarteaucitronRoot
+ahjucaf.org,apf-francophonie.org,arp.pl,banquedeluxembourg.com,bayonne.port.fr,bourgogne-wines.com,campusfrance.org,chablis-wines.com,chartediversite.lu,chequeenergie.gouv.fr,competence.lu,cyprus-weather.com,diplomatie.gouv.fr,dupuis.com,emrlocal.com,fgirl.ch,forvia.com,guy-hoquet.com,havas.com,his-izz.be,infogreen.lu,inria.fr,ip-paris.fr,kameleoon.com,klepierre.it,klimabuendnis.lu,lechegaza.com,openedition.org,palais.mc,plazario2.com,rosenbauer.com,rsf.org,scoop.it,smeg.mc,space-eye.ch,sprecher-automation.com,tenet.ac.za,tuttonatale.it,uclouvain.be###tarteaucitronRoot
 ahotu.com##.modal-window
 ahprofi.cz,akros.cz,aspshop.cz,fiskars-shop.cz,mpmshop.eu,rafoshop.cz,relaxin.cz,yatun.cz###wr-c
 ai-coustics.com,betterstack.com,dr-anns.com,lightyear.one,parallel.life,platoboost.app,vecer.com##.bottom-8
@@ -46830,7 +46830,7 @@ airlinegeeks.com,avweb.com,flyingmag.com,planeandpilotmag.com##.acf-block-newsle
 airlinegeeks.com,avweb.com,flyingmag.com,planeandpilotmag.com##.flyin-article-above-headline
 airlinegeeks.com,avweb.com,flyingmag.com,planeandpilotmag.com##.newsletter-form
 airlinegeeks.com,avweb.com,flyingmag.com,planeandpilotmag.com##.widget_newsletter_subscription
-airlineratings.com,blog.smithsecurity.biz,boo.world,convex.dev,depot.dev,desenio.se,docs.earthly.dev,foodhubforbusiness.com,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,media.halvacard.ru,moises.ai,my.openbb.co,promobit.com.br,pump.fun,remnote.com,shuttle.rs,snead.app,urlcast.io##.bottom-4
+airlineratings.com,blog.smithsecurity.biz,boo.world,convex.dev,depot.dev,desenio.se,docs.earthly.dev,foodhubforbusiness.com,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,media.halvacard.ru,moises.ai,my.openbb.co,promobit.com.br,pump.fun,remnote.com,shuttle.rs,snead.app,thinglink.com,urlcast.io##.bottom-4
 airlinkflightschool.com,apmoller.com,app.houseofcb.com,ilmanifesto.it,lofigirl.com,momentosdealegriace.com.br,predecessorgame.com,wimotic.fr##.bottom-6
 airliquide.com##.js-scroll-down
 airlive.net##.header-alert
@@ -47047,6 +47047,7 @@ allmusic.com##.medium-rectangle
 allmusic.com##.new-release-newsletter-promo-tile
 allmusic.com,india.com##.cookiePolicyBox
 allmusic.com,texasattorneygeneral.gov,theconversation.com,usrtk.org##.promo
+allmyfaves.com##.cookie-consent-banner
 allmyfaves.com,allthetests.com,dailynews.lk,dealsonwheels.co.nz,eth-converter.com,farmtrader.co.nz,freealts.pw,goosegame.io,greatbritishchefs.com,moviesfoundonline.com,pajiba.com,sundayobserver.lk,techconnect.com###banner
 allnews.ge##.scrollUp
 allnewspipeline.com###content > [href]
@@ -47432,7 +47433,7 @@ androidauthority.com##div[class]:has(> .pw-incontent)
 androidauthority.com#?#div[class^="-_"] > form:-abp-contains(newsletters)
 androidauthority.com,soundguys.com##[data-ad-type]
 androidcentral.com##.hawk-multi-model-review-container
-androidcentral.com,gamesradar.com,livescience.com,pcgamer.com,sltrib.com,space.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##.sponsored-card
+androidcentral.com,gamesradar.com,guitarworld.com,livescience.com,pcgamer.com,sltrib.com,space.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##.sponsored-card
 androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
 androidheadlines.com##.newsletter-modal-button
 androidheadlines.com##.push-notification
@@ -49920,7 +49921,7 @@ brighteon.com##[href^="https://support.brighteon.com/"]
 brighteon.com,cruxnow.com##.bottom-banner
 brighteon.com,fashionmodeldirectory.com,naturalnews.com,newstarget.com##.PrivacyNotice
 brighteon.tv###PrivacyNotice
-brightlands.com,cnmc.es,confea.org.br,elbitsystems.com,frequentis.com,gmv.com,gogel.org,iucn.org,iucncongress2025.org,land.nrw,mmkv.cz,nada.org,portdebarcelona.cat,puertos.es,red.es,sagemcom.com,santiagodecompostela.gal,stadtlandwirtschaft.wien,tecnoalarm.com,thecommonwealth.org###cookiesjsr
+brightlands.com,cnmc.es,confea.org.br,elbitsystems.com,frequentis.com,gmv.com,gogel.org,iucn.org,iucncongress2025.org,land.nrw,mmkv.cz,nada.org,portdebarcelona.cat,puertos.es,red.es,sagemcom.com,santiagodecompostela.gal,srce.unizg.hr,stadtlandwirtschaft.wien,tecnoalarm.com,thecommonwealth.org###cookiesjsr
 brightree.com,cgtrader.com,configserverfirewall.com,delo.si,dialight.com,evgo.com,fcc-fac.ca,foreground.com.au,fritchy.com,hilltopads.com,instreamatic.com,keenfootwear.com,medicalxpress.com,mygwork.com,outsideonline.com,pajilleros.com,phys.org,pokemon-trainer.com,revolver.news,snbforums.com,socialmediagirls.com,support.therealnews.com,techxplore.com,thresholdtrailseries.com,ubuntu18.com,vialibri.net,vonmoos-luzern.ch##.notice
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com##.td-banner-wrap-full
 brim.is##.p-6.max-w-sm
@@ -50829,7 +50830,7 @@ checkraka.com##.pdpa-popup
 checkscam.vn##.qh_qcbp
 cheddar.com##.notificationBanner__banner___38gx8
 cheddar.com##.upnext-container
-chedraui.com.mx##.chedrauimx-frontend-applications-4-x-cookiesContainer
+chedraui.com.mx##.chedrauimx-frontend-applications-5-x-cookiesContainer
 chedraui.com.mx##.vtex-store-components-3-x-backToTopButtonContainer
 cheemsporno.com##[class^="Banner_"]
 cheemsporno.com##[class^="PostCard_post-card__adContainer_"]
@@ -50960,7 +50961,7 @@ christiantoday.com,lanacion.com.ar,metroecuador.com.ec##.newsletterbox
 christiesrealestate.com,glutenfreecuppatea.co.uk,guides.wp-bullet.com,publicbooks.org,radioinsight.com,slightnorth.com###text-2
 christinacooks.com##.kadence-conversion-wrap
 chrome-stats.com##div[id*="billboard_responsive"]
-chromehearts.com,nespresso.com,temp-mail.io##.cookie-warning
+chromehearts.com,nahb.org,nespresso.com,temp-mail.io##.cookie-warning
 chromeunboxed.com##.BuyButton
 chromeunboxed.com##.CUPctaBlock
 chromewebstore.google.com##[aria-label="Info"]:has-text(Switch to Chrome)
@@ -52328,6 +52329,7 @@ cybersmart.co.za##.cookie-modal-overlay
 cybervisiontech.com##.Cookies-module--cookie--2ydR3
 cyclemiles.co.uk###messages-cont
 cyclenews.com###pamnew
+cycling74.com##.c74consent_wrapper
 cyclingflash.com###cyclingflash_web_down
 cyclingflash.com###cyclingflash_web_mid_1
 cyclingflash.com###cyclingflash_web_top
@@ -59797,6 +59799,7 @@ landrover.de##.NotificationBar
 landsbankinn.is##.e1vl7zat10
 landsbankinn.is##.envtqys10
 landsbokasafn.is,sh2000.ru,vienormali.it##.info
+landsend.com##.at-gdpr-msg
 landwercafe.co.il##.cookies_modal_container
 lankanewsweb.net##.tdm_block_inline_image
 lanouvellerepublique.fr##.rubedo-block-development
@@ -61847,7 +61850,7 @@ motortrend.com##[data-ad="true"]
 motortrend.com##[data-c="social-share"]
 motortrend.com,mumsnet.com,stocktwits.com##.min-w-\[300px\]
 motortrend.com,officialcharts.com,republicworld.com,w3docs.com,yaledailynews.com##.min-h-\[90px\]
-motphimchillzl.net###catfish_ad_top
+motphimchillzl.org###catfish_ad_top
 motto-jp.com###js-pagetop
 mountain.es###messagebar
 mourant.com##.ar-cookie_redesign
@@ -64244,7 +64247,7 @@ pferdefutter.de###dcCookieHelper--bg
 pfister.ch##.gTHyyR
 pfister.ch##[class^="style__NewsletterPopupComponent"]
 pfr.gov.ru##.user-data-processing-wrapper
-pg11.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
+pg11.ru,pg12.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
 pgatour.com##.css-18v0in8
 pgatour.com##.css-1t41kwh
 phandroid.com##[href^="https://howl.link/"]
@@ -70716,6 +70719,7 @@ unsw.edu.au##.uds-social-follow
 untappd.com##.tos-banner
 untapped.gg##[style*="min-height: 90px; box-sizing: content-box;"]
 unz.com##.button-holder
+uofmhealth.org###cookie-law
 uol.com.br##.blogger-social
 uol.com.br##.jupiter-news-notice
 uol.com.br##.jupiter-share
@@ -70901,7 +70905,7 @@ valsusaoggi.it##.condividipagcatd
 valsusaoggi.it##.condividisottod
 valueaddedresource.net##.c-social-icons
 valueresearchonline.com##.vr-adv-container
-valuexh.life,xhaccess.com,xham.live,xhamster.best,xhamster.com,xhamster.desi,xhamster1.desi,xhamster19.com,xhamster2.com,xhamster3.com,xhamster44.desi,xhamsterlive.com,xhbig.com,xhbranch5.com,xhchannel.com,xhcopy.life,xhdate.world,xhexperience.xyz,xhofficial.com,xhopen.com,xhprograms.site,xhsocial.com,xhspot.com,xhtotal.com,xhwebsite5.com,xhwide2.com##div[class^="cookiesAnnounce-"]
+valuexh.life,xhaccess.com,xham.live,xhamster.best,xhamster.com,xhamster.desi,xhamster1.desi,xhamster19.com,xhamster2.com,xhamster3.com,xhamster44.desi,xhamsterlive.com,xhbig.com,xhbranch5.com,xhchannel.com,xhcopy.life,xhdate.world,xhexperience.xyz,xhfuck.com,xhofficial.com,xhopen.com,xhprograms.site,xhsocial.com,xhspot.com,xhtotal.com,xhvid1.com,xhwebsite5.com,xhwide2.com##div[class^="cookiesAnnounce-"]
 valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
 vanceai.com##.install-app
 vancouverisawesome.com##.widget-wysiwyg
@@ -73266,6 +73270,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||1l2q1noweyzgke1nbv.cfd^
 ||1lbk62l5c.de^
 ||1lj11b2ii.de^
+||1lrwmf3re9hgncu7l6kkqvyijqf.rest^
 ||1lzz.com^$popup
 ||1m72cfole.de^
 ||1mrmsp0ki.de^
@@ -73553,6 +73558,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||2838a86e6c.com^
 ||286608243d.com^
 ||2878644238.com^
+||28a0578796.com^
 ||28c15cf09c.com^
 ||28dafd89fb.com^
 ||28f810077f.com^
@@ -73739,6 +73745,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||33across.com^$third-party
 ||33e70fcb8e.com^
 ||33f5bpcg981t4izk77e1itkrnek.rest^
+||34-new-lambda.net^
 ||34.102.137.201^
 ||34.102.137.201^$popup
 ||342ef7c20e.com^
@@ -74475,8 +74482,10 @@ zzonemanga.co##.relative:has(.fixed)
 ||7nt9p4d4.de^
 ||7ooht8tc3xtukbfl1mni9qopon.cfd^
 ||7p57h86gnt6k7gu1lwcq.cfd^
+||7p5ffgxklzlv4mi.cfd^
 ||7pl3eg6tj1ob6wzb.cyou^
 ||7plus.com.au/js/CookieNotice
+||7qjp23853ovutp.cfd^
 ||7rh3wjf4o5czkicukz.cyou^
 ||7thvyebqhu7956.cfd^
 ||7v6n8qo83l71346kwz4nlq.rest^
@@ -74696,6 +74705,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||94ihw1ex4xotkrj1i3flv.cfd^
 ||95597529.xyz^
 ||9579ae0d4a.com^
+||958r3o41eqvh9x5igwrp2lxfy1w4h.cfd^
 ||95ppq87g.de^
 ||95urbehxy2dh.top^
 ||95urbehxy2dh.top^$popup
@@ -74799,6 +74809,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||9to5terminal.com/push.js
 ||9tp9jd4p.de^
 ||9tumza4dp4o9.com^
+||9v9ypmmf578onvt.cfd^
 ||9vgo2mybb8gi6blfrb.rest^
 ||9wdjf9va.xyz^
 ||9x7ki1mf7jem1l6iexqi.cfd^
@@ -75096,6 +75107,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||absoiltruths.shop^
 ||absoluporn.com/code/script/
 ||absolute-anywhere.pro^
+||absolutedesk.pro^
 ||absolutelycaptivityboutique.com^
 ||absolutelyconfession.com^
 ||absolutepropositionmayonnaise.com^
@@ -76914,6 +76926,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||agraniaunbogbooty.cfd^
 ||agreeableadvantage.pro^
 ||agreeablebeggarlyvarieties.com^
+||agreeablefreedom.pro^
 ||agreeableoccasion.com^
 ||agreedairdalton.com^
 ||agreementdaily.com^
@@ -77071,6 +77084,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||aipoufoomsaz.xyz^
 ||aiqezguzrblsx.online^
 ||aiqidwcfrm.com^
+||aiqowflpg.com^
 ||air2s.com^$third-party
 ||airairgu.com^
 ||airampopsykter.shop^
@@ -77539,6 +77553,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||alterassumeaggravate.com^
 ||alterhimdecorate.com^
 ||alternads.info^$popup
+||alternatewavyrid.com^
 ||alternativecpmgate.com^
 ||alternativecpmgate.com^$popup
 ||altezzamyopy.cyou^
@@ -77783,6 +77798,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||anamaembush.com^
 ||anamuel-careslie.com^
 ||anamuel-careslie.com^$popup
+||anankesfigurer.com^
 ||anapirate.com^
 ||anaquabchsheatful.cyou^
 ||anarchunlash.cyou^
@@ -78120,6 +78136,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||apertsorrowy.help^
 ||apester.com^$third-party
 ||apetalycrazily.cfd^
+||apewirelessdiscard.com^
 ||apex-ad.com^$third-party
 ||apex.live/media/$media
 ||apexneedful.com^
@@ -78370,6 +78387,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||aqruikauvsarq.site^
 ||aqsimcvsjaknx.store^
 ||aqtetrwhcthre.website^
+||aqtfdkdczwtvs.online^
 ||aqua-adserver.com^$third-party
 ||aquentlytujim.com^
 ||aquete.com^$popup
@@ -79440,6 +79458,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||aycrxa.com^
 ||ayctbhlndyarx.space^
 ||aydtfcrhoifaof.net^
+||ayehrzyrbugay.space^
 ||ayfahctcpwkjt.space^
 ||ayfixvgbijkba.online^
 ||ayfsfqjauuzvm.space^
@@ -79656,6 +79675,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bacteriaministry.com^
 ||bacteriapokemoney.com^
 ||baculisloyd.qpon^
+||bacunbegot.qpon^
 ||bacurypredy.com^
 ||bad-charge.pro^
 ||bad-return.pro^
@@ -79768,6 +79788,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bamtinseefta.xyz^
 ||ban.etherscan.com^
 ||banacatella.cfd^
+||bananasadvocate.com^
 ||bananascasketuntrue.com^
 ||bancaleafe.xyz^
 ||bancemrode.cyou^
@@ -80034,6 +80055,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bbinfpwtwdhpw.website^
 ||bbipawjflxpct.site^
 ||bbjqvwbdozgcf.site^
+||bbkelvwuenqayf.com^
 ||bbldvwnlr.com^
 ||bbmecmsuoamxk.space^
 ||bbmknnomcostx.site^
@@ -80342,6 +80364,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||belovedsalesman.com^
 ||belovedset.com^
 ||belovedset.com^$popup
+||belroryomypaf.website^
 ||belsofaugneenso.net^
 ||beltcological.com^
 ||beltenefloit.com^
@@ -80528,6 +80551,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bestonlinecoupons.com^$third-party
 ||bestoreannus.click^
 ||bestovedislimn.cyou^
+||bestowmeasurement.com^
 ||bestowsiege.com^
 ||bestowsmiasm.top^
 ||bestplaceforall.com^$popup
@@ -81779,6 +81803,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bottomsscopola.cyou^
 ||botvwyytbwpdb.site^
 ||boudja.com^
+||bouffonalants.qpon^
 ||bougarbengali.qpon^
 ||bougheddonor.cfd^
 ||bougieshepcats.com^
@@ -81889,6 +81914,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bpigydbzlrszz.online^
 ||bpilzice7rb29c8q7q.rest^
 ||bpleaaekrdvnj.site^
+||bplguggfgslstqm.com^
 ||bpltqydasflff.online^
 ||bpmbhbpmmbndn.online^
 ||bpmfagzlptbxp.site^
@@ -81915,6 +81941,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bqewmkaidecmh.website^
 ||bqgrjfergtrwn.online^
 ||bqgwxqoqjqvbz.online^
+||bqgzwberwwzic.space^
 ||bqifheyrsbgqa.site^
 ||bqifieevbkspk.website^
 ||bqjukucxjhtvm.website^
@@ -82099,6 +82126,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||britishinquisitive.com^
 ||britishinquisitive.com^$popup
 ||britishundrawn.cyou^
+||brittlesnag.com^
 ||brittlesturdyunlovable.com^
 ||brllllantsdates.com^$popup
 ||brmjztcrkqxvs.website^
@@ -82175,6 +82203,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||brrrdispart.cfd^
 ||brrymylzryxdd.site^
 ||brsimg.com/gdpr/$domain=boursorama.com
+||brsizbesdzmle.site^
 ||brthrfkyidygq.online^
 ||brtsumthree.com^
 ||brtwlhfmomcng.site^
@@ -82410,6 +82439,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bultowbrowden.qpon^
 ||bulyiel.com^
 ||bumaqblyqviw.fun^
+||bumblerwaifing.shop^
 ||bumfxnyfnepjh.online^
 ||bumidpuaraodp.today^
 ||bummestkaffir.help^
@@ -82458,6 +82488,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||buoydeparturediscontent.com^$all
 ||bupatp.com^
 ||buphagadsnames.help^
+||bupmqseu.com^
 ||bupsitxa.com^
 ||buqkrzbrucz.com^
 ||buqkrzbrucz.com^$popup
@@ -82751,6 +82782,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||bzj7c38bttvefwklg7.cfd^
 ||bzjwqfbyntiwk.space^
 ||bzjxpfuuqpkzs.club^
+||bzkamslujieuq.site^
 ||bzkuavmjalpoc.online^
 ||bzlnqhuqbwirt.store^
 ||bzmmminfounau.website^
@@ -82799,6 +82831,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||c3j7rk-rtbix.top^
 ||c3j7rk-rtbix.top^$document
 ||c3j7rk-rtbix.top^$popup
+||c3kgctu7b459z1ryt5u.rest^
 ||c3s.bionestraff.pro^
 ||c43a3cd8f99413891.com^$popup
 ||c48eb877a9.com^
@@ -83664,6 +83697,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||cehbmaknzpyic.store^
 ||ceibarheme.cyou^
 ||ceibohan.help^
+||ceighovhnzuri.space^
 ||ceilingcrashpardon.com^
 ||ceitekbqdumsz.website^
 ||cejaswati.com^
@@ -83717,6 +83751,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||centent.slreamplay.cc^
 ||centent.slreamplay.cc^$all
 ||centent.stemplay.cc^$popup
+||centercrock.qpon^
 ||centesmballi.cyou^
 ||centimetrebracketasperity.com^
 ||centralheat.me^$all
@@ -84029,6 +84064,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||cheerpantyhose.com/cds/
 ||cheersdeerpawn.com^
 ||cheersoolrato.net^
+||cheery-grocery.pro^
 ||cheery-orange.pro^
 ||cheery-pain.pro^
 ||cheeryrussets.cyou^
@@ -84503,6 +84539,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ckrf1.com^
 ||ckrf1.com^$popup
 ||ckrosvsppslck.site^
+||ckrpbncuurwlq.website^
 ||cksnhwsmyovnt.online^
 ||ckvhtzcrppkjg.website^
 ||ckvnliuzcqhzy.website^
@@ -84523,6 +84560,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||claimcousins.com^
 ||claimedhawserborty.cfd^
 ||claimexercise.com^
+||claimsthemselves.com^
 ||claireyiddish.qpon^
 ||clambakefreenessunclasp.com^
 ||clamberpkwy.qpon^
@@ -84730,6 +84768,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||clictrck.com^$popup
 ||cliengo.com^$media
 ||client.rigelink.com/delivery/$xmlhttprequest
+||client.salesmartly.com/setting/sounds/
 ||clientslaugh.com^
 ||clifads.com^
 ||cliffgown.com^
@@ -84935,6 +84974,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||cmaxihlabsfpj.website^
 ||cmbestsrv.com^
 ||cmbqnjwjyqzvv.online^
+||cmbtgmurxfqc.com^
 ||cmccymjawtcpd.space^
 ||cmdrogqpxvxtr.online^
 ||cmdtubyfwosoa.online^
@@ -85025,8 +85065,10 @@ zzonemanga.co##.relative:has(.fixed)
 ||cnfxflakkwavih.xyz^
 ||cngcpy.com^$popup
 ||cnicusoxbowtermite.cfd^
+||cnimpsil.com^
 ||cnjikkiehkpea.site^
 ||cnkupkiuvkcq.xyz^
+||cnkwjasokdsaw.online^
 ||cnltkwkhxmdqz.space^
 ||cnmnb.online^
 ||cnnected.org^
@@ -85054,6 +85096,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||cnwafglwlbcro.life^
 ||cnwetuaniiaal.site^
 ||cnxudpbqadnzg.space^
+||cnyaeyytsibjj.space^
 ||cnygczyxvxauc.online^
 ||cnyojprieezzh.store^
 ||cnzfhvdzqxuvk.space^
@@ -85320,6 +85363,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||communicatefriction.com^
 ||communication3x.fun^
 ||comodoseconds.qpon^
+||comontedonned.com^
 ||companiondirectly.com^
 ||companionsignal.com^
 ||comparativehoneycomb.com^
@@ -85577,6 +85621,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||content-row.com^
 ||contentabc.com^
 ||contentabc.com^$popup,third-party
+||contentblanksupersede.com^
 ||contentcave.co.kr^
 ||contentclick.co.uk^
 ||contentcrocodile.com^$popup
@@ -86044,6 +86089,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||cpspbvsmbzdpd.website^
 ||cpsqqqgynbdjv.online^
 ||cpt.geniee.jp^
+||cpubwwactk.xyz^
 ||cpueaimrtggmd.space^
 ||cpuim.com^
 ||cpuzspopetlsg.space^
@@ -86400,6 +86446,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||crudenessfinishersacred.com^
 ||crudletaille.shop^
 ||cruel-love.com^
+||cruel-love.com^$popup
 ||cruiserx.net^
 ||crumberislamic.cfd^
 ||crumblefilchactive.com^
@@ -86900,6 +86947,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||cycuratedhi.com^
 ||cycydhypfiw.com^
 ||cydippespode.help^
+||cydqtotvxtemd.online^
 ||cyeitxjzgsmef.online^
 ||cyetwkoxmijucj.net^
 ||cyeu12yr4gzcv34km.rest^
@@ -88384,6 +88432,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||dcssptrack.com^
 ||dcunkpgzsysvg.website^
 ||dcwnhlzrvnlnj.website^
+||dcwrntnbedcxn.site^
 ||dcwtsqmmogfua.space^
 ||dcxnjdjvurerw.site^
 ||dczhbhtz52fpi.cloudfront.net^
@@ -88801,6 +88850,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||departharpglove.com^
 ||departmentannounced.com^
 ||departurealtar.com^
+||departuregovernessbeech.com^
 ||departuresensitivitylengthen.com^
 ||dependable-gear.pro^
 ||dependableanybody.pro^
@@ -89252,6 +89302,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||dinejav11.fun^
 ||dineproteinhamlet.com^
 ||dineticfulfill.cyou^
+||dingbuckle.com^
 ||dingebeek.com^
 ||dingmotoric.com^
 ||dingpantomimehumidity.com^
@@ -89477,6 +89528,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||disrespectpreceding.com^
 ||disrespectsuffer.com^
 ||disrootsegment.cyou^
+||dissatisfactionfloodingdefiant.com^
 ||dissatisfactionpublicity.com^
 ||dissavadipperlairds.cfd^
 ||dissavepreve.cfd^
@@ -89488,6 +89540,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||distaleplanned.rest^
 ||distancedreamboatstoic.com^
 ||distanceinfirmaryresource.com^
+||distancepatch.com^
 ||distancesets.com^
 ||distancevalidopposition.com^
 ||distantschedule.pro^
@@ -89592,6 +89645,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||djr4k68f8n55o.cloudfront.net^
 ||djrkpoublcswv.store^
 ||djrtrzohpfgmi.site^
+||djsujkvvqykfh.online^
 ||djtdmgwjbq.com^
 ||djtsgzireukxr.online^
 ||djtsrgmx.com^
@@ -89864,6 +89918,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||dodk8rb03jif9.cloudfront.net^
 ||dodomastrow.cfd^
 ||dodonaolona.cyou^
+||doeaefdadhzue.space^
 ||doekasweve.cyou^
 ||doekvivek.qpon^
 ||dof9zd9l290mz.cloudfront.net^
@@ -90018,6 +90073,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||dormantmagueys.top^
 ||dormsdivisa.cyou^
 ||dornickconduce.qpon^
+||dornrusky.com^
 ||dorsalaworrymaroons.qpon^
 ||dorserhypnum.qpon^
 ||dorsulachiplet.com^
@@ -90094,6 +90150,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||dovecyton.com^
 ||dovekieergs.cfd^
 ||dovenniggot.shop^
+||dovishliegier.com^
 ||dovoeqhym.xyz^
 ||dowarmhugo.com^
 ||dowelsup.qpon^
@@ -91165,6 +91222,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||eclunhuzuyoia.store^
 ||eclvgswxvthwx.space^
 ||ecmlevzhgcdwh.online^
+||ecmlqwefwfsd.com^
 ||ecnfkkylfglpl.site^
 ||ecntpxvcdvmsn.website^
 ||ecomsend.com^$third-party
@@ -91300,6 +91358,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||edwrrlvzlqgzk.site^
 ||edxilaprgjxqt.site^
 ||edxmsybbrm.com^
+||edxposbuqbzly.space^
 ||edzktnhleokdlo.com^
 ||edzusegqavqik.store^
 ||ee2b93a3a4.com^
@@ -91567,6 +91626,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||einwilligung.net/app.js
 ||eiohjvvxbbxsxa.xyz^
 ||eiotqjelvrceb.online^
+||eipyzpacymkoq.online^
 ||eiqtorbylietc.online^
 ||eirackupwheel.qpon^
 ||eirxggijnfnto.space^
@@ -91588,6 +91648,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ejepontspwiip.website^
 ||ejevthxywt.com^
 ||ejexgcirsdwvx.online^
+||ejfghurnderio.website^
 ||ejgagatlwtvfc.website^
 ||ejgmkvprpjqww.site^
 ||ejhlcimbpsqwj.site^
@@ -91764,6 +91825,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||elozcdoizevhm.site^
 ||elpais.com.uy/utms.js
 ||elpex.site^
+||elqhgsxjyeouy.online^
 ||elsaidthecharit.com^
 ||elsewhereregret.com^
 ||elshintele.cyou^
@@ -91935,10 +91997,12 @@ zzonemanga.co##.relative:has(.fixed)
 ||emvcujgimb.xyz^
 ||emvhtqdou.com^
 ||emvrxzfbamdjx.site^
+||emvubdtxb.xyz^
 ||emwjliqa.xyz^
 ||emxdgt.com^
 ||emxipsmjhingj.website^
 ||emxmterapyzun.space^
+||emxuzrphihrdl.online^
 ||emydeexcl.help^
 ||emywsmsdyqzne.site^
 ||emzhjhjxhcpoy.space^
@@ -92001,6 +92065,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||endurancesupervision.com^
 ||endurosweekday.com^
 ||endysischlorin.cyou^
+||enedswimmer.shop^
 ||enejmbdsyvwbf.space^
 ||enelslthfenmh.site^
 ||enemasfidate.qpon^
@@ -92080,6 +92145,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||enlightencentury.com^$popup
 ||enlightened-entry.pro^
 ||enlightened-quit.com^
+||enlightened-team.pro^
 ||enlightenedmountain.com^
 ||enlightenelevatorboycott.com^
 ||enlivenindex.com^
@@ -92125,6 +92191,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||enrtx.com^$document
 ||enrtx.com^$popup
 ||ensaidhethisi.org^
+||enseelraws.cyou^
 ||ensientoutsay.qpon^
 ||ensignpancreasrun.com^
 ||enskyburton.cyou^
@@ -92372,6 +92439,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||eradisciplinemomentary.com^
 ||eraditches.cyou^
 ||erafterabigyello.com^
+||erajxzihkylve.online^
 ||eralway.com^
 ||eralway.com^$popup
 ||eramb.site^
@@ -92470,6 +92538,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||erucinundergo.cyou^
 ||eructedjoyhop.life^
 ||erugosjoubert.cfd^
+||eruptsenmity.qpon^
 ||eruwqjlrjs.com^
 ||eruxjtbqruaep.site^
 ||erv9eqigvxl3zp6irmkmpzi4vmp.cfd^
@@ -92589,6 +92658,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||etailtastan.net^
 ||etalageunwept.qpon^
 ||etatismdeary.cyou^
+||etauzbpdwghlu.website^
 ||etbbvbulyhyyo.space^
 ||etbtomrowbmji.website^
 ||etchedpernis.cyou^
@@ -92643,6 +92713,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||etwdpgjsvdqzk.site^
 ||etwiwgnnyouvw.space^
 ||etwmijxejhqrr.site^
+||etxezrqexghpb.site^
 ||etxkzdcyewznp.website^
 ||etxt.biz/data/rotations/
 ||etxt.biz/images/b/
@@ -92914,6 +92985,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||executivehoroscope.com^
 ||exejfbqkavbst.rocks^
 ||exemplary-scratch.pro^
+||exemptgovernorinterdependent.com^
 ||exemptjav128.fun^
 ||exercisepatronize.com^
 ||exertedbostalgaure.cfd^
@@ -92986,6 +93058,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||expeditionbudgetlikely.com^
 ||expelteemperson.com^
 ||expenddelusiondebris.com^
+||expendmeg.com^
 ||expendtaping.com^
 ||expendtheatres.com^
 ||expensiveadoptionevent.com^
@@ -93131,6 +93204,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||eyovtnjvganvj.space^
 ||eyqbpifffccdc.net^
 ||eyqsrrwmvhavp.website^
+||eyqzarsbjscwq.online^
 ||eyrbobble.cfd^
 ||eyrzqduatrhmx.website^
 ||eysltgmwdejxnj.net^
@@ -93440,6 +93514,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||faroffteaching.pro^
 ||faroukwinnow.com^
 ||farphrasedirect.com^
+||farrantchopin.shop^
 ||farrelwaspier.cyou^
 ||farrierastayflinty.cyou^
 ||farriercategoryidentifier.com^
@@ -93631,9 +93706,11 @@ zzonemanga.co##.relative:has(.fixed)
 ||fdewqzozjbjuv.site^
 ||fdfuhymycyhuc.online^
 ||fdglexdsffxug.website^
+||fdiosdpunrytp.site^
 ||fdkox-a.online^
 ||fdlivdwtmju.com^
 ||fdnaylrjswdud.space^
+||fdoccujadxtld.website^
 ||fdoepehritanm.site^
 ||fdolspwa.my^$all
 ||fdpewjpiuxgxp.online^
@@ -93773,6 +93850,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||fentent.stre4mplay.one^
 ||fentent.stre4mplay.one^$popup
 ||feodalwalk.qpon^
+||feova.net^
 ||feoveukrnmento.org^
 ||fepbjqnzphdxz.online^
 ||fepixyjtys.com^
@@ -93963,6 +94041,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||fiannasallee.cyou^
 ||fiascosheeding.qpon^
 ||fiatgrabbed.com^
+||fibaqdriyjxd.com^
 ||fibaulaimpaup.net^
 ||fibbooze.com^
 ||fibredelivery.com^
@@ -94021,6 +94100,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||fiinnancesur.com^$popup
 ||fiizbmjzykchn.website^
 ||fijimtadee.net^
+||fikkepaolyice.online^
 ||fikshvoprcesm.website^
 ||filamentapp-assets.s3.amazonaws.com^$third-party
 ||filamentapp.s3.amazonaws.com^$third-party
@@ -94615,6 +94695,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||fnyfiexpectth.org^
 ||fnyfsnfptvbfj.site^
 ||fnypcuvgop.xyz^
+||fo3u53hw4iok3vrmemrfpjt5p7k.rest^
 ||foacoolaijoad.net^
 ||foaglaid.xyz^
 ||foaloastoajez.net^
@@ -94933,6 +95014,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||fphvvbmvbxcca.website^
 ||fphycqwimelhk.online^
 ||fpkbrrvkpfggn.site^
+||fpkwmzwaflffe.site^
 ||fplaqxdydhluw.site^
 ||fpmcsntitrwpd.space^
 ||fpmlkyxazjqzo.website^
@@ -95261,6 +95343,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||fsalfrwdr.com^
 ||fsbbdiymhh.xyz^
 ||fsbimtflichw.net^
+||fsblbqbphbrsr.online^
 ||fscfdqhlnyewixi.com^
 ||fsdn.com/con/js/sftheme/cmp2.js
 ||fsdzafmzbdyan.store^
@@ -96239,6 +96322,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||gelxxnnzspuwf.site^
 ||gem27irk4q5qyti.rest^
 ||gemanwnnxezww.website^
+||gemelsprofile.cfd^
 ||gemfowls.com^
 ||gemfowls.com^$document
 ||gemfowls.com^$popup
@@ -96258,6 +96342,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||genarchfetting.cfd^
 ||genbalar.com^
 ||gendbkamiggxs.site^
+||gendbxlaquudio.com^
 ||genderorganiccensus.com^
 ||genepiavernal.shop^
 ||generalblue.com/js/pages/shared/lazyads.min.js
@@ -96740,11 +96825,13 @@ zzonemanga.co##.relative:has(.fixed)
 ||gkihrlitlfndl.space^
 ||gkijdvpfpcjy.xyz^
 ||gkiqilinrzqfy.site^
+||gkixhlygxw.com^
 ||gkiymzihcndek.website^
 ||gkjicggvnoabu.website^
 ||gkjzkkbuewngs.online^
 ||gkkbvnxyrhcyv.online^
 ||gkkksbmzhlpnp.site^
+||gkldblkjubeqh.online^
 ||gkmfpcrvzcohn.online^
 ||gkmjovbmwuldf.site^
 ||gknogpqipwvvw.com^
@@ -97077,6 +97164,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||gnoohhqvhmqdr.website^
 ||gnoopaojcmtli.space^
 ||gnorgi.click^
+||gnq5tfc75pkop61u5gv3i3r71n.rest^
 ||gnqzrwjwyjtgy.site^
 ||gnrgjbquvyvml.site^
 ||gnrhougqgjthr.site^
@@ -97459,6 +97547,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||gpuhnwgklkfpq.website^
 ||gpvcziftlqnyl.online^
 ||gpviryfjyadhj.website^
+||gpvpcciezdxlg.online^
 ||gpxmfzexfgnvo.space^
 ||gpxvhjxwncjte.website^
 ||gpyuljehcsmeu.space^
@@ -98136,6 +98225,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||gvipoocgyjjzm.website^
 ||gvkgxtln6l9bintuzhzbftf.rest^
 ||gvkuvskyddnud.website^
+||gvkzosjamnwyr.space^
 ||gvlntdvflisny.space^
 ||gvlswwizgxhfn.site^
 ||gvltrklny.xyz^
@@ -98158,6 +98248,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||gvwutvrqeojir.com^
 ||gvwzokdttbsnj.online^
 ||gvxijtkkssutj.site^
+||gvxlfynvqhpkhey.com^
 ||gvyrxseoqvugu.online^
 ||gwabduqywxher.website^
 ||gwallet.com^
@@ -98531,6 +98622,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||harem69.com.br/img/social.png
 ||haremarianne.com^
 ||haresmodus.com^
+||haricolasses.cyou^
 ||harkedcostly.help^
 ||harkenseringos.cyou^
 ||harmaldeesis.cfd^
@@ -99499,6 +99591,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||hlhuihrzbebkv.one^
 ||hlinit.com^
 ||hlkwshtzpeuma.space^
+||hllggrqlyc.com^
 ||hlmiq.com^
 ||hlobzlwykghmf.website^
 ||hloontleulrrx.site^
@@ -99527,6 +99620,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||hmeqpjky.xyz^
 ||hmgrgrhmtpkqob9guin612b3t.rest^
 ||hmgsnucopfzwv.space^
+||hmhknpnxkwgfw.xyz^
 ||hmicuqbzelzes.site^
 ||hmifsgmfrkquz.online^
 ||hmk9l1kwv5wj716mo.cfd^
@@ -99602,6 +99696,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||hoarishcaucho.cyou^
 ||hoarse-dark.pro^
 ||hoarsecelebrityversus.com^
+||hoarseshopping.pro^
 ||hoasoukoush.net^
 ||hoasvvtyavmbn.store^
 ||hoaveehoos.net^
@@ -99804,6 +99899,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||horagloogremp.net^
 ||horahyee.qpon^
 ||hordeinabramis.cfd^
+||horizoncodeflowsolutions.com^
 ||horizonleathertommy.com^
 ||horizonsunlimited.com/alogos/
 ||horizontallypolluteembroider.com^
@@ -100064,6 +100160,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||hrient.xyz^
 ||hrihqgbkuarzq.online^
 ||hrinnwqjnfwap.online^
+||hrjdhhqxhvi.com^
 ||hrkjgepefndrh.site^
 ||hrknqbbxmyvyo.site^
 ||hrkrchivgjase.online^
@@ -100392,6 +100489,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||hwntbehufghtb.online^
 ||hwocwionv.com^
 ||hwohheta.com^
+||hwoqshyx.com^
 ||hwoqsiyqqina.net^
 ||hwpibmxqcngev.website^
 ||hwpnocpctu.com^
@@ -100625,6 +100723,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||iauvngcowqhzi.online^
 ||iavgecjw.com^
 ||iavlyzijmpe.com^
+||iawznafqfghkm.website^
 ||iaxitnxmakuso.store^
 ||iaykknvyjwaea.site^
 ||iaypoeqfvxfqg.site^
@@ -100860,6 +100959,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||iesqbiyuiiccz.online^
 ||ietwzcakupkfs.store^
 ||ieufkdgnl.com^
+||ieuuihjhggttw.site^
 ||iewixvvsbfkwd.world^
 ||iewjctcinxthi.space^
 ||ieyipznx.art^
@@ -101160,7 +101260,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||image-eu-na-ctnytbefjq.4shares.live/90link/*.mp4$media
 ||image.cdend.com^*.gif$image,domain=rophim.moe
 ||imageadvantage.net^
-||imagedelivery.net^$image,domain=motphimchillzl.net
+||imagedelivery.net^$image,domain=motphimchillzl.org
 ||imagenest.site^
 ||imagepost.com/stuff/
 ||images.dmca.com/Badges/$third-party
@@ -101203,6 +101303,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||imcyeedndbnfy.space^
 ||imdb.com/_json/getads/
 ||imdbtv.amazon.dev/2021-01-01/ads?$domain=imdb.com
+||imdnghcr.com^
 ||imdoacybrkmyx.online^
 ||imdprmebrbbbq.space^
 ||imediaaudiences.com^$third-party
@@ -101221,6 +101322,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||imgbox.com/images/tpd.png
 ||imgcdn.mikelarsenal.pro/images/$image,domain=phimxxx.ai
 ||imgderviches.work/exclusive/bayou_
+||imgdjdpeiczqn.website^
 ||imgdrive.net/a78bc9401d16.js
 ||imgdrive.net/anex/
 ||imgdrive.net/ea/
@@ -101583,6 +101685,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||infantiletransition.com^
 ||infatuated-difference.pro^
 ||infatuatedburn.pro^
+||infdidaxskyet.website^
 ||infectedrepentearl.com^
 ||infectiontuition.com^
 ||infectiousmedia.com^$third-party
@@ -101750,6 +101853,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||insidesoci.al^$third-party
 ||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
 ||insidethegames.live^
+||insidiousdimension.pro^
 ||insightadz.com^
 ||insightexpress.com^
 ||insightexpressai.com^
@@ -102193,6 +102297,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||irritating-brief.pro^
 ||irritating-handle.com^
 ||irritating-side.com^
+||irrnimdjmdcbl.space^
 ||irtearful.help^
 ||irtfmfzzbkjrx.website^
 ||irtya.com^
@@ -102270,6 +102375,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||isotrondumbedwithtee.cfd^
 ||isoualkcjushz.website^
 ||isozvtdtzqefl.website^
+||isqpyocm.com^
 ||isquitehappymut.org^
 ||isquitehappymut.org^$popup
 ||isready2.online^
@@ -102348,6 +102454,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||itponytaa.com^
 ||itponytaa.com^$popup
 ||itpsfqhnjlkwl.space^
+||itqvyxlcgsior.site^
 ||itren.site^
 ||itrex.site^
 ||itrigra.ru^
@@ -102450,6 +102557,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ivpnoffers.com^$popup
 ||ivqkhhsnuhgiu.site^
 ||ivraysated.qpon^
+||ivrzpvmgsoitc.website^
 ||ivstracker.net^
 ||ivumjgplgllj.xyz^
 ||ivutfugefqkim.site^
@@ -102836,6 +102944,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||jbxaijiiblsal.site^
 ||jbxgbdetzfgpn.space^
 ||jbyajwmnljpsy.site^
+||jbzevanishsme.site^
 ||jbzmwqmwqyejw.top^
 ||jbzmwqmwqyzaz.top^
 ||jcajuesjvxlqy.store^
@@ -102850,6 +102959,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||jcilptqursuoi.website^
 ||jciokqknvlfyc.website^
 ||jcmkelvabngzu.site^
+||jcmlbonqinldj.space^
 ||jconceoormurg.online^
 ||jcqsiwmyioxsu.online^
 ||jcqwudfidmevr.online^
@@ -103020,6 +103130,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||jfezwogpa.com^
 ||jffdicjopshin.space^
 ||jfhkvhobpfzoc.website^
+||jfhlakszikfxl.space^
 ||jfhmuymhjaiui.online^
 ||jfhquncaxsh.net^
 ||jfjle4g5l.com^
@@ -103096,6 +103207,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||jhlxmodmknxce.online^
 ||jhmjhgef.net^
 ||jhncmokruwmhd.website^
+||jhngaokfoafsa.site^
 ||jhnwr.com^
 ||jhonuport.com^
 ||jhpgrmboknxjyy.xyz^
@@ -103528,6 +103640,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||jpaojfzimzki.com^
 ||jpbsggqehlopl.online^
 ||jpcjzcrkrugie.online^
+||jpcmcjsglcgtj.online^
 ||jpddnngjhpbme.site^
 ||jpearlhieomrx.online^
 ||jpefmgeuixbzp.space^
@@ -103619,6 +103732,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||jrnoskvqntwhk.site^
 ||jrpkizae.com^
 ||jrpkizae.com^$popup
+||jrqksxcngkjhw.site^
 ||jrqroppxhvbna.site^
 ||jrqthgau.xyz^
 ||jrqzmiipckcvm.website^
@@ -104155,6 +104269,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kalecaneton.shop^
 ||kaleidoscopic-coast.pro^
 ||kaleidoscopic-country.com^
+||kaleidoscopicoffer.pro^
 ||kaleidoscopictouch.com^
 ||kalganscope.com^
 ||kallimaalibamu.qpon^
@@ -104335,6 +104450,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kdnbljfbgheqq.space^
 ||kdnmrypbekbki.online^
 ||kdnnhkwwbjr.net^
+||kdnuquia.com^
 ||kdnvieos.my^$all
 ||kdpitybbkjusx.site^
 ||kdqrmjkug.com^
@@ -104579,6 +104695,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||khihiggle.cfd^
 ||khjhzciukanvw.site^
 ||khlhqwlnesbbm.space^
+||khlrruhndz.com^
 ||khnvaixr.com^
 ||khocclzjcykbk.site^
 ||khojares.cyou^
@@ -104677,6 +104794,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kiomthavsruuk.online^
 ||kiosked.com^$third-party
 ||kioskorchil.qpon^
+||kioymxcefsmgm.site^
 ||kipnjjwvulmy.fun^
 ||kiprotect.com/v1/privacy-managers/
 ||kipteevoloog.net^
@@ -104715,6 +104833,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kitwaxzootzmk.website^
 ||kitz.co.uk/files/jump2/
 ||kiuhisgox.com^
+||kiumqkkamhgeq.online^
 ||kivajwsmoot.com^
 ||kivkmopakxkwo.online^
 ||kivnebwejssep.site^
@@ -104784,6 +104903,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kkojlmidocfxj.space^
 ||kkqlcvwqbajec.website^
 ||kkqwpynurki.com^
+||kkqzszhulstcq.website^
 ||kkrnhplrsaxgb.site^
 ||kksbhdknogzya.website^
 ||kkukhiduvdpln.site^
@@ -104847,6 +104967,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||klutzy-fortune.com^
 ||klutzy-minimum.pro^
 ||klutzyaldolsynaphe.cfd^
+||klvj2bmlxn5bpbh3.cfd^
 ||klwewlfsqakwu.store^
 ||klwlqpefhrfld.website^
 ||klwwhrhlnsyoa.website^
@@ -104890,6 +105011,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kmuedwvaezote.online^
 ||kmurwyixudezb.space^
 ||kmvefthq.xyz^
+||kmvhkbzhfxvn.com^
 ||kmvmp3lnkju1czwpoh276e1u3pjkh3.cfd^
 ||kmwvvjlzrwzbe.space^
 ||kmwzyajvivjuz.space^
@@ -105152,6 +105274,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kqboyauwwixla.space^
 ||kqdmpnqlefncp.site^
 ||kqejazglxkwta.space^
+||kqftc.com^
 ||kqgohxbrqclyo.online^
 ||kqhi97lf.de^
 ||kqhzkvhcafxwn.website^
@@ -105161,6 +105284,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kqlpkabisdvslqa.net^
 ||kqmmlqbuwmksm.store^
 ||kqmrvtdwnnitd.online^
+||kqne68pwzx6oqqn.cfd^
 ||kqntarwfonstf.online^
 ||kqobgodaqdhog.space^
 ||kqocukonqkabm.com^
@@ -105384,6 +105508,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||kvvssepdxgkee.online^
 ||kvvtriyobu.xyz^
 ||kvwibtxllnpfw.space^
+||kvwlsgob.xyz^
 ||kvxjxbrsxhgw.xyz^
 ||kvxzhhrvxjomq.website^
 ||kvyeerabknmjk.store^
@@ -105870,6 +105995,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||lblfcddvvsnbi.website^
 ||lblxdvabeshwj.site^
 ||lbmznmoboxffo.online^
+||lbocf6ffn5ctelc.rest^
 ||lbpodurp.cam^
 ||lbrceeuashhas.net^
 ||lbszsbzuupnoe.online^
@@ -105954,8 +106080,10 @@ zzonemanga.co##.relative:has(.fixed)
 ||ldrtuisabstxa.store^
 ||ldscxvbgahtdh.online^
 ||ldsglxilxmczr.site^
+||ldslobvkvzfwx.online^
 ||lduaehhtvcfvv.online^
 ||ldubnqhe.digital^
+||lducqcvozfdom.website^
 ||lduhtrp.net^
 ||ldvuz.org^
 ||ldxpraldnleje.online^
@@ -106077,6 +106205,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||leggymomme.top^
 ||leghairy.net^
 ||legifersubj.com^
+||legistfetus.com^
 ||legitimatecommon.com^
 ||legitimatedear.pro^
 ||legitimatepoint.pro^
@@ -106253,6 +106382,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||lfrehkm3i363vt4eq8r.cfd^
 ||lfsadhdwvdpj.com^
 ||lfstmedia.com^
+||lftqakrtvhcxdtt.com^
 ||lftqjvpn1uyxhu32bnzygyk.rest^
 ||lfugkipmkgmvd.space^
 ||lfumffnjexbrx.space^
@@ -106266,6 +106396,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||lgaeiqigqojrc.website^
 ||lgahmmjhrmpvv.online^
 ||lgbrzfpysbffud.com^
+||lgdhwyhts.com^
 ||lgdstolfuinmi.world^
 ||lgdsvuwxjbhwz.site^
 ||lgglnedyuhmgk.site^
@@ -106275,9 +106406,11 @@ zzonemanga.co##.relative:has(.fixed)
 ||lgkdxzaslmiai.site^
 ||lgkjgunjzaort.website^
 ||lgklwhhssyxqe.space^
+||lglfxwensmcxoy.com^
 ||lgllejevhxigd.website^
 ||lglxxxadsjocm.website^
 ||lglykwrasnfzn.site^
+||lgmdqqabseoib.website^
 ||lgpdcontrol.com.br^$third-party
 ||lgpdy.com^$third-party
 ||lgpowfiu.com^
@@ -106471,6 +106604,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||likebtn.com^$third-party
 ||likedatings.life^$popup
 ||likedgreetedrape.com^
+||likelihoodhangingbell.com^
 ||likely-black.pro^
 ||likelyguy.com^
 ||likenewvids.online^
@@ -107239,6 +107373,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||lowtyruntor.com^$popup
 ||loxitdat.com^
 ||loxtk.com^
+||loyal-mother.pro^
 ||loyal-sing.pro^
 ||loyalgreen.pro^
 ||loyalpalpatelair.com^
@@ -107469,6 +107604,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||lucrinearraign.com^
 ||lucvqsbzwrjvc.site^
 ||lucwypvpwkafq.site^
+||lucxxgedguznl.space^
 ||ludibrynecklet.qpon^
 ||ludicrousavalancheherald.com^
 ||ludicrousfreshencovering.com^
@@ -107757,6 +107893,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||lyqktmnzhoapj.online^
 ||lyqlmfiyinygz.space^
 ||lyqmpodyvotqjb.com^
+||lyrhnasky.com^
 ||lyricsginger.com^
 ||lyricslocusvaried.com^
 ||lyrurusaztecs.help^
@@ -107918,6 +108055,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||magimg.com/random?$third-party
 ||magmafurnace.top^$popup
 ||magnalesingly.cfd^
+||magnetchidden.qpon^
 ||magnetisemedia.com^$third-party
 ||magnificent-editor.pro^
 ||magnificent-listen.com^
@@ -107948,6 +108086,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||maidauthamezil.net^
 ||maidcontrarypenknife.com^
 ||maideninfected.com^
+||maidinboubous.com^
 ||maidismsnackle.com^
 ||maidr.pro^
 ||maifujoofaitist.net^
@@ -108061,6 +108200,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||mamersbuchite.cfd^
 ||mamiecaky.cyou^
 ||mamluksburion.com^
+||mammawhile.shop^
 ||mammeyssurfuse.cyou^
 ||mammocksambos.com^
 ||mammoth-a.pro^
@@ -108149,6 +108289,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||manytoon.com/script/$script
 ||maocsjbcjljog.online^
 ||maoeoa.xyz^
+||maoistwitneys.cfd^
 ||maormormirandasmirky.qpon^
 ||mapamnni.com^
 ||mapcawing.com^
@@ -108801,6 +108942,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||mepgglfrmfd.xyz^
 ||mepkbonqzmuvl.xyz^
 ||mepuyu.xyz^
+||mepwcwiigixjf.online^
 ||mercenaryslaveryplays.com^
 ||merceralose.qpon^
 ||merchandisevat.com^
@@ -109117,6 +109259,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||milky-silver.pro^
 ||milkygoodness.xyz^
 ||milkymonitor.pro^
+||milkyonrush.cyou^
 ||milkywaynewspaper.com^
 ||milkywonder.pro^
 ||milladvocacyunderstandable.com^
@@ -109157,6 +109300,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||mindedchalcus.cyou^
 ||mindedenhance.com^
 ||mindedonly.com^
+||mindershrimp.com^
 ||mindlesscancel.pro^
 ||mindlesspop.pro^
 ||mindlytix.com^$third-party
@@ -109927,6 +110071,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||mouthesvoicing.cyou^
 ||mouthiwhewha.net^
 ||mouthsnibs.cfd^
+||moutonstumeric.com^
 ||moutonstuppeny.cyou^
 ||movablybkt.cfd^
 ||movad.de^
@@ -110331,6 +110476,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||murmursutta.shop^
 ||murphpatcher.cyou^
 ||murrgraupel.qpon^
+||murshidkloof.cyou^
 ||musangdeposit.qpon^
 ||muscosesoftly.cyou^
 ||musdfsobpobkm.space^
@@ -110363,6 +110509,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||musnudmarlier.rest^
 ||musnuduncased.qpon^
 ||mussedmushaa.cfd^
+||musselmerchant.com^
 ||mussingkashmir.cfd^
 ||mustardbespy.shop^
 ||mustarddutched.qpon^
@@ -110421,6 +110568,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||mvjkyodpnm.com^
 ||mvkntnglfdqoy.site^
 ||mvmbs.com^$popup
+||mvnunbwjvgwef.site^
 ||mvofhqgmfeicz.space^
 ||mvovblzjltyec.online^
 ||mvqwxwnmwhbzb.website^
@@ -110964,6 +111112,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nbrwkwvgiafpk.online^
 ||nbtfiehtgxhvv.site^
 ||nbtuwnheoqmwc.online^
+||nbufdqsxmihqr.website^
 ||nbuipljbiahdp.website^
 ||nbuqsykgcikix.online^
 ||nbvlkenmkihrl.website^
@@ -110994,6 +111143,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nctskfaizblyq.space^
 ||ncyxfrdxpacie.website^
 ||ncz3u7cj2.com^
+||nczneqqnzggfl.site^
 ||ndbgpajoibiqf.space^
 ||ndbign.com^
 ||ndbryaucgaupa.space^
@@ -111108,6 +111258,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nellbeakerconsistency.com^
 ||nellforgery.com^
 ||nelvyvlfyjksw.space^
+||nemansnlssphf.website^
 ||nemosa.co.za/images/mad_ad.png
 ||nemppa.com^
 ||nemppa.com^$popup
@@ -111392,6 +111543,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nfrdibffgpxoy.website^
 ||nfts-opensea.web.app^
 ||nfvetkycvdkaw.life^
+||nfweriushfawt.space^
 ||nfyrucfzdi.com^
 ||ngadverts.com^
 ||ngahkaqwrcemx.store^
@@ -111454,6 +111606,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nhkstivqaqwvz.store^
 ||nhlrspxvdmuea.site^
 ||nhonnlvjebaid.site^
+||nhpirzpjwmsgh.online^
 ||nhpkmzkgadrmm.site^
 ||nhqjiwltuwbqc.website^
 ||nhqkijpqeguuh.store^
@@ -111560,6 +111713,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nillstawney.cfd^
 ||nilroobsoachoa.net^
 ||nimbicanduc.help^
+||nimble-tear.pro^
 ||nimble-way.pro^
 ||nimble-wine.com^
 ||nimblecontest.com^
@@ -111642,6 +111796,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nizpkqpgsenlu.space^
 ||nj2nb3c1q5goi5.rest^
 ||njatwiklklyae.site^
+||njbqihkdxnqrj.site^
 ||njbwqxj34f51jo1.cfd^
 ||njctyixrmclgc.website^
 ||njdapsyolatla.website^
@@ -112058,6 +112213,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||noveltyvirions.com^
 ||novemberadventures.name^
 ||novemberassimilate.com^
+||novemberbore.com^
 ||novemberdismount.com^
 ||novemberinstallsplucky.com^
 ||novibet.partners^
@@ -112144,6 +112300,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nqelooikvxcqw.space^
 ||nqfmjdux.com^
 ||nqfwzphqxjbqo.store^
+||nqgcvvbpfxwbn.website^
 ||nqgokpyktbkbm.space^
 ||nqgtyxoirjynz.website^
 ||nqiccievugptys.com^
@@ -112196,6 +112353,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||nrl.com^*/sponsors/
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
+||nrokfqbblikpd.space^
 ||nrovmibm.com^
 ||nrqihuzvyunel.website^
 ||nrqosslemaknn.site^
@@ -112943,6 +113101,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||odldzgdjzbksz.site^
 ||odlkpuok.com^
 ||odlospxkipf.com^
+||odlpxnvgroltc.online^
 ||odlxepapmasej.website^
 ||odmhljecbnazq.site^
 ||odnaknopka.ru^
@@ -112976,6 +113135,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||oebdkgudbwlvd.space^
 ||oebssdrcxhhyl.website^
 ||oecdupuvlbvjs.space^
+||oecyytskxmoft.space^
 ||oedazrjbdxygw.site^
 ||oefkgdcjhxquc.space^
 ||oegjeeuyatxcm.website^
@@ -113233,6 +113393,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ohtctjiuow.com^
 ||ohtwiqwhxovjlqi8fcb.cfd^
 ||ohufbtzfdzbhz.website^
+||ohufqjcvtgkgy.online^
 ||ohungoumpums.net^
 ||ohvmwffxfhwed.online^
 ||ohvvvmxtyzvix.online^
@@ -113285,6 +113446,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||oizbedpnabrwr.online^
 ||oj.fapnado.xxx^
 ||ojabohrqbzojq.site^
+||ojcdwiwvvpv.com^
 ||ojdcebrmfzcnf.store^
 ||ojddnklpwfjuk.site^
 ||ojeeptopsarsagn.net^
@@ -113943,6 +114105,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||optzrosmobnva.online^
 ||optzsrv.com^
 ||optzsrv.com^$popup
+||opukryckomlox.website^
 ||opulent-agency.pro^
 ||opus-whisky.com^$popup
 ||opvanillishan.com^
@@ -114104,6 +114267,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||orthalresshotfiant.qpon^
 ||orthantisabelartar.cyou^
 ||orthislardonwraple.qpon^
+||orttailing.cyou^
 ||ortuhaxjansbr.store^
 ||ortunitytostara.org^
 ||oruxmvyydrvkr.website^
@@ -114522,6 +114686,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||overtimehauntedcrucial.com^
 ||overtrapinchchan.net^
 ||overture.com^
+||overturnelse.com^
 ||overturnmarshaltowers.com^
 ||overturnspecified.com^
 ||overwetgashes.help^
@@ -115416,6 +115581,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||pdpohrkfxrxrz.website^
 ||pdqzrlfcyihsc.store^
 ||pdrearjakugya.store^
+||pdtghgmtdsypc.space^
 ||pdvacde.com^
 ||pdwdbsfgkxltg.world^
 ||pdwrsrmjjrvvj.space^
@@ -115472,6 +115638,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||peculiargentleman.com^
 ||pedangaishons.com^
 ||peddledteniae.shop^
+||pedetesdorize.cfd^
 ||pedetesspleens.cfd^
 ||pedocaldriller.cfd^
 ||pedxbegjosaew.space^
@@ -116041,6 +116208,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||picinaequinism.cyou^
 ||pickaflick.co^
 ||pickaflick.co^$popup
+||pickedsarcasm.com^
 ||picketgarner.qpon^
 ||pickignoranceattacks.com^
 ||picklereunited.com^
@@ -116302,6 +116470,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||pk910324e.com^$popup
 ||pkahpynblcscu.space^
 ||pkazbknklrjtj.website^
+||pkbgviaskkmdi.website^
 ||pkcetizzgsxtv.online^
 ||pkcetjql.net^
 ||pkcrklqxayaul.website^
@@ -116625,6 +116794,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||pmicpgftoo6qc7b19.cfd^
 ||pmisfoohysory.website^
 ||pmiswxkxztebq.xyz^
+||pmivqlskcrqhn.online^
 ||pmjlllngnazvr.online^
 ||pmkez.tech^
 ||pmkhoopoos.cyou^
@@ -116767,6 +116937,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||pojnejmzcmbyj.online^
 ||pokazuwka.com/popu/
 ||pokdtetqhifzs.website^
+||pokomocolitic.cfd^
 ||pokomoofimbles.cyou^
 ||poktmnpzdfzgc.online^
 ||polackalien.cyou^
@@ -117165,6 +117336,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||powerful-path.pro^
 ||powerfulsensitive.pro^
 ||powerjobs.com^$third-party
+||powerless-total.pro^
 ||powerlinks.com^$third-party
 ||powerplentyseaman.com^
 ||powferads.com^
@@ -117199,6 +117371,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ppeiutpbqegcj.online^
 ||pperkqewlwdgc.space^
 ||pperkvadtvtxk.online^
+||ppevrgdgeekgi.online^
 ||ppewqikecfxrx.online^
 ||ppfbsqhfqzkxk.website^
 ||ppffqlukok.com^
@@ -117566,6 +117739,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||privacy.clion.agency^$third-party
 ||privacy.condenastdigital.com/fides.js
 ||privacy.footmercato.net^
+||privacy.francoisesaget.com^
 ||privacy.heidi.news^
 ||privacy.letemps.ch^
 ||privacy.luxair.lu^
@@ -117818,6 +117992,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||prosiermercian.qpon^
 ||prosilyingles.cyou^
 ||prosishcoining.cfd^
+||prospectprecarious.com^
 ||prospectsirresistible.com^
 ||prosperent.com^
 ||prospermacaroni.com^
@@ -117890,6 +118065,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||prpops.com^
 ||prpops.com^$popup
 ||prqitqorszgwq.site^
+||prqpnnfnyqmvl.website^
 ||prrbmzwmxbbhu.store^
 ||prre.ru^
 ||prrhcnboldoap.site^
@@ -118159,6 +118335,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ptlwmstc.com^
 ||ptmbqrzsbevkh.store^
 ||ptmfcvsgyc.com^
+||ptmfpomkexc.com^
 ||ptmnd.com^
 ||ptnjphvurekdw.space^
 ||ptnmmhicosg.net^
@@ -118371,6 +118548,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||pundumringatu.cfd^
 ||pungent-shift.pro^
 ||pungentobservationwhispering.com^
+||pungentsecretary.pro^
 ||punicbices.cfd^
 ||punishencoder.cfd^
 ||punishgreater.com^
@@ -118660,6 +118838,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||pvnvptqqztg.com^
 ||pvnwfoxrfezes.space^
 ||pvokaqjpntpin.store^
+||pvqbbwhxqzrvv.website^
 ||pvqbhhtmpzlcv.online^
 ||pvrkvosmou.com^
 ||pvtnlmysbeigh.website^
@@ -118919,6 +119098,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||qc.violet.vn^
 ||qcbtygylmnfez.fun^
 ||qcdonicw.com^
+||qcdvlmoliqx.com^
 ||qcennhkrzskze.space^
 ||qcgzvywnvubee.online^
 ||qchmlmtkpbswf.buzz^
@@ -118965,6 +119145,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||qdrpecwgclftz.space^
 ||qdrvxdrws.com^
 ||qdsogzlxcrgtg.space^
+||qdthyitbcjbnx.online^
 ||qdtvdmtrlrelw.space^
 ||qdurzzrmxptvr.online^
 ||qdvdesuqdanwc.store^
@@ -119020,6 +119201,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||qexcxmldbplyl.website^
 ||qexgbnfoetylr.space^
 ||qeyeaglxcfpvi.space^
+||qeziejmszkp.com^
 ||qezodjntkbtah.site^
 ||qf73vcboh6zkutrtx6ohi.cfd^
 ||qfddweieadlud.xyz^
@@ -119118,6 +119300,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||qhurchaisrea.org^
 ||qhxtrmbxmcirh.onlin^
 ||qhxtrmbxmcirh.online^
+||qhyswqgjlojlt.online^
 ||qiaiiaqbzortj.space^
 ||qibiamaqtdu.xyz^
 ||qibjptkwyhudx.site^
@@ -119483,6 +119666,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||qthang.net/js/blocker$script,~third-party
 ||qtjlciojkhkfl.website^
 ||qtjqxpmynsjtg.online^
+||qtlpjjdflbdli.site^
 ||qtmcctlezxmvt.online^
 ||qtnhmmqmoyxzd.space^
 ||qtnljylmjmwpz.website^
@@ -119685,6 +119869,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||quyiucbigjgng.site^
 ||quyxwohgpxsue.online^
 ||qv6xqe6pxvxvjyrg178pjp.cfd^
+||qv9uiu4nn3i446.rest^
 ||qvafkzqojrhbl.online^
 ||qvamqtypgwgp.xyz^
 ||qvbnjnsodshaj.site^
@@ -119848,6 +120033,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||qzrwwchruinnx.space^
 ||qztqjcwpbbttr.store^
 ||qztuqvcdfyphx.store^
+||qzucaozhhgofn.site^
 ||qzvtzfebmeleg.website^
 ||qzwjhehcfsojy.space^
 ||qzwwsvjamjigb.online^
@@ -120310,6 +120496,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||rdxguxcfmjnrk.website^
 ||rdypsjqhrwzeg.website^
 ||rdzjxlizigryv.online^
+||rdzowfkoykkkq.site^
 ||rdzretjctqkcn.site^
 ||re-volver.net/visitor/
 ||reachableads-av.*.amazonaws.com^
@@ -120364,6 +120551,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||realpython.net/tag.js
 ||realreason.pro^
 ||realromanceplace.com^
+||realsdauphin.com^
 ||realsh.xyz^
 ||realsh.xyz^$document
 ||realsh.xyz^$popup
@@ -120644,6 +120832,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||reflagschemer.cyou^
 ||reflecting-seat.pro^
 ||reflectingbunaloud.com^
+||reflectingwing.pro^
 ||refletsipes.cfd^
 ||reflexkashira.cfd^
 ||refloodbirkie.shop^
@@ -120846,6 +121035,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||remorsefulindividual.pro^
 ||remorsefulsympathy.pro^
 ||remorsefulwear.com^
+||remorseoblivionnations.com^
 ||remorsespuggy.qpon^
 ||remorsetrumpet.com^
 ||remote-director.pro^
@@ -120979,6 +121169,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||resentreaccotia.com^$popup
 ||resewsarchwag.help^
 ||reshareabscond.cyou^
+||reshowsshamal.cyou^
 ||residelungful.cfd^
 ||residencechalked.com^
 ||residenceseeingstanding.com^
@@ -121520,6 +121711,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||rjmjflkndiqxw.site^
 ||rjmukquuts.com^
 ||rjmyezxkxapco.website^
+||rjnluyxbedoxl.space^
 ||rjnrddxsxpkwd.site^
 ||rjqwkmcvxsouz.space^
 ||rjqxnscfpzsau.website^
@@ -121529,6 +121721,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||rjsayvndhakyn.online^
 ||rjsdiikketqvt.online^
 ||rjspxvotpvkdz.online^
+||rjtvtede.xyz^
 ||rjtzqgeltwaep.store^
 ||rjubseameyqj.xyz^
 ||rjufuuktyxqqqc.xyz^
@@ -121608,6 +121801,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||rmhfrtnd.com^$document
 ||rmhfrtnd.com^$popup
 ||rmiakxcusv.com^
+||rmiaqvindxuxc.com^
 ||rmilqbspkxtze.online^
 ||rmishe.com^
 ||rmj75lgjbuk8lwrgc5xp4mo8cp.cyou^
@@ -122000,6 +122194,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||royaltystimulatepen.com^
 ||royapp.com^$third-party
 ||roygulonic.help^
+||roynousgigabit.shop^
 ||rozamimo9za10.com^$popup
 ||rp.pl/cmp/
 ||rpazaa.xyz^
@@ -122690,6 +122885,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||safflowlu.top^
 ||safiniinside.cyou^
 ||saflcoofffi.com^
+||safroleboldin.shop^
 ||safsdvc.com^
 ||saftsordes.shop^
 ||sagaciousexceptingrate.com^
@@ -122990,6 +123186,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||sbcevpodyiqis.space^
 ||sbcpower.com^$third-party
 ||sbddbvstmyhrf.site^
+||sbeaujefrgued.space^
 ||sbesuycwcjc.xyz^
 ||sbfoivdnrughq.space^
 ||sbfsdvc.com^
@@ -123094,6 +123291,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||schemeamuse.com^
 ||schemecontinuingwinning.com^
 ||schemylard.qpon^
+||schermjewed.qpon^
 ||scherzocandyh.shop^
 ||schjmp.com^
 ||schmitzdustourvogul.cfd^
@@ -123137,6 +123335,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||scoghold.qpon^
 ||scoldeclipseillusion.com^
 ||scoldedinkhorn.cfd^
+||scoldedleaked.com^
 ||scoldselfemployedlong.com^
 ||scoleyexergue.cyou^
 ||scolocrepower.cfd^
@@ -123613,6 +123812,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||septbajri.com^
 ||septilebenzoic.cyou^
 ||septohaupho.net^
+||septuorgizzen.shop^
 ||seqmfwzsktmuj.site^
 ||sequarieversegued.qpon^
 ||sequelbusbar.cyou^
@@ -124783,6 +124983,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||slthavjtoxjoi.site^
 ||sltjvmiyttffi.space^
 ||sltraffic.com^
+||sltssbtnfnanx.online^
 ||sludgeaiwain.cyou^
 ||sluggedunbeget.top^
 ||slugyukdobvwq.store^
@@ -124942,6 +125143,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||smsapiens.com^
 ||smstools.com/assets/js/cookie-consent-settings.min.js
 ||smudgyaunty.shop^
+||smudsdxglydfu.online^
 ||smugaddress.com^
 ||smuggeralapa.com^
 ||smugglerefreshing.com^
@@ -125351,6 +125553,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||soupybuy.pro^
 ||soupypreference.pro^
 ||soupystick.pro^
+||sourceauditoriumassure.com^
 ||sourcebridgecelestialcomputing.net^
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
@@ -125410,6 +125613,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||spacetraff.com^
 ||spacetraff.com^$popup
 ||spacialtilikumimprint.cfd^
+||spacingbestirs.com^
 ||spackgeranic.shop^$popup
 ||spadedesirablereproduce.com^
 ||spadelack.com^
@@ -125906,6 +126110,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ssrdnoeohalot.online^
 ||ssteeraa.net^
 ||ssteeraa.net^$popup
+||ssujwuqyweztw.website^
 ||ssuserau.qpon^
 ||ssvajgzmqrtxa.online^
 ||sswalesmentb.com^
@@ -125955,6 +126160,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||stagloatsaird.net^
 ||staid-shirt.pro^
 ||staiderkidhood.help^
+||staidlyunhitch.shop^
 ||staiglaugritcho.com^
 ||stailtoomt.net^
 ||staindessadness.com^
@@ -126121,6 +126327,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||stc02bc54661548.cloud.anycastapnic.com^*.gif$image,domain=xem1.gv04.live|xem1.gv05.live|gavangtv11.net
 ||stdirection.com^
 ||stdvklgwhcnht.website^
+||stdwlusgxroc.com^
 ||stdwound.cfd^
 ||steakeffort.com^
 ||steakordeal.com^
@@ -126131,6 +126338,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||stearicvogul.cyou^
 ||stedallthrought.com^
 ||steddlehumpy.qpon^
+||steednasalis.com^
 ||steehouque.net^
 ||steejoxevoust.net^
 ||steel-savings.com^
@@ -126683,6 +126891,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||suitablecondemntin.com^
 ||suitedeatercrutch.com^
 ||suiteenvelopetyran.com^
+||sujiiivmeh.com^
 ||sukasdqgetzq.com^
 ||sukbeingajoytow.org^
 ||sukjdmsazsmuw.space^
@@ -126708,6 +126917,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||summerday.christmas^
 ||summerleftover.com^
 ||summertenons.cyou^
+||summonsrecarry.com^
 ||sumpooloor.net^
 ||sumpopulent.help^
 ||sumptuousmonks.com^
@@ -127049,6 +127259,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||swjobsvvucure.website^
 ||swlbivsjzgxri.rocks^
 ||swlcgrncjyjtt.site^
+||swmswjvdpc.com^
 ||swncdn.com/ads/$domain=christianity.com
 ||swohtiohvqa.com^
 ||swollenbasis.com^
@@ -127102,6 +127313,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||sxneykgtjdmxo.space^
 ||sxnknknfjjupi.online^
 ||sxobqwbiiknjp.website^
+||sxozpjjozfkbe.online^
 ||sxprtoqjwbvuq.website^
 ||sxpuqyltskgxk.website^
 ||sxpxdgtiotoy.com^
@@ -127396,6 +127608,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||tallthirsty.com^
 ||tallwinter.pro^
 ||talonedveldman.rest^
+||talonspentice.cyou^
 ||talroebnwhbif.space^
 ||talusisatin.qpon^
 ||tamableperemptmiombo.qpon^
@@ -127458,6 +127671,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||taprtopcldfard.co^$popup
 ||taprtopcldfb.co^$popup
 ||tapvigai.property^
+||taqezaknkopdw.site^
 ||tararumors.cfd^
 ||tardangro.com^$third-party
 ||targaubs.com^
@@ -127527,6 +127741,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||tatteredpassenger.com^
 ||tatteredperception.pro^
 ||tattiedretched.cyou^
+||tatuasuyippies.cyou^
 ||tatxbrshtjgfs.site^
 ||taughtdefect.com^
 ||taughtloudlydemise.com^
@@ -127554,6 +127769,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||tawk.to/*/audio/
 ||tawneyakhoond.shop^
 ||tawvjbafngwrm.online^
+||taxaffections.com^
 ||taxdifferenceinvestor.com^
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
 ||taximenforwelk.cyou^
@@ -128490,6 +128706,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||tirtoukricmaje.net^
 ||tirwitrelents.cfd^
 ||tisaneata.com^
+||tisaneata.com^$popup
 ||tissoukrookrag.net^
 ||tissuesuaverecite.cyou^
 ||titanads1.com^
@@ -128819,6 +129036,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||tonefuse.com^$third-party
 ||tonemedia.com^
 ||tongabonga.com/nudegirls
+||tonganplunge.com^
 ||tongersenile.qpon^
 ||tongmancheerly.help^
 ||tonicheaviness.com^
@@ -129305,6 +129523,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||trainedbus.com^
 ||trainedwave.pro^
 ||traineewaited.qpon^
+||trainelvasts.qpon^
 ||trainerunpleasantrite.com^
 ||trainspoetry.com^
 ||traitmundifywagging.qpon^
@@ -130096,6 +130315,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||twitterexpend.cyou^
 ||twitveil.com^
 ||twkqusbsxeenc.net^
+||twmwzyznjtaou.website^
 ||twnbtmdkstjlu.space^
 ||twosomedolleystarr.cfd^
 ||twpasol.com^
@@ -130352,6 +130572,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ucurkayp.com^
 ||ucuumhsxenzwq.online^
 ||ucuviuptlbxdl.website^
+||ucvbpodmg.com^
 ||ucvvnpvwpgoxp.space^
 ||ucwkvipzetzxc.space^
 ||ucwtbcluvjjivfn.net^
@@ -130493,6 +130714,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ugxqsbsdsuhqx.website^
 ||ugyokhycezstl.site^
 ||ugyppaqollegn.online^
+||ugzdlvrnoanpo.online^
 ||ugzpfjfnuvywa.site^
 ||uh5p93ia.xyz^
 ||uhakhbbuuqanf.site^
@@ -130536,6 +130758,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||uhyybqukhhmue.site^
 ||ui-widgets.preezie.io/apps/widget/preezie-cta.esm.js
 ||ui02.com^
+||uicdulolvrsii.online^
 ||uicwqcnrr.com^
 ||uidhealth.com^$popup
 ||uidhhiduhkier.space^
@@ -130594,6 +130817,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ujkvzzmbmgvdx.online^
 ||ujlqgbvetzjmf.space^
 ||ujlqnxrgbmtgg.online^
+||ujmbkieuybw.com^
 ||ujnfkyefpvheo.site^
 ||ujo4z4x1cq26uqe.rest^
 ||ujocjvznllpam.site^
@@ -130644,6 +130868,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ukzemydream.com^
 ||ukzeylzjxqvjc.website^
 ||ulamuwhorgalt.net^
+||ulayarzq.com^
 ||ulbackgroundand.com^
 ||ulbackgroundandi.com^
 ||ulbruiqadlmaa.online^
@@ -131052,6 +131277,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||unntvrpwfzluf.store^
 ||unoblotto.net^
 ||unoiledturgors.qpon^
+||unoldswirls.cfd^
 ||unoptedcoupe.top^$popup
 ||unoptedtapuyan.cfd^
 ||unorderstress.shop^
@@ -131162,6 +131388,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||unsungpolicy.com^
 ||unsunpluvian.help^
 ||untackreviler.com^
+||unthawroinish.cyou^
 ||unthornitchy.cyou^
 ||unthxsorevhpz.space^
 ||untidy-camp.pro^
@@ -131186,6 +131413,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||untrustfondak.cyou^
 ||untwirlhider.world^
 ||unuiemfbdkrjl.space^
+||unurcyoeht.com^
 ||unused-roll.com^
 ||unusedframe.com^
 ||unusedgarbage.pro^
@@ -131195,6 +131423,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||unusuallypilgrim.com^
 ||unusualtestoverthrow.com^
 ||unvalidfirth.cfd^
+||unveilsengram.cfd^
 ||unvjcdfyqtexd.store^
 ||unvoicecapsid.cyou^
 ||unwantedkeelaccent.com^
@@ -131500,6 +131729,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||uruguayhyoidesshilluk.cyou^
 ||urulwxikmmaer.space^
 ||urusessoot.qpon^
+||urustmijlgggb.space^
 ||urwbsmyrspycn.online^
 ||urwvphdnwhdzl.site^
 ||urzdgpwphacny.site^
@@ -131508,6 +131738,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||usable-march.pro^
 ||usablenet.com^$third-party
 ||usainoad.net^
+||usajtxtwb.xyz^
 ||usaraexturb.cfd^
 ||usatoday.com/gcdn/ads/
 ||usbrowserspeed.com^
@@ -132033,6 +132264,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vaxednltajoif.space^
 ||vaxjhqfaahmgt.site^
 ||vazypteke.pro^
+||vbb4r3vttftucb5kwtmq979xn.rest^
 ||vbcojhroxkoaf.online^
 ||vbdozzrdqluca.store^
 ||vbjibjsftqxkq.site^
@@ -132042,6 +132274,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vblhskgtetzkp.site^
 ||vblwixpwrrrjh.site^
 ||vbm19x5k96zjjzqwg6xribef.cfd^
+||vbmbdobyxmkgv.online^
 ||vbnmsilenitmanby.info^$popup
 ||vboqftdyp.com^
 ||vbppomvs.com^
@@ -132348,6 +132581,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vflmgdcmnhcim.com^
 ||vflymqnbbdmaf.online^
 ||vfnxqznmwbcee.store^
+||vfookihg.com^
 ||vfpasudskjdiw.space^
 ||vfpdbwwrvkecy.store^
 ||vfqejeazinwis.site^
@@ -132384,6 +132618,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vgjzcwkkyzldp.store^
 ||vgkaszpddsetc.online^
 ||vgkczktpjwypf.space^
+||vgkqk9xwepk3nvtlt9hmlk1.cfd^
 ||vgoawzppsjrff.store^
 ||vgohgpevlamqm.website^
 ||vgooztalndnhs.website^
@@ -132617,6 +132852,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||villainindiscreetnewsletter.com^
 ||villainous-appointment.com^
 ||villainous-end.com^
+||villainousregister.pro^
 ||vilytaku.com^
 ||vilytaku.com^$document
 ||vilytaku.com^$popup
@@ -132884,6 +133120,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vlvsmfjibrzie.space^
 ||vlwjbqqovvugf.site^
 ||vlwqyhgnslfad.space^
+||vlwrncwqf.xyz^
 ||vlxctnusilgeh.site^
 ||vlyby.com^$third-party
 ||vlyossclchubl.space^
@@ -132949,6 +133186,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vnfptydtktoio.online^
 ||vnhmdeyzvmgho.love^
 ||vnhqpkkagysdytx.com^
+||vnipnfcvgobqk.space^
 ||vnjfknqhebwq.com^
 ||vnkzpvmaximaz.website^
 ||vnncpccdpfupq.site^
@@ -133002,6 +133240,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||volatintptr.com^
 ||voldarinis.com^
 ||volegilops.cfd^
+||volentitaboo.cfd^
 ||volform.online^
 ||volform.online^$popup
 ||volingloggias.cyou^
@@ -133110,6 +133349,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vprvfulqiymdpu.com^
 ||vprywtarufvxm.website^
 ||vptbn.com^
+||vptxdbepvlt.com^
 ||vptxmdgwwqotz.store^
 ||vpu988celmpu1w.cfd^
 ||vpuonpcwtjgwe.online^
@@ -133202,6 +133442,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vskuiusgblrdq.website^
 ||vslcqsrpmhhne.net^
 ||vslpnvutywvnb.space^
+||vsnujrdowwhev.site^
 ||vsodzmkzvbhpoq.com^
 ||vsofglbfeiewy.site^
 ||vspjsqxqpttlq.online^
@@ -133341,6 +133582,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||vvxxqpvylixke.store^
 ||vvyffpulokdxe.website^
 ||vvyjeglmc.com^
+||vvyqibaywupjz.site^
 ||vvywmhwrqgrnd.space^
 ||vw3j8eey7ignggeuplzwkx.cfd^
 ||vwaiuzmtfrhzd.space^
@@ -133568,6 +133810,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||waithetomaigrie.net^
 ||wajwfczrrnywp.space^
 ||wakealibis.com^
+||wakersternar.qpon^
 ||wakesblingerbasket.cyou^
 ||wakonbhandar.shop^
 ||wakratgr.com^
@@ -134198,6 +134441,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||wgdgwlczbjaks.space^
 ||wgdmxncvikpcc.fun^
 ||wgexsktozbmrx.online^
+||wgfqayocqadzp.space^
 ||wghaqpnupaxmj.space^
 ||wghfuyzbjgslv.website^
 ||wghoubdaxpsik.site^
@@ -134583,6 +134827,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||wilted-possibility.pro^
 ||wiltedcheck.com^
 ||wiltedmember.pro^
+||wiltedpreference.pro^
 ||wiltingnorman.cfd^
 ||wilucuwzvc88g6vr9c7rr.cfd^
 ||wimpimpatience.com^
@@ -134648,6 +134893,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||wintrifleromantic.com^
 ||winzesmooring.qpon^
 ||winzessolicit.com^
+||wiowjexnwar.com^
 ||wipedcurved.com^
 ||wipedrehabilitation.com^
 ||wipehumorousbeen.com^
@@ -134722,6 +134968,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||wivesaccelerateyielded.com^
 ||wivesvacancycraft.com^
 ||wivosbiq.com^
+||wivvgympunpoc.space^
 ||wixlabs-adsense-v3.uc.r.appspot.com^
 ||wiylioisainmodr.com^
 ||wiyqdatgczefl.space^
@@ -134750,6 +134997,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||wjqpyvulryxtg.site^
 ||wjqtqnstdthrb.website^
 ||wjrjaeaaavckh.site^
+||wjryoolqjgo.com^
 ||wjssammow.com^
 ||wjtdpktsubtui.site^
 ||wjugygvvdouyk.space^
@@ -134825,9 +135073,11 @@ zzonemanga.co##.relative:has(.fixed)
 ||wlmleoeykzsmm.space^
 ||wlmqngmpsyrgj.website^
 ||wlmyvnqbojjnv.site^
+||wlntdfsviqrxs.website^
 ||wlntzdjktaskn.website^
 ||wlpwqszmuwomc.site^
 ||wlqjoijqnazb.com^
+||wltuaqbiervcqwn.xyz^
 ||wluaubbkszhau.online^
 ||wludvhoitiisz.online^
 ||wlv2copkrkiq8qw9tb3j.cfd^
@@ -135276,6 +135526,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||wrpqqnurjtljv.space^
 ||wrqtnouracdei.site^
 ||wrqywyffqfpnf.online^
+||wrreuzbpoctsi.online^
 ||wrsmnqmpopund.net^
 ||wrsmudpyssyshcl.com^
 ||wrufer.com^
@@ -135623,6 +135874,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||x7u1eb3xiyc43t4.rest^
 ||x8o2523lz3fh1pwr8gmku1n5cvox5rjl.rest^
 ||x9425yhqyzqfrpnp8my1rb2xw4.cfd^
+||x9k4iwrh92rkimgztwb1y4fpory.rest^
 ||xa.boozierosmotic.com^
 ||xabgltcxapxim.site^
 ||xabgqnnjywsus.website^
@@ -135700,6 +135952,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||xbscldcctgbzu.space^
 ||xbuggishbecom.org^
 ||xbvlryxpygptr.space^
+||xbvmchqtexbiz.site^
 ||xbwkskazmgbyk.buzz^
 ||xbwwfbiwrujqs.site^
 ||xbxtuzjcujqgg.space^
@@ -135805,6 +136058,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||xeroxcenses.qpon^
 ||xeuateppyqzcu.online^
 ||xeuesswygmuso.site^
+||xexfgywqxmaxv.online^
 ||xexkerkgrfyaf.site^
 ||xf7gtup6lubb3nxuvfu5jfnnu767p9gzjy.cfd^
 ||xf7yqet95ofl351.rest^
@@ -136171,6 +136425,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||xozilla.com/player/html.php$subdocument
 ||xp6wsv4c.xyz^
 ||xpaqbedamuofy.site^
+||xpbpecjegrfnf.space^
 ||xpbrqqmdttbyg.space^
 ||xpcvsyothyvmh.website^
 ||xpe3qcqz.xyz^
@@ -136261,6 +136516,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||xrqiweauoxfwn.site^
 ||xrqmatwxtzorj.online^
 ||xrtb.io^
+||xrtgnrremhq2gwu8u.cfd^
 ||xrtnppzzcmcze.online^
 ||xrvafzjhkivnn.space^
 ||xrvjrchyskdnc.site^
@@ -136339,6 +136595,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||xtremepush.com^$third-party
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^
+||xtrntitvvtjlbq.com^
 ||xtroglobal.com^
 ||xtsbglqvyleeg.website^
 ||xtssglwheeuqk.com^
@@ -136669,6 +136926,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ybimooiyuwigx.site^
 ||ybjgdbcmispbe.store^
 ||ybjolykakvwnh.site^
+||ybjrrhlsmncqy.website^
 ||ybkmmftwzxznb.space^
 ||yblvoxyjzuqrh.space^
 ||yblxmkwldzbnw.website^
@@ -136706,6 +136964,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||yckkscwnnhsnj.space^
 ||yckzwrlrapwbk.site^
 ||ycmksqoykzgyf.website^
+||ycnlvmsuyvhhi.website^
 ||ycntdtbqabtnm.online^
 ||ycoecgqypbqtv.space^
 ||ycorwegybrwrx.space^
@@ -136719,6 +136978,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ycuqsfstnqztg.online^
 ||ycvlvgcuaxtem.website^
 ||ycwaqlnpzlvkw.store^
+||ycwiqqswtfhdv.com^
 ||ycxmejqaafxuh.website^
 ||yczpwjtvggloo.online^
 ||yczuantheoxem.website^
@@ -137280,6 +137540,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||ypulmrwnpxwkz.space^
 ||ypuupdvjvsvrm.website^
 ||ypvibqgydnejr.space^
+||ypvkgakgyurop.website^
 ||ypwcttlciuuzu.online^
 ||ypwhtnnghvhmr.space^
 ||ypwyjfjtiyaca.website^
@@ -137666,6 +137927,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||zasvxdxadipze.website^
 ||zatmisfits.help^
 ||zatnoh.com^
+||zatszynqnherh.site^
 ||zattarelinkman.cyou^
 ||zauphozaucou.net^
 ||zaupoogoopelu.net^
@@ -137796,6 +138058,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||zeguklgrjilli.space^
 ||zehdhcjxiugss.online^
 ||zehnercarafon.cyou^
+||zeiqpeypsvxqr.online^
 ||zeisscoequal.cyou^
 ||zeiyazzlblmvj.space^
 ||zejyoelgljenc.site^
@@ -138121,6 +138384,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||zmebvybqanrfj.website^
 ||zmescience.com/o5aTe4Zbho8.js
 ||zmetgzbibxtpa.site^
+||zmgauvnefckmw.site^
 ||zmgcytqqalkgu.online^
 ||zmhgvuxeohjhl.space^
 ||zmiarjiioqzvm.site^
@@ -138361,6 +138625,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||zswcbalotnicg.online^
 ||ztavitwkredoe.website^
 ||ztbuhwcovpgus.space^
+||ztcbhympqzetq.site^
 ||ztctourupmhin.today^
 ||ztdvnkuiudzmn.site^
 ||ztdwsmfwkezgs.space^
@@ -138505,6 +138770,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||zxttvkshqbded.space^
 ||zxuknfffkemse.space^
 ||zxvhxdpyordan.store^
+||zxvxukirgmomz.site^
 ||zxwrgwncljanq.site^
 ||zxzbjqoyojpza.site^
 ||zyavhhgzkdjfu.space^
@@ -138544,6 +138810,7 @@ zzonemanga.co##.relative:has(.fixed)
 ||zyusywfejzbya.fun^
 ||zyvlvbtnyixyx.online^
 ||zyxbltkkgkmon.site^
+||zyzapldgfoosg.site^
 ||zyzimjopitrvj.online^
 ||zzfikyawmqtmw.website^
 ||zzhlssowvzfds.online^
